@@ -105,19 +105,22 @@ def input_text(href):
     # df1.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/'+"UoC_sample_1"+'.csv',index=False,encoding="utf-8")
     empty_lst.append(single_dict)
     print(single_dict)
-    return single_dict
+    df = pd.DataFrame.from_dict(single_dict, orient="index")
+    return df
 
 # input_text("/partner/expReport.asp?id=15129&page=1&bgbn=R")
 
 def combining_into_csv(file_name):
-    df = pd.read_csv(file_name)
+    initial_df = pd.read_csv(file_name)
+    one_query = initial_df['href'][0]
+    base_df = input_text(one_query)
 
-    for item in df['href']:
+    for item in initial_df['href']:
         print(item)
         print(type(item))
-        single_dict = input_text(item)
-        df = pd.DataFrame
-
+        new_df = input_text(item)
+        base_df = pd.concat([base_df,new_df], axis=1)
+    print(base_df)
 
 combining_into_csv("DK000003.csv")
 
