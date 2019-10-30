@@ -74,7 +74,7 @@ def combining_into_csv(file_name):
     univ_text_df= pd.DataFrame(np.column_stack(stacked_list),
                                columns=["gen_info", "env_info", "food_info", "study_info", "office_info", "facil_info", "mhct_info","help_info","etc_info"])
     print(univ_text_df)
-    univ_text_df.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/'+"2"+'.csv',index=False,encoding="utf-8")
+    univ_text_df.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/'+"3"+'.csv',index=False,encoding="utf-8")
 
 
 combining_into_csv("DK000003.csv")
