@@ -47,7 +47,7 @@ def input_text(href):
     options = webdriver.ChromeOptions()
     options.add_argument('headless')
     driver = webdriver.Chrome(r"C:\Users\pc\Desktop\chromedriver", options=options)
-    driver.implicitly_wait(2) # waiting web source for three seconds implicitly
+    driver.implicitly_wait(1) # waiting web source for three seconds implicitly
     driver.get(review_url)
 
     # selenium body cursor list
@@ -63,7 +63,6 @@ def input_text(href):
 
 # input_text("/partner/expReport.asp?id=15129&page=1&bgbn=R")
 
-
 def combining_into_csv(file_name):
     initial_df = pd.read_csv(file_name)
     stacked_list = []
@@ -71,10 +70,10 @@ def combining_into_csv(file_name):
         print(item)
         text_list = input_text(item)
         stacked_list.append(text_list)
-    univ_text_df= pd.DataFrame(np.column_stack(stacked_list),
+    univ_text_df= pd.DataFrame(np.row_stack(stacked_list),
                                columns=["gen_info", "env_info", "food_info", "study_info", "office_info", "facil_info", "mhct_info","help_info","etc_info"])
     print(univ_text_df)
-    univ_text_df.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/'+"3"+'.csv',index=False,encoding="utf-8")
+    univ_text_df.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/'+file_name+'_text_data.csv',index=False,encoding="utf-8")
 
 
 combining_into_csv("DK000003.csv")
