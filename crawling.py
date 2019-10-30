@@ -58,6 +58,8 @@ def input_text(href):
     for i in body_cursor_list:
         text_list.append(i.text)
 
+    text_list = text_list[1:]
+    """
     # print("교환대학의 크기, 지리적 위치, 기후 등")
     # print(text_list[1])
     gen_info = text_list[1]
@@ -106,21 +108,51 @@ def input_text(href):
     empty_lst.append(single_dict)
     print(single_dict)
     df = pd.DataFrame.from_dict(single_dict, orient="index")
-    return df
+    """
+    return text_list
+
+
 
 # input_text("/partner/expReport.asp?id=15129&page=1&bgbn=R")
 
+
+"""
+single_dict = {
+    "gen_info": [1],
+    "env_info": [2],
+    "food_info": [3],
+    "study_info": [4],
+    "office_info": [5],
+    "facil_info": [6],
+    "mhct_info": [7],
+    "help_info": [8],
+    "etc_info": [9]}
+
+df = pd.DataFrame(single_dict, index = [1,2,3,4,5,6,7,8,9])
+
+print(df.head())
+"""
+
 def combining_into_csv(file_name):
     initial_df = pd.read_csv(file_name)
-    one_query = initial_df['href'][0]
-    base_df = input_text(one_query)
-
+    stacked_list = []
     for item in initial_df['href']:
         print(item)
-        print(type(item))
+        text_list = input_text(item)
+        stacked_list.append(text_list)
+    univ_text_df= pd.DataFrame(np.column_stack(stacked_list),
+                               columns=["gen_info", "env_info", "food_info", "study_info", "office_info", "facil_info", "mhct_info","help_info","etc_info"])
+    print(univ_text_df)
+    univ_text_df.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/'+"2"+'.csv',index=False,encoding="utf-8")
+
+
+    """
         new_df = input_text(item)
         base_df = pd.concat([base_df,new_df], axis=1)
     print(base_df)
+    base_df.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/'+"1"+'.csv',index=False,encoding="utf-8")
+    """
+
 
 combining_into_csv("DK000003.csv")
 
