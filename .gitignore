@@ -1,4 +1,5 @@
 .idea
 *.csv
 *.xlsx
-DK000003.csv
+*.json
+
