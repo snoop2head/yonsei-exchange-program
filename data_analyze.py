@@ -1,4 +1,4 @@
-#-*- coding:utf-8 -*-
+    #-*- coding:utf-8 -*-
 
 import pandas as pd
 from soynlp.tokenizer import RegexTokenizer
@@ -23,3 +23,5 @@ sample_content =basic_info_df[sample_index]
 # print(sample_content)
 tokenized_content = tokenizer.tokenize(sample_content)
 print(tokenized_content)
+
+

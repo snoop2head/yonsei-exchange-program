@@ -32,7 +32,6 @@ def crwl_as_csv(univ_query):
         else:
             print(df)
             break
-
     df_without_index = df.reset_index()
     print(df_without_index)
     df_without_index.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/'+univ_query+'.csv',index=False,encoding="utf-8")
@@ -75,6 +74,11 @@ def combining_into_csv(file_name):
     print(univ_text_df)
     univ_text_df.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/'+file_name+'_text_data.csv',index=False,encoding="utf-8")
 
+def make_file(university_query):
+    crwl_as_csv(university_query)
+    file_name = university_query + ".csv"
+    combining_into_csv(file_name)
 
-combining_into_csv("DK000003.csv")
+
+make_file("US000207")
 
