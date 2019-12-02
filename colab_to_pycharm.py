@@ -7,7 +7,7 @@ from konlpy.tag import Mecab
 print(pd.__version__)
 print(np.__version__)
 
-df = pd.read_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/DK000003.csv_text_data.csv')
+df = pd.read_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/dataf/DK000003.csv_text_data.csv')
 
 print(df.shape)
 

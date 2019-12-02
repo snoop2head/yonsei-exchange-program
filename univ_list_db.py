@@ -60,7 +60,7 @@ def make_con_db():
         df = pd.concat([df, df_crawl],sort=False)
     df_without_index = df.reset_index()
     print(df_without_index)
-    df_without_index.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/univ_db_full.csv',index=False,encoding="utf-8")
+    df_without_index.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/dataf/univ_db_full.csv',index=False,encoding="utf-8")
 
 
 
