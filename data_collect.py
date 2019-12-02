@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import csv
-
+from urllib.parse import urlparse, parse_qs
 
 def crwl_as_csv(univ_query):
     page = 1
@@ -80,5 +80,4 @@ def make_file(university_query):
     combining_into_csv(file_name)
 
 
-make_file("US000207")
 
