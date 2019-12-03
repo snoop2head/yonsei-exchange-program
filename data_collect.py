@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import csv
-from urllib.parse import urlparse, parse_qs
+from urllib.parse import urlparse
 
 def crwl_as_csv(univ_query):
     page = 1
@@ -16,18 +16,10 @@ def crwl_as_csv(univ_query):
         res = requests.get(url)
         soup = BeautifulSoup(res.content,'lxml')
         table = soup.find_all('table')[0]
-        # df = pd.read_html(str(table),encoding='utf-8')
-        # print(table)
         df_crawl = pd.read_html(str(table),encoding='utf-8', header=0)[0]
         df_crawl['href'] = [np.where(tag.has_attr('href'),tag.get('href'),"no link") for tag in table.find_all('a')]
-        # print(df[0].to_json(orient='records')) #this one turns table texts into json
-        # print(df) #this one prints mere table texts
-        # print(df_crawl['href'])
-        # df_to_save = df_crawl['href'] # these are only href parts
-        # print(df.index)
         if not df_crawl.empty:
             page += 1
-            # df1.append(df['href'], ignore_index=True)
             df = pd.concat([df, df_crawl],sort=False)
         else:
             print(df)
@@ -36,22 +28,21 @@ def crwl_as_csv(univ_query):
     print(df_without_index)
     df_without_index.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/dataf/'+univ_query+'.csv',index=False,encoding="utf-8")
 
-# crwl_as_csv("DK000003")
-
 
 def input_text(href):
     empty_lst = []
     review_url = "https://oia.yonsei.ac.kr" + href
-
-    options = webdriver.ChromeOptions()
-    options.add_argument('headless')
-    driver = webdriver.Chrome(r"C:\Users\pc\Desktop\chromedriver", options=options)
-    driver.implicitly_wait(1) # waiting web source for three seconds implicitly
-    driver.get(review_url)
+    res = requests.get(review_url)
+    soup = BeautifulSoup(res.content,'lxml')
+    body_cursor_list = soup.find_all("div", {"class": "exp_txt"})
+    # options = webdriver.ChromeOptions()
+    # options.add_argument('headless')
+    # driver = webdriver.Chrome(r"C:\Users\pc\Desktop\chromedriver", options=options)
+    # driver.implicitly_wait(1) # waiting web source for one second implicitly
+    # driver.get(review_url)
 
     # selenium body cursor list
-    body_cursor_list = driver.find_elements_by_class_name("exp_txt")
-    # print(body_cursor_list)
+    # body_cursor_list = driver.find_elements_by_class_name("exp_txt")
 
     text_list = []
     for i in body_cursor_list:
@@ -62,8 +53,9 @@ def input_text(href):
 
 # input_text("/partner/expReport.asp?id=15129&page=1&bgbn=R")
 
+
 def combining_into_csv(file_name):
-    initial_df = pd.read_csv(file_name)
+    initial_df = pd.read_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/dataf/'+file_name)
     stacked_list = []
     for item in initial_df['href']:
         print(item)
@@ -80,4 +72,19 @@ def make_file(university_query):
     combining_into_csv(file_name)
 
 
+def give_cde_from_url(href):
+    query =urlparse(href)
+    query_list = query.query.split('=')
+    query_list2 = query_list[1].split('&')
+    univ_code = query_list2[0]
+    print(univ_code)
+    return univ_code
+
+def mke_csv_files():
+    df = pd.read_csv('univ_db_final_cont.csv')
+    for href in df['href']:
+        univ_code = give_cde_from_url(href)
+        crwl_as_csv(univ_code)
+        file_name = univ_code + ".csv"
+        combining_into_csv(file_name)
 
