@@ -88,3 +88,4 @@ def mke_csv_files():
         file_name = univ_code + ".csv"
         combining_into_csv(file_name)
 
+mke_csv_files()
