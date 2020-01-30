@@ -1,1 +1,1 @@
-<iframe src="https://drive.google.com/viewerng/viewer?url=http://docs.google.com/fileview?id=1iSXS9UVp0d0J-s2hRVKZGUTWfYOI4-f0&hl=en&pid=explorer&efh=false&a=v&chrome=false&embedded=true" frameborder="0"></iframe>
+<a href="https://github.com/snoop2head/OIA_Text_Wrangling/blob/master/%EC%95%88%EC%98%81%EC%A7%84_2015190122_%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%97%B0%EC%8A%B5_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">Refer to the Project Description PDF .</a>
