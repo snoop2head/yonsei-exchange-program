@@ -6,6 +6,8 @@ authors = ["noopy <young_ahn@yonsei.ac.kr>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+plotnine = "^0.7.0"
+bs4 = "^0.0.1"
 
 [tool.poetry.dev-dependencies]
 
