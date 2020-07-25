@@ -1,5 +1,4 @@
 .idea
-*.csv
 *.xlsx
 *.json
 .python-version

@@ -26,7 +26,7 @@ def crwl_as_csv(univ_query):
             break
     df_without_index = df.reset_index()
     print(df_without_index)
-    df_without_index.to_csv(r'C:/Users/pc/Documents/GitHub/OIA_Text_Wrangling/dataf/'+univ_query+'.csv',index=False,encoding="utf-8")
+    df_without_index.to_csv(r'/Users/noopy/Yonsei_Exchange_Text_Wrangling/'+univ_query+'.csv',index=False,encoding="utf-8")
 
 
 def input_text(href):
