@@ -1,8 +1,12 @@
-# Clustering Yonsei Exchange Universities
+# Yonsei Exchange Universities Analysis
 
 
 
-## Executive Summary
+## Goals
+
+* Clustering university with their provided majors
+* Summarizing reviews for university
+* Sentiment analysis for university
 
 ![image-20200725080203357](./img/image-20200725080203357.png)
 
