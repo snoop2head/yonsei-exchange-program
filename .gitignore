@@ -5,5 +5,5 @@
 /KoBERT_nsmc
 .ipynb_checkpoints
 sort.ipynb
-ratings_text.txt
+ratings_test.txt
 ratings_train.txt
