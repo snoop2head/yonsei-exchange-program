@@ -12,6 +12,19 @@
 
 
 
+## Sentiment Analysis for Foreign Universities
+
+* [Labeling with BERT model trained with NSMC Corpus](./analyze_BERT_nsmc_corpus.ipynb)
+* [Labeling with RNN trained with NSMC Corpus](./analyze_RNN.ipynb)
+
+![bert-labeled](./img/bert-labeled.png)
+
+## Clustering Universities with Majors
+
+* [K-means Clustering with Majors](./cluster_departments.ipynb)
+
+![bert-labeled](./img/k-means.png)
+
 ## Dataset Explanation on [data folder](./data)
 
 Collected using [collect_reviews.ipynb](./collect_reviews.ipynb)
