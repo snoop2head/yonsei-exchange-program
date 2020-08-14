@@ -1,22 +1,22 @@
-,No,제목,학과,과정,년도,href,RNN_SCORE
-0,21,Japan in Today's World,동아시아국제학부,학부,2019,/partner/expReport.asp?id=15837&page=1&bgbn=R,0.5139521360397339
-1,20,후쿠오카에서의 잊지 못할 10개월,영어영문학과,학부,2015-2016,/partner/expReport.asp?id=13368&page=1&bgbn=R,0.8807414174079895
-2,19,Wonderful Experience in JTW!!!,ASD,학부,2014-2015,/partner/expReport.asp?id=11801&page=1&bgbn=R,0.5122702717781067
-3,18,Japan in Today's World,동아시아국제학부,학부,2011-2012,/partner/expReport.asp?id=5747&page=1&bgbn=R,0.5139521360397339
-4,17,JTW (Japan in Today's World,정치외교학과,학부,2010,/partner/expReport.asp?id=4720&page=1&bgbn=R,0.5188660621643066
-5,16,큐슈대학 (ATW) Summer Program,정치외교학과,학부,2010,/partner/expReport.asp?id=4477&page=1&bgbn=R,0.44189029932022095
-6,15,후쿠오카에서의 1년,경영학과,학부,2008-2009,/partner/expReport.asp?id=3889&page=1&bgbn=R,0.731432318687439
-7,14,JTW (Japan in Today's World),경영학과,학부,2009,/partner/expReport.asp?id=3757&page=1&bgbn=R,0.5212031602859497
-8,13,Japan in Today's world,경영학과,학부,2009,/partner/expReport.asp?id=3732&page=1&bgbn=R,0.5139521360397339
-9,12,Japan in Today's World,환경공학과,학부,2008-2009,/partner/expReport.asp?id=3663&page=1&bgbn=R,0.5139521360397339
-10,11,"망설이지 말고 가고 보자,,",기계공학과,학부,2006,/partner/expReport.asp?id=2182&page=2&bgbn=R,0.8560031652450562
-11,10,큐슈대학 파견 보고서,주거환경학과,학부,2006,/partner/expReport.asp?id=2173&page=2&bgbn=R,0.6319026350975037
-12,9,왜 일본인가.,신문방송학과,학부,2005-06,/partner/expReport.asp?id=2111&page=2&bgbn=R,0.1219186782836914
-13,8,큐슈대학에서,법학,학부,2005,/partner/expReport.asp?id=1774&page=2&bgbn=R,0.33270618319511414
-14,7,규슈대학을 다녀와서,,학부,2004,/partner/expReport.asp?id=1520&page=2&bgbn=R,0.6513300538063049
-15,6,경험보고서,생활과학대학,학부,2004-2005,/partner/expReport.asp?id=1490&page=2&bgbn=R,0.7555708289146423
-16,5,규슈대 파견 경험 보고서,법학과,학부,2003-2004,/partner/expReport.asp?id=1240&page=2&bgbn=R,0.6680845022201538
-17,4,2002년 큐슈대학 교환학생 파견보고서,생활과학부,학부,2002,/partner/expReport.asp?id=812&page=2&bgbn=R,0.6089813709259033
-18,3,Kyushu Univ. - 오영민,상경계열,학부,2001,/partner/expReport.asp?id=506&page=2&bgbn=R,0.6147525310516357
-19,2,Kyushu Univ. - 김기원,중어중문학전공,학부,2000-2001,/partner/expReport.asp?id=446&page=2&bgbn=R,0.5122702717781067
-20,1,Kyushu Univ.-김태훈,사회환경시스템공학부,학부,2000-2001,/partner/expReport.asp?id=245&page=3&bgbn=R,0.6324865818023682
+,No,제목,학과,과정,년도,href,BERT_SCORE,RNN_SCORE
+0,21,Japan in Today's World,동아시아국제학부,학부,2019,/partner/expReport.asp?id=15837&page=1&bgbn=R,1,0.5139521360397339
+1,20,후쿠오카에서의 잊지 못할 10개월,영어영문학과,학부,2015-2016,/partner/expReport.asp?id=13368&page=1&bgbn=R,1,0.8807414174079895
+2,19,Wonderful Experience in JTW!!!,ASD,학부,2014-2015,/partner/expReport.asp?id=11801&page=1&bgbn=R,1,0.5122702717781067
+3,18,Japan in Today's World,동아시아국제학부,학부,2011-2012,/partner/expReport.asp?id=5747&page=1&bgbn=R,1,0.5139521360397339
+4,17,JTW (Japan in Today's World,정치외교학과,학부,2010,/partner/expReport.asp?id=4720&page=1&bgbn=R,1,0.5188660621643066
+5,16,큐슈대학 (ATW) Summer Program,정치외교학과,학부,2010,/partner/expReport.asp?id=4477&page=1&bgbn=R,0,0.44189029932022095
+6,15,후쿠오카에서의 1년,경영학과,학부,2008-2009,/partner/expReport.asp?id=3889&page=1&bgbn=R,1,0.731432318687439
+7,14,JTW (Japan in Today's World),경영학과,학부,2009,/partner/expReport.asp?id=3757&page=1&bgbn=R,1,0.5212031602859497
+8,13,Japan in Today's world,경영학과,학부,2009,/partner/expReport.asp?id=3732&page=1&bgbn=R,1,0.5139521360397339
+9,12,Japan in Today's World,환경공학과,학부,2008-2009,/partner/expReport.asp?id=3663&page=1&bgbn=R,1,0.5139521360397339
+10,11,"망설이지 말고 가고 보자,,",기계공학과,학부,2006,/partner/expReport.asp?id=2182&page=2&bgbn=R,0,0.8560031652450562
+11,10,큐슈대학 파견 보고서,주거환경학과,학부,2006,/partner/expReport.asp?id=2173&page=2&bgbn=R,1,0.6319026350975037
+12,9,왜 일본인가.,신문방송학과,학부,2005-06,/partner/expReport.asp?id=2111&page=2&bgbn=R,0,0.1219186782836914
+13,8,큐슈대학에서,법학,학부,2005,/partner/expReport.asp?id=1774&page=2&bgbn=R,1,0.33270618319511414
+14,7,규슈대학을 다녀와서,,학부,2004,/partner/expReport.asp?id=1520&page=2&bgbn=R,0,0.6513300538063049
+15,6,경험보고서,생활과학대학,학부,2004-2005,/partner/expReport.asp?id=1490&page=2&bgbn=R,1,0.7555708289146423
+16,5,규슈대 파견 경험 보고서,법학과,학부,2003-2004,/partner/expReport.asp?id=1240&page=2&bgbn=R,0,0.6680845022201538
+17,4,2002년 큐슈대학 교환학생 파견보고서,생활과학부,학부,2002,/partner/expReport.asp?id=812&page=2&bgbn=R,0,0.6089813709259033
+18,3,Kyushu Univ. - 오영민,상경계열,학부,2001,/partner/expReport.asp?id=506&page=2&bgbn=R,1,0.6147525310516357
+19,2,Kyushu Univ. - 김기원,중어중문학전공,학부,2000-2001,/partner/expReport.asp?id=446&page=2&bgbn=R,0,0.5122702717781067
+20,1,Kyushu Univ.-김태훈,사회환경시스템공학부,학부,2000-2001,/partner/expReport.asp?id=245&page=3&bgbn=R,0,0.6324865818023682

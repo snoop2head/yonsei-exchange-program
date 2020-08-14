@@ -1,21 +1,21 @@
-,No,제목,학과,과정,년도,href,RNN_SCORE
-0,20,행복한 한 학기를 원하신다면,언론홍보영상학부,학부,2018,/partner/expReport.asp?id=16615&page=1&bgbn=R,0.8656350374221802
-1,19,La dolce vita,사회복지학과,학부,2019,/partner/expReport.asp?id=16217&page=1&bgbn=R,0.515648603439331
-2,18,Eternal city,경영학과,학부,2018-2019,/partner/expReport.asp?id=15971&page=1&bgbn=R,0.5230967998504639
-3,17,Caput Mundi,정치외교학과,학부,2019,/partner/expReport.asp?id=15663&page=1&bgbn=R,0.5230967998504639
-4,16,Pax Romana,정치외교학과,학부,2017,/partner/expReport.asp?id=14596&page=1&bgbn=R,0.5230967998504639
-5,15,로마에서의 아름다운 6개월!,의류환경학과,학부,2017,/partner/expReport.asp?id=14585&page=1&bgbn=R,0.7985608577728271
-6,14,로마에서의 한 학기,경제학과,학부,2017,/partner/expReport.asp?id=14558&page=1&bgbn=R,0.6900957226753235
-7,13,로마,응용통계학과,학부,2017,/partner/expReport.asp?id=14516&page=1&bgbn=R,0.4967648983001709
-8,12,교환학생 경험 보고서,경영학과,학부,2015,/partner/expReport.asp?id=14240&page=1&bgbn=R,0.6901764869689941
-9,11,로마,생명공학과,학부,2017,/partner/expReport.asp?id=14165&page=1&bgbn=R,0.4967648983001709
-10,10,로마에서의 한학기,경영학과,학부,2017,/partner/expReport.asp?id=14149&page=2&bgbn=R,0.6900957226753235
-11,9,아름다웠던 나의 교환학생경험,경영학과,학부,2015,/partner/expReport.asp?id=13935&page=2&bgbn=R,0.8816756010055542
-12,8,교환학생 보고서 (디테일),국제대 ISED,학부,2016,/partner/expReport.asp?id=13471&page=2&bgbn=R,0.784075140953064
-13,7,아름다웠던 교환학생 과정,문화인류학과,학부,2015-2016,/partner/expReport.asp?id=13222&page=2&bgbn=R,0.7952478528022766
-14,6,로마,경영학과,학부,2014,/partner/expReport.asp?id=12273&page=2&bgbn=R,0.4967648983001709
-15,5,잊지 못할 로마 생활,철학과,학부,2014,/partner/expReport.asp?id=12264&page=2&bgbn=R,0.8124198317527771
-16,4,교환학생 경험보고서,경영학과,학부,2013~2014,/partner/expReport.asp?id=7227&page=2&bgbn=R,0.6901764869689941
-17,3,교환학생 파견보고서,경제학과,학부,2013-2,/partner/expReport.asp?id=6961&page=2&bgbn=R,0.681797981262207
-18,2,로마에서의 한학기,경영학과,학부,2013,/partner/expReport.asp?id=6623&page=2&bgbn=R,0.6900957226753235
-19,1,교환학생 경험보고서,경영학과,학부,2012-2013,/partner/expReport.asp?id=6622&page=2&bgbn=R,0.6901764869689941
+,No,제목,학과,과정,년도,href,BERT_SCORE,RNN_SCORE
+0,20,행복한 한 학기를 원하신다면,언론홍보영상학부,학부,2018,/partner/expReport.asp?id=16615&page=1&bgbn=R,1,0.8656350374221802
+1,19,La dolce vita,사회복지학과,학부,2019,/partner/expReport.asp?id=16217&page=1&bgbn=R,1,0.515648603439331
+2,18,Eternal city,경영학과,학부,2018-2019,/partner/expReport.asp?id=15971&page=1&bgbn=R,0,0.5230967998504639
+3,17,Caput Mundi,정치외교학과,학부,2019,/partner/expReport.asp?id=15663&page=1&bgbn=R,1,0.5230967998504639
+4,16,Pax Romana,정치외교학과,학부,2017,/partner/expReport.asp?id=14596&page=1&bgbn=R,1,0.5230967998504639
+5,15,로마에서의 아름다운 6개월!,의류환경학과,학부,2017,/partner/expReport.asp?id=14585&page=1&bgbn=R,1,0.7985608577728271
+6,14,로마에서의 한 학기,경제학과,학부,2017,/partner/expReport.asp?id=14558&page=1&bgbn=R,1,0.6900957226753235
+7,13,로마,응용통계학과,학부,2017,/partner/expReport.asp?id=14516&page=1&bgbn=R,0,0.4967648983001709
+8,12,교환학생 경험 보고서,경영학과,학부,2015,/partner/expReport.asp?id=14240&page=1&bgbn=R,0,0.6901764869689941
+9,11,로마,생명공학과,학부,2017,/partner/expReport.asp?id=14165&page=1&bgbn=R,0,0.4967648983001709
+10,10,로마에서의 한학기,경영학과,학부,2017,/partner/expReport.asp?id=14149&page=2&bgbn=R,1,0.6900957226753235
+11,9,아름다웠던 나의 교환학생경험,경영학과,학부,2015,/partner/expReport.asp?id=13935&page=2&bgbn=R,1,0.8816756010055542
+12,8,교환학생 보고서 (디테일),국제대 ISED,학부,2016,/partner/expReport.asp?id=13471&page=2&bgbn=R,0,0.784075140953064
+13,7,아름다웠던 교환학생 과정,문화인류학과,학부,2015-2016,/partner/expReport.asp?id=13222&page=2&bgbn=R,1,0.7952478528022766
+14,6,로마,경영학과,학부,2014,/partner/expReport.asp?id=12273&page=2&bgbn=R,0,0.4967648983001709
+15,5,잊지 못할 로마 생활,철학과,학부,2014,/partner/expReport.asp?id=12264&page=2&bgbn=R,0,0.8124198317527771
+16,4,교환학생 경험보고서,경영학과,학부,2013~2014,/partner/expReport.asp?id=7227&page=2&bgbn=R,0,0.6901764869689941
+17,3,교환학생 파견보고서,경제학과,학부,2013-2,/partner/expReport.asp?id=6961&page=2&bgbn=R,0,0.681797981262207
+18,2,로마에서의 한학기,경영학과,학부,2013,/partner/expReport.asp?id=6623&page=2&bgbn=R,1,0.6900957226753235
+19,1,교환학생 경험보고서,경영학과,학부,2012-2013,/partner/expReport.asp?id=6622&page=2&bgbn=R,0,0.6901764869689941

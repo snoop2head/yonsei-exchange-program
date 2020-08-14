@@ -1,17 +1,17 @@
-,No,제목,학과,과정,년도,href,RNN_SCORE
-0,16,biola 교환학생 경험보고서,경영학과,학부,2016,/partner/expReport.asp?id=13806&page=1&bgbn=R,0.6680845022201538
-1,15,잊지 못할 한 학기,행정,학부,2016,/partner/expReport.asp?id=13635&page=1&bgbn=R,0.8669974207878113
-2,14,한여름 밤의 꿈같았던 Biola에서의 한학기,영어영문,학부,2016,/partner/expReport.asp?id=13299&page=1&bgbn=R,0.8943819999694824
-3,13,Biola에서의 소중한 한 학기,대기과학과,학부,2,/partner/expReport.asp?id=12954&page=1&bgbn=R,0.8446583151817322
-4,12,biola에서의 한학기,생명공학,학부,2015,/partner/expReport.asp?id=12512&page=1&bgbn=R,0.731432318687439
-5,11,Biola에서의 한 학기,생명공학,학부,2015,/partner/expReport.asp?id=12465&page=1&bgbn=R,0.731432318687439
-6,10,소중한 시간을 준 Biola,경제학과,학부,2015,/partner/expReport.asp?id=12411&page=1&bgbn=R,0.616798996925354
-7,9,너무나도 값진 경험이었던 1년,아동가족학과,학부,2014-2015,/partner/expReport.asp?id=12323&page=1&bgbn=R,0.9418438673019409
-8,8,"잊지 못할, 잊을 수 없는 값진 경험",경제학과,학부,2014,/partner/expReport.asp?id=7529&page=1&bgbn=R,0.966936469078064
-9,7,잊을수 없는 1년,생물학과,학부,2008,/partner/expReport.asp?id=3734&page=1&bgbn=R,0.8781890869140625
-10,6,최고의 선택 Biola - 김준유,생명과학,학부,2008,/partner/expReport.asp?id=3558&page=2&bgbn=R,0.9574294090270996
-11,5,"조금은 특이한 미국 대학교, BIOLA university",경영학과,학부,2007,/partner/expReport.asp?id=3028&page=2&bgbn=R,0.7773521542549133
-12,4,Biola Univ.,교육/영어영문학,학부,2006-2007,/partner/expReport.asp?id=2704&page=2&bgbn=R,0.515648603439331
-13,3,Biola Univ.-김대신,영어영문학전공,학부,1999-2000,/partner/expReport.asp?id=170&page=2&bgbn=R,0.285991370677948
-14,2,Biola Univ.-박상희,심리학전공,학부,1999-2000,/partner/expReport.asp?id=157&page=2&bgbn=R,0.5123575925827026
-15,1,Biola Univ.-신무창,기계전자공학부,학부,1998-1999,/partner/expReport.asp?id=46&page=2&bgbn=R,0.5878448486328125
+,No,제목,학과,과정,년도,href,BERT_SCORE,RNN_SCORE
+0,16,biola 교환학생 경험보고서,경영학과,학부,2016,/partner/expReport.asp?id=13806&page=1&bgbn=R,0,0.6680845022201538
+1,15,잊지 못할 한 학기,행정,학부,2016,/partner/expReport.asp?id=13635&page=1&bgbn=R,1,0.8669974207878113
+2,14,한여름 밤의 꿈같았던 Biola에서의 한학기,영어영문,학부,2016,/partner/expReport.asp?id=13299&page=1&bgbn=R,1,0.8943819999694824
+3,13,Biola에서의 소중한 한 학기,대기과학과,학부,2,/partner/expReport.asp?id=12954&page=1&bgbn=R,1,0.8446583151817322
+4,12,biola에서의 한학기,생명공학,학부,2015,/partner/expReport.asp?id=12512&page=1&bgbn=R,1,0.731432318687439
+5,11,Biola에서의 한 학기,생명공학,학부,2015,/partner/expReport.asp?id=12465&page=1&bgbn=R,1,0.731432318687439
+6,10,소중한 시간을 준 Biola,경제학과,학부,2015,/partner/expReport.asp?id=12411&page=1&bgbn=R,1,0.616798996925354
+7,9,너무나도 값진 경험이었던 1년,아동가족학과,학부,2014-2015,/partner/expReport.asp?id=12323&page=1&bgbn=R,1,0.9418438673019409
+8,8,"잊지 못할, 잊을 수 없는 값진 경험",경제학과,학부,2014,/partner/expReport.asp?id=7529&page=1&bgbn=R,1,0.966936469078064
+9,7,잊을수 없는 1년,생물학과,학부,2008,/partner/expReport.asp?id=3734&page=1&bgbn=R,0,0.8781890869140625
+10,6,최고의 선택 Biola - 김준유,생명과학,학부,2008,/partner/expReport.asp?id=3558&page=2&bgbn=R,1,0.9574294090270996
+11,5,"조금은 특이한 미국 대학교, BIOLA university",경영학과,학부,2007,/partner/expReport.asp?id=3028&page=2&bgbn=R,1,0.7773521542549133
+12,4,Biola Univ.,교육/영어영문학,학부,2006-2007,/partner/expReport.asp?id=2704&page=2&bgbn=R,1,0.515648603439331
+13,3,Biola Univ.-김대신,영어영문학전공,학부,1999-2000,/partner/expReport.asp?id=170&page=2&bgbn=R,1,0.285991370677948
+14,2,Biola Univ.-박상희,심리학전공,학부,1999-2000,/partner/expReport.asp?id=157&page=2&bgbn=R,1,0.5123575925827026
+15,1,Biola Univ.-신무창,기계전자공학부,학부,1998-1999,/partner/expReport.asp?id=46&page=2&bgbn=R,1,0.5878448486328125

@@ -1,7 +1,7 @@
-,No,제목,학과,과정,년도,href,RNN_SCORE
-0,6,Christopher Newport Univ. - 송재희,경영학전공,학부,2001,/partner/expReport.asp?id=419&page=1&bgbn=R,0.5139521360397339
-1,5,Christopher Newport Univ.-손성민,신문방송학과,학부,2000-2001,/partner/expReport.asp?id=287&page=1&bgbn=R,0.5122702717781067
-2,4,Christopher Newport Univ.-김현배,경제학전공,학부,2000,/partner/expReport.asp?id=238&page=1&bgbn=R,0.5122702717781067
-3,3,Christopher Newport Univ.-안수연,상경계열,학부,1999-2000,/partner/expReport.asp?id=167&page=1&bgbn=R,0.4258712828159332
-4,2,Christopher Newport Univ.-서은실,신문방송학과,학부,1999-2000,/partner/expReport.asp?id=158&page=1&bgbn=R,0.49586355686187744
-5,1,Christopher Newport Univ.-정택균,영어영문학전공,학부,1998-1999,/partner/expReport.asp?id=73&page=1&bgbn=R,0.5872057676315308
+,No,제목,학과,과정,년도,href,BERT_SCORE,RNN_SCORE
+0,6,Christopher Newport Univ. - 송재희,경영학전공,학부,2001,/partner/expReport.asp?id=419&page=1&bgbn=R,1,0.5139521360397339
+1,5,Christopher Newport Univ.-손성민,신문방송학과,학부,2000-2001,/partner/expReport.asp?id=287&page=1&bgbn=R,1,0.5122702717781067
+2,4,Christopher Newport Univ.-김현배,경제학전공,학부,2000,/partner/expReport.asp?id=238&page=1&bgbn=R,1,0.5122702717781067
+3,3,Christopher Newport Univ.-안수연,상경계열,학부,1999-2000,/partner/expReport.asp?id=167&page=1&bgbn=R,1,0.4258712828159332
+4,2,Christopher Newport Univ.-서은실,신문방송학과,학부,1999-2000,/partner/expReport.asp?id=158&page=1&bgbn=R,1,0.49586355686187744
+5,1,Christopher Newport Univ.-정택균,영어영문학전공,학부,1998-1999,/partner/expReport.asp?id=73&page=1&bgbn=R,0,0.5872057676315308

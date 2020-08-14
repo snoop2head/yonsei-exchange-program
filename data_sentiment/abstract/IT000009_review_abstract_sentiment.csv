@@ -1,4 +1,4 @@
-,No,제목,학과,과정,년도,href,RNN_SCORE
-0,3,베니스 생활 보고서,문화인류학과,학부,2020,/partner/expReport.asp?id=16661&page=1&bgbn=R,0.5466976165771484
-1,2,인생에 다시 없을 추억,아시아학,학부,2019,/partner/expReport.asp?id=16038&page=1&bgbn=R,0.8870205879211426
-2,1,거짓말처럼 아름다운 교환학생 생활을 하고싶다면 | 카포스카리 대학교 경험보고서,문헌정보학과,학부,2018,/partner/expReport.asp?id=15511&page=1&bgbn=R,0.8909064531326294
+,No,제목,학과,과정,년도,href,BERT_SCORE,RNN_SCORE
+0,3,베니스 생활 보고서,문화인류학과,학부,2020,/partner/expReport.asp?id=16661&page=1&bgbn=R,0,0.5466976165771484
+1,2,인생에 다시 없을 추억,아시아학,학부,2019,/partner/expReport.asp?id=16038&page=1&bgbn=R,1,0.8870205879211426
+2,1,거짓말처럼 아름다운 교환학생 생활을 하고싶다면 | 카포스카리 대학교 경험보고서,문헌정보학과,학부,2018,/partner/expReport.asp?id=15511&page=1&bgbn=R,0,0.8909064531326294

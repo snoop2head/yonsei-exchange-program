@@ -1,3 +1,3 @@
-,No,제목,학과,과정,년도,href,RNN_SCORE
-0,2,값진 경험들,문헌정보학전공,학부,2004,/partner/expReport.asp?id=1402&page=1&bgbn=R,0.8596792221069336
-1,1,내 자신에 좀 더 가까이,경영학전공,학부,2003-2004,/partner/expReport.asp?id=1251&page=1&bgbn=R,0.6572023630142212
+,No,제목,학과,과정,년도,href,BERT_SCORE,RNN_SCORE
+0,2,값진 경험들,문헌정보학전공,학부,2004,/partner/expReport.asp?id=1402&page=1&bgbn=R,0,0.8596792221069336
+1,1,내 자신에 좀 더 가까이,경영학전공,학부,2003-2004,/partner/expReport.asp?id=1251&page=1&bgbn=R,1,0.6572023630142212

@@ -1,2 +1,2 @@
-,No,제목,학과,과정,년도,href,RNN_SCORE
-0,1,Clemson Univ. - 이인원,영어영문학전공,학부,1999,/partner/expReport.asp?id=618&page=1&bgbn=R,0.41385263204574585
+,No,제목,학과,과정,년도,href,BERT_SCORE,RNN_SCORE
+0,1,Clemson Univ. - 이인원,영어영문학전공,학부,1999,/partner/expReport.asp?id=618&page=1&bgbn=R,1,0.41385263204574585

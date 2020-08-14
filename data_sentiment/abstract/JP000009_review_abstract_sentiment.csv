@@ -1,2 +1,2 @@
-,No,제목,학과,과정,년도,href,RNN_SCORE
-0,1,경험보고서,국제학대학원,대학원,2003,/partner/expReport.asp?id=1034&page=1&bgbn=R,0.7555708289146423
+,No,제목,학과,과정,년도,href,BERT_SCORE,RNN_SCORE
+0,1,경험보고서,국제학대학원,대학원,2003,/partner/expReport.asp?id=1034&page=1&bgbn=R,1,0.7555708289146423

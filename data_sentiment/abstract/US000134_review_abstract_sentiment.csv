@@ -1,3 +1,3 @@
-,No,제목,학과,과정,년도,href,RNN_SCORE
-0,2,KELLOGG - It was just AWESOME!!!,경영학과,대학원,2010,/partner/expReport.asp?id=4658&page=1&bgbn=R,0.5163494348526001
-1,1,Challenging but Worthwhile,국제경영,대학원,2009,/partner/expReport.asp?id=3944&page=1&bgbn=R,0.515648603439331
+,No,제목,학과,과정,년도,href,BERT_SCORE,RNN_SCORE
+0,2,KELLOGG - It was just AWESOME!!!,경영학과,대학원,2010,/partner/expReport.asp?id=4658&page=1&bgbn=R,1,0.5163494348526001
+1,1,Challenging but Worthwhile,국제경영,대학원,2009,/partner/expReport.asp?id=3944&page=1&bgbn=R,1,0.515648603439331

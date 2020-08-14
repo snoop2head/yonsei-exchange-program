@@ -1,2 +1,2 @@
-,No,제목,학과,과정,년도,href,RNN_SCORE
-0,1,캠브리지 대학 여름 계절학기를 이수하고,경영학과,학부,2012,/partner/expReport.asp?id=5972&page=1&bgbn=R,0.7550404667854309
+,No,제목,학과,과정,년도,href,BERT_SCORE,RNN_SCORE
+0,1,캠브리지 대학 여름 계절학기를 이수하고,경영학과,학부,2012,/partner/expReport.asp?id=5972&page=1&bgbn=R,1,0.7550404667854309
