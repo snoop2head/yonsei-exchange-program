@@ -2,3 +2,5 @@
 *.xlsx
 *.json
 .python-version
+/KoBERT_nsmc
+.ipynb_checkpoints
