@@ -8,10 +8,6 @@
 * Summarizing reviews for university
 * Sentiment analysis for university
 
-![image-20200725080203357](./img/image-20200725080203357.png)
-
-
-
 ## Sentiment Analysis for Foreign Universities
 
 * [Labeling with BERT model trained with NSMC Corpus](./analyze_BERT_nsmc_corpus.ipynb)
