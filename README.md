@@ -10,7 +10,7 @@
 
 ## Sentiment Analysis for Foreign Universities
 
-* [Labeling with BERT model trained with NSMC Corpus](./analyze_BERT_nsmc_corpus.ipynb)
+* [Labeling with BERT model trained with NSMC Corpus](./analyze_BERT_nsmc.ipynb)
 * [Labeling with RNN trained with NSMC Corpus](./analyze_RNN.ipynb)
 
 ![bert-labeled](./img/bert-labeled.png)
