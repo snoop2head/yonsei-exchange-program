@@ -1,0 +1,746 @@
+대학코드,국가,대학명,파견구분,협정형태,NUM_VISITS,BERT_SUM,RNN_SUM,href
+AF000001,AFGHANISTAN,Kabul University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=AF000001&bgbn=A
+AR000001,ARGENTINA,Universidad Blas Pascal,교환학생,ISEP,,,,/partner/expReport.asp?ucode=AR000001&bgbn=A
+AR000002,ARGENTINA,Universidad Catolica de Cordoba,교환학생,ISEP,,,,/partner/expReport.asp?ucode=AR000002&bgbn=A
+AR000003,ARGENTINA,Universidad de Palermo,교환학생,ISEP,,,,/partner/expReport.asp?ucode=AR000003&bgbn=A
+AR000004,ARGENTINA,Universidad del Salvador,교환학생,ISEP,1.0,0.0,0.3996699154376984,/partner/expReport.asp?ucode=AR000004&bgbn=A
+AR000005,ARGENTINA,University of Buenos Aires,교환학생,교환대학,,,,/partner/expReport.asp?ucode=AR000005&bgbn=A
+AU000019,AUSTRALIA,Australian National University,교환학생,교환대학,27.0,17.0,17.952731549739838,/partner/expReport.asp?ucode=AU000019&bgbn=A
+AU000001,AUSTRALIA,Bond University,교환학생,교환대학,19.0,16.0,13.359808802604675,/partner/expReport.asp?ucode=AU000001&bgbn=A
+AU000002,AUSTRALIA,Curtin University,교환학생,교환대학ISEP,7.0,5.0,4.65778660774231,/partner/expReport.asp?ucode=AU000002&bgbn=A
+AU000003,AUSTRALIA,Curtin University of Technology,교환학생,,16.0,14.0,9.696669936180115,/partner/expReport.asp?ucode=AU000003&bgbn=A
+AU000004,AUSTRALIA,Deakin University,교환학생,교환대학ISEPUSAC,24.0,18.0,17.425120294094086,/partner/expReport.asp?ucode=AU000004&bgbn=A
+AU000021,AUSTRALIA,Griffith University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=AU000021&bgbn=A
+AU000005,AUSTRALIA,La Trobe University,교환학생,교환대학ISEP,22.0,14.0,13.872904598712921,/partner/expReport.asp?ucode=AU000005&bgbn=A
+AU000006,AUSTRALIA,Macquarie University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=AU000006&bgbn=A
+AU000007,AUSTRALIA,Monash University,교환학생,교환대학,42.0,27.0,28.953686773777008,/partner/expReport.asp?ucode=AU000007&bgbn=A
+AU000008,AUSTRALIA,Murdoch University,교환학생,교환대학,9.0,7.0,6.646777451038361,/partner/expReport.asp?ucode=AU000008&bgbn=A
+AU000009,AUSTRALIA,RMIT University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=AU000009&bgbn=A
+AU000010,AUSTRALIA,Swinburne University of Technology,교환학생,,4.0,3.0,2.875095844268799,/partner/expReport.asp?ucode=AU000010&bgbn=A
+AU000020,AUSTRALIA,University of Adelaide,교환학생,교환대학,10.0,5.0,6.72594627737999,/partner/expReport.asp?ucode=AU000020&bgbn=A
+AU000011,AUSTRALIA,University of Canberra,교환학생,ISEP,,,,/partner/expReport.asp?ucode=AU000011&bgbn=A
+AU000012,AUSTRALIA,University of New South Wales,교환학생,교환대학,44.0,35.0,26.908133655786514,/partner/expReport.asp?ucode=AU000012&bgbn=A
+AU000013,AUSTRALIA,University of Queensland,교환학생방문학생SAP(정규),교환대학SAF,61.0,48.0,40.56454849243164,/partner/expReport.asp?ucode=AU000013&bgbn=A
+AU000014,AUSTRALIA,University of Southern Queensland,교환학생,ISEP,1.0,1.0,0.5068893432617188,/partner/expReport.asp?ucode=AU000014&bgbn=A
+AU000015,AUSTRALIA,University of Sydney,교환학생,교환대학,56.0,44.0,37.41153106093407,/partner/expReport.asp?ucode=AU000015&bgbn=A
+AU000016,AUSTRALIA,"University of Technology, Sydney",교환학생,교환대학,47.0,35.0,31.786488473415375,/partner/expReport.asp?ucode=AU000016&bgbn=A
+AU000022,AUSTRALIA,University of Western Australia,,교환대학,,,,/partner/expReport.asp?ucode=AU000022&bgbn=A
+AU000017,AUSTRALIA,University of Wollongong,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=AU000017&bgbn=A
+AT000001,AUSTRIA,FH Kufstein Tirol University of Applied Sciences,교환학생,교환대학,40.0,36.0,31.848505318164825,/partner/expReport.asp?ucode=AT000001&bgbn=A
+AT000002,AUSTRIA,Johannes Kepler Universitat Linz,교환학생,ISEP,2.0,2.0,1.6172954440116882,/partner/expReport.asp?ucode=AT000002&bgbn=A
+AT000003,AUSTRIA,Karl-Franzens-Universitat Graz,교환학생,ISEP,7.0,5.0,5.308657169342041,/partner/expReport.asp?ucode=AT000003&bgbn=A
+AT000004,AUSTRIA,Technische Universitat Graz,교환학생,ISEP,,,,/partner/expReport.asp?ucode=AT000004&bgbn=A
+AT000005,AUSTRIA,Universitat Salzburg,교환학생,ISEP,,,,/partner/expReport.asp?ucode=AT000005&bgbn=A
+AT000008,AUSTRIA,Universities of Applied Sciences Upper Austria,교환학생,교환대학,10.0,8.0,7.186463862657547,/partner/expReport.asp?ucode=AT000008&bgbn=A
+AT000007,AUSTRIA,University of Applied Sciences Wiener Neustadt,교환학생,교환대학,13.0,10.0,9.164091885089874,/partner/expReport.asp?ucode=AT000007&bgbn=A
+AT000009,AUSTRIA,University of Vienna,교환학생,교환대학,20.0,20.0,13.028918445110321,/partner/expReport.asp?ucode=AT000009&bgbn=A
+AT000006,AUSTRIA,Vienna University of Economics and Business,교환학생,교환대학,44.0,35.0,34.2231670320034,/partner/expReport.asp?ucode=AT000006&bgbn=A
+BD000001,BANGLADESH,Asian University for Women,교환학생,교환대학,,,,/partner/expReport.asp?ucode=BD000001&bgbn=A
+BE000003,BELGIUM,Ghent University,,교환대학,1.0,1.0,0.8005678653717041,/partner/expReport.asp?ucode=BE000003&bgbn=A
+BE000002,BELGIUM,KU Leuven,교환학생,교환대학,4.0,4.0,2.8662156462669373,/partner/expReport.asp?ucode=BE000002&bgbn=A
+BE000001,BELGIUM,Universite Catholique De Louvain,교환학생,교환대학,34.0,25.0,21.29681235551834,/partner/expReport.asp?ucode=BE000001&bgbn=A
+BE000004,BELGIUM,Vrije Universiteit Brussel,,교환대학,,,,/partner/expReport.asp?ucode=BE000004&bgbn=A
+BR000001,BRAZIL,Fundacao Armando Alvares Penteado,교환학생,ISEP,,,,/partner/expReport.asp?ucode=BR000001&bgbn=A
+BR000002,BRAZIL,Pontificia Universidade Catolica do Rio de Janeiro,교환학생,ISEP,,,,/partner/expReport.asp?ucode=BR000002&bgbn=A
+BN000001,BRUNEI,Universiti Brunei Darussalam,교환학생,교환대학,,,,/partner/expReport.asp?ucode=BN000001&bgbn=A
+BG000001,BULGARIA,American University in Bulgaria,교환학생,ISEP,,,,/partner/expReport.asp?ucode=BG000001&bgbn=A
+KH000002,CAMBODIA,Life University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=KH000002&bgbn=A
+KH000001,CAMBODIA,Royal University of Phnom Pehn,교환학생,교환대학,,,,/partner/expReport.asp?ucode=KH000001&bgbn=A
+CA000001,CANADA,Bishop's University,교환학생,교환대학,15.0,10.0,10.296897768974304,/partner/expReport.asp?ucode=CA000001&bgbn=A
+CA000002,CANADA,Brock University,교환학생,교환대학ISEP,26.0,18.0,18.371460527181625,/partner/expReport.asp?ucode=CA000002&bgbn=A
+CA000003,CANADA,Dalhousie University,교환학생,교환대학,6.0,6.0,4.0886465311050415,/partner/expReport.asp?ucode=CA000003&bgbn=A
+CA000004,CANADA,Huron University College,교환학생,교환대학,14.0,11.0,8.858039528131485,/partner/expReport.asp?ucode=CA000004&bgbn=A
+CA000005,CANADA,Laurentian University,교환학생,ISEP,8.0,6.0,5.638400197029114,/partner/expReport.asp?ucode=CA000005&bgbn=A
+CA000006,CANADA,McGill University,교환학생,교환대학,41.0,33.0,25.930374085903168,/partner/expReport.asp?ucode=CA000006&bgbn=A
+CA000007,CANADA,Simon Fraser University,교환학생,교환대학,77.0,53.0,54.63703706860542,/partner/expReport.asp?ucode=CA000007&bgbn=A
+CA000008,CANADA,Thompson Rivers University,교환학생,ISEP,1.0,1.0,0.9503520727157592,/partner/expReport.asp?ucode=CA000008&bgbn=A
+CA000009,CANADA,Trent University,교환학생,교환대학,4.0,3.0,2.5554141998291016,/partner/expReport.asp?ucode=CA000009&bgbn=A
+CA000010,CANADA,University College of Cape Breton,교환학생,ISEP,3.0,3.0,1.6214019060134888,/partner/expReport.asp?ucode=CA000010&bgbn=A
+CA000011,CANADA,University of Alberta,교환학생방문학생SAP(정규),교환대학,91.0,82.0,58.574089258909225,/partner/expReport.asp?ucode=CA000011&bgbn=A
+CA000012,CANADA,University of British Columbia,교환학생,교환대학,162.0,105.0,112.96686306595802,/partner/expReport.asp?ucode=CA000012&bgbn=A
+CA000022,CANADA,University of Calgary,,교환대학,6.0,3.0,4.053080260753632,/partner/expReport.asp?ucode=CA000022&bgbn=A
+CA000013,CANADA,University of Manitoba,교환학생,교환대학,46.0,34.0,29.459994852542877,/partner/expReport.asp?ucode=CA000013&bgbn=A
+CA000014,CANADA,University of Montreal,교환학생,교환대학,13.0,12.0,7.591848790645599,/partner/expReport.asp?ucode=CA000014&bgbn=A
+CA000021,CANADA,University of Regina,,ISEP,1.0,1.0,0.8472148180007935,/partner/expReport.asp?ucode=CA000021&bgbn=A
+CA000023,CANADA,University of Saskatchewan,,교환대학,,,,/partner/expReport.asp?ucode=CA000023&bgbn=A
+CA000015,CANADA,University of Toronto,교환학생,교환대학,102.0,88.0,68.26574611663818,/partner/expReport.asp?ucode=CA000015&bgbn=A
+CA000016,CANADA,University of Victoria,교환학생,교환대학,10.0,8.0,5.853855222463608,/partner/expReport.asp?ucode=CA000016&bgbn=A
+CA000017,CANADA,University of Waterloo,교환학생,교환대학,7.0,6.0,4.9360896944999695,/partner/expReport.asp?ucode=CA000017&bgbn=A
+CA000018,CANADA,"University of Western Ontario, Richard Ivey School of Business",교환학생,교환대학,14.0,12.0,7.273669809103012,/partner/expReport.asp?ucode=CA000018&bgbn=A
+CA000019,CANADA,York University,교환학생,교환대학,3.0,2.0,1.9065832495689392,/partner/expReport.asp?ucode=CA000019&bgbn=A
+CA000020,CANADA,York University: Schulich School of Business,교환학생,,36.0,27.0,21.279434204101562,/partner/expReport.asp?ucode=CA000020&bgbn=A
+CL000001,CHILE,Pontificia Universidad Catolica de Valparaiso,교환학생,ISEP,,,,/partner/expReport.asp?ucode=CL000001&bgbn=A
+CL000002,CHILE,Universidad Andres Bello,교환학생,USAC,,,,/partner/expReport.asp?ucode=CL000002&bgbn=A
+CL000003,CHILE,Universidad Catolica del Norte-Antofagasta,교환학생,ISEP,,,,/partner/expReport.asp?ucode=CL000003&bgbn=A
+CL000004,CHILE,Universidad Catolica del Norte-Coquimbo,교환학생,ISEP,,,,/partner/expReport.asp?ucode=CL000004&bgbn=A
+CH000031,CHINA,Beijing Institute of Technology,,교환대학,,,,/partner/expReport.asp?ucode=CH000031&bgbn=A
+CN000024,CHINA,Beijing Normal University,,교환대학,,,,/partner/expReport.asp?ucode=CN000024&bgbn=A
+CN000030,CHINA,"Chinese University of Hong Kong, Shenzhen",교환학생,교환대학,,,,/partner/expReport.asp?ucode=CN000030&bgbn=A
+CN000025,CHINA,Dalian University of Technology,교환학생,교환대학,,,,/partner/expReport.asp?ucode=CN000025&bgbn=A
+CN000003,CHINA,Fudan University,교환학생,교환대학,29.0,22.0,19.57393878698349,/partner/expReport.asp?ucode=CN000003&bgbn=A
+CN000026,CHINA,Harbin Institute of Technology,교환학생,교환대학,,,,/partner/expReport.asp?ucode=CN000026&bgbn=A
+CN000027,CHINA,Huazhong University of Science and Technology,,교환대학,,,,/partner/expReport.asp?ucode=CN000027&bgbn=A
+CN000006,CHINA,Jilin University,교환학생,교환대학,7.0,6.0,5.214010298252106,/partner/expReport.asp?ucode=CN000006&bgbn=A
+CN000007,CHINA,Nanjing University,교환학생,교환대학,10.0,4.0,6.720541387796402,/partner/expReport.asp?ucode=CN000007&bgbn=A
+CN000008,CHINA,Nankai University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=CN000008&bgbn=A
+CN000021,CHINA,North China Electric Power University,교환학생,교환대학,1.0,1.0,0.2889304757118225,/partner/expReport.asp?ucode=CN000021&bgbn=A
+CN000022,CHINA,Peking University,교환학생,교환대학,18.0,10.0,11.543988049030304,/partner/expReport.asp?ucode=CN000022&bgbn=A
+CN000009,CHINA,Renmin University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=CN000009&bgbn=A
+CN000010,CHINA,Shandong University,교환학생,교환대학,8.0,7.0,6.468337118625641,/partner/expReport.asp?ucode=CN000010&bgbn=A
+CN000011,CHINA,Shanghai Jiao Tong University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=CN000011&bgbn=A
+CN000012,CHINA,Shanghai University,교환학생,USAC,1.0,1.0,0.8321610689163208,/partner/expReport.asp?ucode=CN000012&bgbn=A
+CN000032,CHINA,Sichuan Normal University,,교환대학,,,,/partner/expReport.asp?ucode=CN000032&bgbn=A
+CN000028,CHINA,Sichuan University,,교환대학,,,,/partner/expReport.asp?ucode=CN000028&bgbn=A
+CN000013,CHINA,Southwest University of Nationalities,교환학생,USAC,,,,/partner/expReport.asp?ucode=CN000013&bgbn=A
+CN000014,CHINA,Sun Yat-sen University,교환학생,교환대학,8.0,6.0,5.633133769035339,/partner/expReport.asp?ucode=CN000014&bgbn=A
+CN000015,CHINA,Tsinghua University,교환학생,교환대학,9.0,4.0,5.523811966180801,/partner/expReport.asp?ucode=CN000015&bgbn=A
+CN000029,CHINA,University of Science and Technology of China,,교환대학,,,,/partner/expReport.asp?ucode=CN000029&bgbn=A
+CN000017,CHINA,Wuhan University,교환학생,교환대학,23.0,17.0,17.191001415252686,/partner/expReport.asp?ucode=CN000017&bgbn=A
+CN000018,CHINA,Yanbian University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=CN000018&bgbn=A
+CN000019,CHINA,Yanbian University of Science and Technology,교환학생,교환대학,1.0,0.0,0.5126386880874634,/partner/expReport.asp?ucode=CN000019&bgbn=A
+CN000020,CHINA,Zhejiang Normal University,교환학생,교환대학,37.0,31.0,25.689673364162445,/partner/expReport.asp?ucode=CN000020&bgbn=A
+CN000023,CHINA,Zhejiang University,교환학생,교환대학,11.0,8.0,7.542782962322235,/partner/expReport.asp?ucode=CN000023&bgbn=A
+CR000001,COSTA RICA,Universidad Nacional Autonoma de Heredia,교환학생,ISEP,,,,/partner/expReport.asp?ucode=CR000001&bgbn=A
+CR000002,COSTA RICA,Universidad Nacional de Costa Rica,교환학생,USAC,1.0,0.0,0.5123575925827026,/partner/expReport.asp?ucode=CR000002&bgbn=A
+CR000003,COSTA RICA,Universidad Nacional de Costa Rica Puntarenas,교환학생,USAC,,,,/partner/expReport.asp?ucode=CR000003&bgbn=A
+CR000004,COSTA RICA,Universidad Nacional de Costa Rica Sede de Occidente,교환학생,USAC,,,,/partner/expReport.asp?ucode=CR000004&bgbn=A
+CR000005,COSTA RICA,University for Peace,교환학생,교환대학,,,,/partner/expReport.asp?ucode=CR000005&bgbn=A
+CZ000001,CZECH REPUBLIC,Charles University,교환학생,USAC,38.0,22.0,25.220507562160492,/partner/expReport.asp?ucode=CZ000001&bgbn=A
+CZ000002,CZECH REPUBLIC,Masaryk University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=CZ000002&bgbn=A
+DK000001,DENMARK,Aalborg University,교환학생,교환대학ISEP,,,,/partner/expReport.asp?ucode=DK000001&bgbn=A
+DK000005,DENMARK,Aarhus University,교환학생,교환대학,1.0,1.0,0.5212031602859497,/partner/expReport.asp?ucode=DK000005&bgbn=A
+DK000002,DENMARK,Copenhagen Business School,교환학생,USAC,8.0,6.0,5.81238979101181,/partner/expReport.asp?ucode=DK000002&bgbn=A
+DK000003,DENMARK,University of Copenhagen,교환학생,교환대학,72.0,65.0,49.14911192655563,/partner/expReport.asp?ucode=DK000003&bgbn=A
+DK000004,DENMARK,University of Greenland,,교환대학ISEP,,,,/partner/expReport.asp?ucode=DK000004&bgbn=A
+EE000001,ESTONIA,University of Tartu,교환학생,ISEP,,,,/partner/expReport.asp?ucode=EE000001&bgbn=A
+FI000014,FINLAND,Aalto University,교환학생,교환대학,73.0,65.0,49.25960153341293,/partner/expReport.asp?ucode=FI000014&bgbn=A
+FI000001,FINLAND,Abo Akademi University,교환학생,ISEP,2.0,1.0,1.677677929401398,/partner/expReport.asp?ucode=FI000001&bgbn=A
+FI000004,FINLAND,Lappeenranta University of Technology,교환학생,ISEP,,,,/partner/expReport.asp?ucode=FI000004&bgbn=A
+FI000005,FINLAND,The University of Turku,교환학생,ISEP,1.0,1.0,0.9481639862060548,/partner/expReport.asp?ucode=FI000005&bgbn=A
+FI000006,FINLAND,Turku School of Economics and Business Administration,교환학생,ISEP,,,,/partner/expReport.asp?ucode=FI000006&bgbn=A
+FI000013,FINLAND,University of Eastern Finland,교환학생,교환대학,38.0,31.0,28.936879217624664,/partner/expReport.asp?ucode=FI000013&bgbn=A
+FI000007,FINLAND,University of Helsinki,교환학생,교환대학ISEP,30.0,28.0,20.996371388435364,/partner/expReport.asp?ucode=FI000007&bgbn=A
+FI000009,FINLAND,"University of Jyvaskyla, School of Business & Economics",교환학생,교환대학ISEP,28.0,22.0,20.157699435949326,/partner/expReport.asp?ucode=FI000009&bgbn=A
+FI000011,FINLAND,University of Oulu,교환학생,ISEP,4.0,3.0,2.6531208157539368,/partner/expReport.asp?ucode=FI000011&bgbn=A
+FI000012,FINLAND,University of Tampere,교환학생,ISEP,1.0,1.0,0.5122702717781067,/partner/expReport.asp?ucode=FI000012&bgbn=A
+FR000040,FRANCE,Bordeaux Montaigne University,,교환대학,,,,/partner/expReport.asp?ucode=FR000040&bgbn=A
+FR000034,FRANCE,Ecole Normale Superieure de Lyon,,교환대학ISEP,,,,/partner/expReport.asp?ucode=FR000034&bgbn=A
+FR000004,FRANCE,Ecole Superieure des Sciences Economiques et Commerciales (ESSEC Business School),교환학생,교환대학,7.0,3.0,4.87463641166687,/partner/expReport.asp?ucode=FR000004&bgbn=A
+FR000005,FRANCE,Ecole Superieure du Commerce Exterieur (ESCE),교환학생,교환대학,52.0,38.0,35.64199975132942,/partner/expReport.asp?ucode=FR000005&bgbn=A
+FR000001,FRANCE,ESC (Business School) Amiens,교환학생,교환대학ISEP,17.0,11.0,13.567399024963379,/partner/expReport.asp?ucode=FR000001&bgbn=A
+FR000003,FRANCE,ESCEM (France Business School) Tours-Poitiers,교환학생,교환대학,17.0,13.0,13.512000054121017,/partner/expReport.asp?ucode=FR000003&bgbn=A
+FR000007,FRANCE,Hautes Etudes Commercials (HEC Paris),교환학생,교환대학,6.0,6.0,3.7635921835899353,/partner/expReport.asp?ucode=FR000007&bgbn=A
+FR000008,FRANCE,Institut d'Etudes Politiques de Rennes,교환학생,ISEP,1.0,1.0,0.8154475688934326,/partner/expReport.asp?ucode=FR000008&bgbn=A
+FR000009,FRANCE,Institut National des Sciences Appliquees de Lyon (INSA-Lyon),교환학생,교환대학ISEP,11.0,9.0,7.224686503410339,/partner/expReport.asp?ucode=FR000009&bgbn=A
+FR000010,FRANCE,ISC PARIS - School of Management,교환학생,교환대학,69.0,50.0,44.98699629306793,/partner/expReport.asp?ucode=FR000010&bgbn=A
+FR000002,FRANCE,KEDGE Business School,교환학생,교환대학,41.0,28.0,28.844930738210678,/partner/expReport.asp?ucode=FR000002&bgbn=A
+FR000035,FRANCE,Paris Institute of Technology,,교환대학ISEP,,,,/partner/expReport.asp?ucode=FR000035&bgbn=A
+FR000036,FRANCE,Paris School of Business,,교환대학ISEP,11.0,8.0,8.286747992038727,/partner/expReport.asp?ucode=FR000036&bgbn=A
+FR000038,FRANCE,Paris-Sud University,,교환대학ISEP,,,,/partner/expReport.asp?ucode=FR000038&bgbn=A
+FR000006,FRANCE,Pole ESG-Paris Graduate School of Management,교환학생,교환대학,27.0,22.0,21.046674370765686,/partner/expReport.asp?ucode=FR000006&bgbn=A
+FR000011,FRANCE,Sciences-Po,교환학생,교환대학,68.0,47.0,48.964047968387604,/partner/expReport.asp?ucode=FR000011&bgbn=A
+FR000039,FRANCE,Sorbonne University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=FR000039&bgbn=A
+FR000012,FRANCE,Universite d'Angers,교환학생,ISEP,6.0,4.0,3.953238368034363,/partner/expReport.asp?ucode=FR000012&bgbn=A
+FR000013,FRANCE,Universite de Caen,교환학생,ISEP,,,,/partner/expReport.asp?ucode=FR000013&bgbn=A
+FR000014,FRANCE,Universite de Franche-Comte,교환학생,ISEP,3.0,1.0,1.929054856300354,/partner/expReport.asp?ucode=FR000014&bgbn=A
+FR000015,FRANCE,Universite de la Reunion (Overseas French Department),교환학생,ISEP,,,,/partner/expReport.asp?ucode=FR000015&bgbn=A
+FR000016,FRANCE,Universite de Lille III (Charles de Gaulle),교환학생,ISEP,5.0,4.0,2.689787894487381,/partner/expReport.asp?ucode=FR000016&bgbn=A
+FR000017,FRANCE,Universite de Nantes,교환학생,ISEP,1.0,0.0,0.19709548354148865,/partner/expReport.asp?ucode=FR000017&bgbn=A
+FR000018,FRANCE,Universite de Nice (Sophia Antipolis),교환학생,ISEP,,,,/partner/expReport.asp?ucode=FR000018&bgbn=A
+FR000019,FRANCE,Universite de Rennes I,교환학생,ISEP,,,,/partner/expReport.asp?ucode=FR000019&bgbn=A
+FR000020,FRANCE,Universite de Rennes II (Haute-Bretagne),교환학생,ISEP,2.0,1.0,1.2145648002624512,/partner/expReport.asp?ucode=FR000020&bgbn=A
+FR000021,FRANCE,Universite de Savoie,교환학생,ISEP,,,,/partner/expReport.asp?ucode=FR000021&bgbn=A
+FR000022,FRANCE,Universite des Anteilles et de la Guyane-Guadeloupe,교환학생,ISEP,,,,/partner/expReport.asp?ucode=FR000022&bgbn=A
+FR000023,FRANCE,Universite des Antilles et de la Guyane-Guyane,교환학생,ISEP,,,,/partner/expReport.asp?ucode=FR000023&bgbn=A
+FR000024,FRANCE,Universite des Antilles et de la Guyane-Martinique,교환학생,ISEP,,,,/partner/expReport.asp?ucode=FR000024&bgbn=A
+FR000025,FRANCE,Universite du Havre,교환학생,ISEP,2.0,2.0,1.6244549751281738,/partner/expReport.asp?ucode=FR000025&bgbn=A
+FR000026,FRANCE,Universite du Maine,교환학생,ISEP,,,,/partner/expReport.asp?ucode=FR000026&bgbn=A
+FR000027,FRANCE,Universite Jean Monnet de Saint-Etienne,교환학생,ISEP,,,,/partner/expReport.asp?ucode=FR000027&bgbn=A
+FR000028,FRANCE,Universite Jules Verne (Universite de Picardie),교환학생,ISEP,,,,/partner/expReport.asp?ucode=FR000028&bgbn=A
+FR000029,FRANCE,Universite Paul Cezanne (Aix-Marseille III),교환학생,ISEP,1.0,1.0,0.6506898403167725,/partner/expReport.asp?ucode=FR000029&bgbn=A
+FR000030,FRANCE,Universite Paul Valery (Montpellier III),교환학생,ISEP,1.0,1.0,0.594356894493103,/partner/expReport.asp?ucode=FR000030&bgbn=A
+FR000031,FRANCE,Universite Pierre et Marie Curie (UPMC),교환학생,교환대학,,,,/partner/expReport.asp?ucode=FR000031&bgbn=A
+FR000037,FRANCE,University of Bordeaux,,교환대학ISEP,,,,/partner/expReport.asp?ucode=FR000037&bgbn=A
+FR000032,FRANCE,University of Health and Law-Lille 2,교환학생,교환대학,,,,/partner/expReport.asp?ucode=FR000032&bgbn=A
+FR000033,FRANCE,University of Pau,교환학생,USAC,1.0,1.0,0.753067135810852,/partner/expReport.asp?ucode=FR000033&bgbn=A
+DE000001,GERMANY,Eberhard Karls Universitat Tubingen,교환학생,교환대학,28.0,12.0,21.016637325286865,/partner/expReport.asp?ucode=DE000001&bgbn=A
+DE000002,GERMANY,European Business School,교환학생,교환대학,40.0,26.0,30.45864772796631,/partner/expReport.asp?ucode=DE000002&bgbn=A
+DE000003,GERMANY,Freie Universitat Berlin,교환학생,교환대학,49.0,45.0,36.71399915218353,/partner/expReport.asp?ucode=DE000003&bgbn=A
+DE000004,GERMANY,Friedrich-Alexander-Universitat,교환학생,,4.0,2.0,2.3780203461647034,/partner/expReport.asp?ucode=DE000004&bgbn=A
+DE000017,GERMANY,Humboldt-Universitat zu Berlin,교환학생,교환대학,28.0,27.0,19.999718010425568,/partner/expReport.asp?ucode=DE000017&bgbn=A
+DE000005,GERMANY,Katholische Universitat Eichstatt,교환학생,ISEP,1.0,1.0,0.862091064453125,/partner/expReport.asp?ucode=DE000005&bgbn=A
+DE000006,GERMANY,Leibniz Universitat Hannover,교환학생,교환대학,23.0,20.0,17.230740189552307,/partner/expReport.asp?ucode=DE000006&bgbn=A
+DE000007,GERMANY,Leuphana University of Lunerburg,교환학생,USAC,1.0,1.0,0.7732988595962524,/partner/expReport.asp?ucode=DE000007&bgbn=A
+DE000008,GERMANY,Ludwig-Maximilians-Universitat Munchen,교환학생,교환대학,31.0,13.0,21.730791747570038,/partner/expReport.asp?ucode=DE000008&bgbn=A
+DE000009,GERMANY,Pforzheim University,교환학생,교환대학,44.0,24.0,32.34236189723015,/partner/expReport.asp?ucode=DE000009&bgbn=A
+DE000010,GERMANY,Philipps-Universitat Marburg,교환학생,ISEP,,,,/partner/expReport.asp?ucode=DE000010&bgbn=A
+DE000018,GERMANY,RWTH Aachen University,교환학생,교환대학,19.0,12.0,13.039522975683212,/partner/expReport.asp?ucode=DE000018&bgbn=A
+DE000011,GERMANY,Technische Universitat Braunschweig,교환학생,교환대학ISEP,11.0,7.0,8.161207020282745,/partner/expReport.asp?ucode=DE000011&bgbn=A
+DE000013,GERMANY,Technische Universitat Dortmund,교환학생,ISEP,4.0,2.0,2.2585408091545105,/partner/expReport.asp?ucode=DE000013&bgbn=A
+DE000019,GERMANY,Technische Universitat Dresden,,교환대학ISEP,,,,/partner/expReport.asp?ucode=DE000019&bgbn=A
+DE000016,GERMANY,Technische Universtat Munchen,교환학생,교환대학,47.0,32.0,35.0562487244606,/partner/expReport.asp?ucode=DE000016&bgbn=A
+DE000012,GERMANY,Universitat Bielefeld,교환학생,ISEP,,,,/partner/expReport.asp?ucode=DE000012&bgbn=A
+DE000014,GERMANY,Universitat Trier,교환학생,ISEP,2.0,1.0,1.0354543924331665,/partner/expReport.asp?ucode=DE000014&bgbn=A
+DE000015,GERMANY,University of Erfurt,교환학생,교환대학,27.0,25.0,16.354530036449432,/partner/expReport.asp?ucode=DE000015&bgbn=A
+DE000020,GERMANY,University of Hamburg,,교환대학,,,,/partner/expReport.asp?ucode=DE000020&bgbn=A
+GH000001,GHANA,University of Ghana,교환학생,ISEP,,,,/partner/expReport.asp?ucode=GH000001&bgbn=A
+CN000001,HONG KONG,Chinese University of Hong Kong,교환학생SAP(계절),교환대학,91.0,57.0,62.55257338285446,/partner/expReport.asp?ucode=CN000001&bgbn=A
+CN000002,HONG KONG,City University of Hong Kong,교환학생,교환대학,34.0,20.0,23.730072408914566,/partner/expReport.asp?ucode=CN000002&bgbn=A
+CN000004,HONG KONG,Hong Kong Polytechnic University,교환학생,교환대학,53.0,23.0,36.354917734861374,/partner/expReport.asp?ucode=CN000004&bgbn=A
+CN000005,HONG KONG,Hong Kong University of Science of Technology,교환학생,교환대학,38.0,23.0,25.346331000328064,/partner/expReport.asp?ucode=CN000005&bgbn=A
+CN000016,HONG KONG,University of Hong Kong,교환학생,교환대학,70.0,41.0,43.059615552425385,/partner/expReport.asp?ucode=CN000016&bgbn=A
+HU000001,HUNGARY,Budapest University of Technology and Economics,교환학생,교환대학,,,,/partner/expReport.asp?ucode=HU000001&bgbn=A
+HU000002,HUNGARY,University of Debrecen,교환학생,ISEP,,,,/partner/expReport.asp?ucode=HU000002&bgbn=A
+IS000001,ICELAND,University of Iceland,교환학생,ISEP,,,,/partner/expReport.asp?ucode=IS000001&bgbn=A
+IN000010,INDIA,Banasthali Vidyapith,,교환대학,,,,/partner/expReport.asp?ucode=IN000010&bgbn=A
+IN000001,INDIA,Christ University,교환학생,USAC,,,,/partner/expReport.asp?ucode=IN000001&bgbn=A
+IN000009,INDIA,CSIR-Indian Insititute of Chemical Technology,,교환대학,,,,/partner/expReport.asp?ucode=IN000009&bgbn=A
+IN000002,INDIA,Indian Institute of Management Bangalore,교환학생,,,,,/partner/expReport.asp?ucode=IN000002&bgbn=A
+IN000006,INDIA,Indian Institute of Technology Bombay,,교환대학,,,,/partner/expReport.asp?ucode=IN000006&bgbn=A
+IN000007,INDIA,Indian Institute of Technology Madras,,교환대학,,,,/partner/expReport.asp?ucode=IN000007&bgbn=A
+IN000012,INDIA,Indian School of Business,교환학생,교환대학,,,,/partner/expReport.asp?ucode=IN000012&bgbn=A
+IN000005,INDIA,International Institute of Information Technology Hyderabad,,교환대학,,,,/partner/expReport.asp?ucode=IN000005&bgbn=A
+IN000003,INDIA,Jawaharlal Nehru University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=IN000003&bgbn=A
+IN000011,INDIA,Kalinga Institute of Industrial Technology(KIIT),,교환대학,,,,/partner/expReport.asp?ucode=IN000011&bgbn=A
+IN000008,INDIA,KL deemed to be University,,교환대학,,,,/partner/expReport.asp?ucode=IN000008&bgbn=A
+IN000004,INDIA,University of Hyderabad,교환학생,교환대학ISEP,,,,/partner/expReport.asp?ucode=IN000004&bgbn=A
+ID000001,INDONESIA,Universitas Indonesia,교환학생,교환대학,2.0,2.0,1.4643185138702393,/partner/expReport.asp?ucode=ID000001&bgbn=A
+IR000001,IRAN,University of Tehran,교환학생,교환대학,,,,/partner/expReport.asp?ucode=IR000001&bgbn=A
+IE000001,IRELAND,Athlone Institute of Technology,교환학생,교환대학,11.0,10.0,7.391776144504547,/partner/expReport.asp?ucode=IE000001&bgbn=A
+IE000002,IRELAND,Dublin Institute of Technology,교환학생,교환대학,24.0,22.0,17.512728452682495,/partner/expReport.asp?ucode=IE000002&bgbn=A
+IE000006,IRELAND,Trinity College Dublin,교환학생,교환대학,,,,/partner/expReport.asp?ucode=IE000006&bgbn=A
+IE000003,IRELAND,University College Cork,교환학생,교환대학USAC,1.0,1.0,0.6508105397224426,/partner/expReport.asp?ucode=IE000003&bgbn=A
+IE000004,IRELAND,University College Dublin,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=IE000004&bgbn=A
+IE000005,IRELAND,University of Limerick,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=IE000005&bgbn=A
+IL000002,ISRAEL,Technion - Israel Insitute of Technology,,교환대학,,,,/partner/expReport.asp?ucode=IL000002&bgbn=A
+IL000003,ISRAEL,Tel Aviv University,,교환대학,,,,/partner/expReport.asp?ucode=IL000003&bgbn=A
+IL000001,ISRAEL,The Hebrew University of Jerusalem,교환학생,교환대학,15.0,14.0,9.695711225271225,/partner/expReport.asp?ucode=IL000001&bgbn=A
+IT000001,ITALY,Bocconi University,교환학생,교환대학,56.0,42.0,36.398143261671066,/partner/expReport.asp?ucode=IT000001&bgbn=A
+IT000009,ITALY,Ca Foscari University of Venice,,교환대학ISEP,3.0,1.0,2.3246246576309204,/partner/expReport.asp?ucode=IT000009&bgbn=A
+IT000010,ITALY,IUSVE UNIVERSITY,,USAC,2.0,2.0,1.6008360385894775,/partner/expReport.asp?ucode=IT000010&bgbn=A
+IT000002,ITALY,Libera Universita Degli Studi di Urbino,교환학생,ISEP,,,,/partner/expReport.asp?ucode=IT000002&bgbn=A
+IT000008,ITALY,Luiss Guido Carli,교환학생,교환대학,20.0,10.0,13.335462629795074,/partner/expReport.asp?ucode=IT000008&bgbn=A
+IT000003,ITALY,Universita Cattolica del Sacro Cuore,교환학생,ISEP,6.0,6.0,3.092776834964752,/partner/expReport.asp?ucode=IT000003&bgbn=A
+IT000004,ITALY,Universita degli Studi della Tuscia,교환학생,USAC,6.0,3.0,4.036046147346497,/partner/expReport.asp?ucode=IT000004&bgbn=A
+IT000005,ITALY,Universita degli studi di Pavia,교환학생,ISEP,,,,/partner/expReport.asp?ucode=IT000005&bgbn=A
+IT000006,ITALY,Universita degli Studi di Trieste,교환학생,ISEP,,,,/partner/expReport.asp?ucode=IT000006&bgbn=A
+IT000012,ITALY,University of Bologna,교환학생,교환대학,,,,/partner/expReport.asp?ucode=IT000012&bgbn=A
+IT000011,ITALY,University of Modena and Reggio Emilia,교환학생,USAC,1.0,1.0,0.8293697834014893,/partner/expReport.asp?ucode=IT000011&bgbn=A
+IT000007,ITALY,University of Torino,교환학생,USAC,34.0,28.0,22.81263080239296,/partner/expReport.asp?ucode=IT000007&bgbn=A
+JP000001,JAPAN,Akita International University,교환학생,교환대학,4.0,2.0,3.232893466949463,/partner/expReport.asp?ucode=JP000001&bgbn=A
+JP000002,JAPAN,Aoyama Gakuin University,교환학생,교환대학,41.0,26.0,25.59910586476326,/partner/expReport.asp?ucode=JP000002&bgbn=A
+JP000003,JAPAN,Chukyo University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=JP000003&bgbn=A
+JP000004,JAPAN,Chuo University,교환학생,교환대학,28.0,17.0,19.023013651371002,/partner/expReport.asp?ucode=JP000004&bgbn=A
+JP000005,JAPAN,Doshisha University,,교환대학,30.0,22.0,20.334629833698273,/partner/expReport.asp?ucode=JP000005&bgbn=A
+JP000037,JAPAN,Hitotsubashi University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=JP000037&bgbn=A
+JP000006,JAPAN,Hokkaido University,교환학생,교환대학,9.0,8.0,6.420189410448074,/partner/expReport.asp?ucode=JP000006&bgbn=A
+JP000007,JAPAN,Hosei University,,교환대학,30.0,24.0,19.54400873184204,/partner/expReport.asp?ucode=JP000007&bgbn=A
+JP000008,JAPAN,International Christian University,교환학생,교환대학,19.0,14.0,14.24680408835411,/partner/expReport.asp?ucode=JP000008&bgbn=A
+JP000009,JAPAN,International University of Japan,교환학생,교환대학,1.0,1.0,0.7555708289146423,/partner/expReport.asp?ucode=JP000009&bgbn=A
+JP000010,JAPAN,Kansai Gaidai University,교환학생,,2.0,1.0,1.0491879284381866,/partner/expReport.asp?ucode=JP000010&bgbn=A
+JP000011,JAPAN,Keio University,교환학생,교환대학,72.0,50.0,51.15078067779541,/partner/expReport.asp?ucode=JP000011&bgbn=A
+JP000012,JAPAN,Kwansei Gakuin University,교환학생,교환대학,28.0,20.0,17.43430522084236,/partner/expReport.asp?ucode=JP000012&bgbn=A
+JP000013,JAPAN,Kyoto University,교환학생,교환대학,32.0,23.0,20.564531564712524,/partner/expReport.asp?ucode=JP000013&bgbn=A
+JP000014,JAPAN,Kyushu University,교환학생,교환대학,21.0,13.0,12.048218876123428,/partner/expReport.asp?ucode=JP000014&bgbn=A
+JP000015,JAPAN,Meiji Gakuin University,교환학생,교환대학,21.0,13.0,14.950367510318756,/partner/expReport.asp?ucode=JP000015&bgbn=A
+JP000038,JAPAN,Meiji University,,교환대학,,,,/partner/expReport.asp?ucode=JP000038&bgbn=A
+JP000016,JAPAN,Mejiro University,교환학생,교환대학,2.0,2.0,1.2022630274295807,/partner/expReport.asp?ucode=JP000016&bgbn=A
+JP000017,JAPAN,Nagasaki University,교환학생,교환대학,7.0,7.0,4.619840860366821,/partner/expReport.asp?ucode=JP000017&bgbn=A
+JP000018,JAPAN,Nagoya University,교환학생,교환대학,4.0,2.0,2.7873472571372986,/partner/expReport.asp?ucode=JP000018&bgbn=A
+JP000036,JAPAN,Nagoya University,교환학생,교환대학,2.0,2.0,1.1963104605674744,/partner/expReport.asp?ucode=JP000036&bgbn=A
+JP000019,JAPAN,Nanzan University,교환학생,교환대학,12.0,9.0,8.684746384620667,/partner/expReport.asp?ucode=JP000019&bgbn=A
+JP000039,JAPAN,National Graduate Institute for Policy Studies,,교환대학,,,,/partner/expReport.asp?ucode=JP000039&bgbn=A
+JP000020,JAPAN,Nihon University,교환학생,교환대학,6.0,5.0,4.2377230525016785,/partner/expReport.asp?ucode=JP000020&bgbn=A
+JP000021,JAPAN,Osaka University,교환학생,교환대학,26.0,20.0,18.033813059329987,/partner/expReport.asp?ucode=JP000021&bgbn=A
+JP000022,JAPAN,Rikkyo University,교환학생,교환대학,31.0,28.0,19.723101645708084,/partner/expReport.asp?ucode=JP000022&bgbn=A
+JP000023,JAPAN,Ritsumeikan Asia Pacific University,교환학생,교환대학,22.0,15.0,16.135943442583084,/partner/expReport.asp?ucode=JP000023&bgbn=A
+JP000024,JAPAN,Ritsumeikan University,교환학생,교환대학,18.0,15.0,13.031594455242157,/partner/expReport.asp?ucode=JP000024&bgbn=A
+JP000025,JAPAN,Shimane University,교환학생,,,,,/partner/expReport.asp?ucode=JP000025&bgbn=A
+JP000026,JAPAN,Sophia University,교환학생,교환대학,7.0,3.0,4.519461810588837,/partner/expReport.asp?ucode=JP000026&bgbn=A
+JP000027,JAPAN,Surugadai University,교환학생,교환대학,13.0,11.0,9.352962404489517,/partner/expReport.asp?ucode=JP000027&bgbn=A
+JP000028,JAPAN,Tohoku University,교환학생,교환대학,4.0,4.0,2.4442487955093384,/partner/expReport.asp?ucode=JP000028&bgbn=A
+JP000029,JAPAN,Tokyo Institute of Technology,교환학생,교환대학,5.0,4.0,3.6089868545532227,/partner/expReport.asp?ucode=JP000029&bgbn=A
+JP000030,JAPAN,Tokyo University of Foreign Studies,교환학생,교환대학,15.0,9.0,10.884862184524536,/partner/expReport.asp?ucode=JP000030&bgbn=A
+JP000031,JAPAN,Toyo University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=JP000031&bgbn=A
+JP000032,JAPAN,University of the Ryukyus,교환학생,교환대학,1.0,0.0,0.6237885355949402,/partner/expReport.asp?ucode=JP000032&bgbn=A
+JP000033,JAPAN,University of Tokyo,교환학생,교환대학,10.0,9.0,8.218766272068024,/partner/expReport.asp?ucode=JP000033&bgbn=A
+JP000040,JAPAN,University of Tsukuba,교환학생,교환대학,,,,/partner/expReport.asp?ucode=JP000040&bgbn=A
+JP000034,JAPAN,Waseda University,교환학생,교환대학,39.0,32.0,27.397037595510483,/partner/expReport.asp?ucode=JP000034&bgbn=A
+JP000035,JAPAN,Yokohama National University,교환학생,교환대학,3.0,3.0,2.1519158482551575,/partner/expReport.asp?ucode=JP000035&bgbn=A
+JO000001,JORDAN,University of Jordan,,교환대학,,,,/partner/expReport.asp?ucode=JO000001&bgbn=A
+KZ000003,KAZAKHSTAN,Al-Farabi Kazakh National University,,교환대학,,,,/partner/expReport.asp?ucode=KZ000003&bgbn=A
+KZ000001,KAZAKHSTAN,Karaganda State University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=KZ000001&bgbn=A
+KZ000002,KAZAKHSTAN,KIMEP University,교환학생,교환대학,1.0,1.0,0.7415863871574402,/partner/expReport.asp?ucode=KZ000002&bgbn=A
+KZ000005,KAZAKHSTAN,Nazarbayev University,,교환대학,,,,/partner/expReport.asp?ucode=KZ000005&bgbn=A
+KZ000004,KAZAKHSTAN,Turar Ryskulov New Economic University,,교환대학ISEP,,,,/partner/expReport.asp?ucode=KZ000004&bgbn=A
+LV000001,LATVIA,The University of Latvia,교환학생,ISEP,,,,/partner/expReport.asp?ucode=LV000001&bgbn=A
+LT000001,LITHUANIA,Kaunas University of Technology,교환학생,교환대학,35.0,29.0,25.665372490882874,/partner/expReport.asp?ucode=LT000001&bgbn=A
+730     ,LITHUANIA,Vilnius University,,ISEP,1.0,1.0,0.7520212531089783,/partner/expReport.asp?ucode=730     &bgbn=A
+MY000001,MALAYSIA,University of Malaya,교환학생,교환대학,,,,/partner/expReport.asp?ucode=MY000001&bgbn=A
+MT000001,MALTA,University of Malta,교환학생,ISEP,,,,/partner/expReport.asp?ucode=MT000001&bgbn=A
+MX000013,MEXICO,CETYS University,,교환대학,,,,/partner/expReport.asp?ucode=MX000013&bgbn=A
+MX000006,MEXICO,Instituto Technologico y de Estudios Superiores de Occidente (ITESO),교환학생,교환대학ISEP,,,,/partner/expReport.asp?ucode=MX000006&bgbn=A
+MX000001,MEXICO,Instituto Tecnologico y de Estudios Superiores de Monterrey (ITESM)-Ciudad de Mexico,교환학생,ISEP,,,,/partner/expReport.asp?ucode=MX000001&bgbn=A
+MX000002,MEXICO,Instituto Tecnologico y de Estudios Superiores de Monterrey (ITESM)-Guadalajara,교환학생,ISEP,,,,/partner/expReport.asp?ucode=MX000002&bgbn=A
+MX000003,MEXICO,Instituto Tecnologico y de Estudios Superiores de Monterrey (ITESM)-Mazatlan,교환학생,ISEP,,,,/partner/expReport.asp?ucode=MX000003&bgbn=A
+MX000004,MEXICO,Instituto Tecnologico y de Estudios Superiores de Monterrey (ITESM)-Monterrey,교환학생,교환대학ISEP,7.0,7.0,5.66569972038269,/partner/expReport.asp?ucode=MX000004&bgbn=A
+MX000005,MEXICO,Instituto Tecnologico y de Estudios Superiores de Monterrey (ITESM)-Queretaro,교환학생,ISEP,,,,/partner/expReport.asp?ucode=MX000005&bgbn=A
+MX000015,MEXICO,Techonology de Monterrey,방문학생,교환대학,,,,/partner/expReport.asp?ucode=MX000015&bgbn=A
+MX000007,MEXICO,Universiad Iberoamericana,교환학생,USAC,,,,/partner/expReport.asp?ucode=MX000007&bgbn=A
+MX000008,MEXICO,Universidad de Guanajuato,교환학생,ISEP,,,,/partner/expReport.asp?ucode=MX000008&bgbn=A
+MX000009,MEXICO,Universidad de Monterrey (UDEM),교환학생,교환대학ISEP,4.0,2.0,2.605420231819153,/partner/expReport.asp?ucode=MX000009&bgbn=A
+MX000010,MEXICO,Universidad La Salle,교환학생,ISEP,,,,/partner/expReport.asp?ucode=MX000010&bgbn=A
+MX000014,MEXICO,Universidad Nacional Autonoma de Mexico (UNAM),교환학생,교환대학,2.0,2.0,1.4820998311042786,/partner/expReport.asp?ucode=MX000014&bgbn=A
+MX000011,MEXICO,Universidad Popular Autonoma del Estado de Puebla,교환학생,ISEP,,,,/partner/expReport.asp?ucode=MX000011&bgbn=A
+MX000012,MEXICO,Universidad Regiomontana,교환학생,ISEP,,,,/partner/expReport.asp?ucode=MX000012&bgbn=A
+MN000001,MONGOLIA,Huree Institute of Information and Communication Technology,교환학생,교환대학,1.0,0.0,0.7691367268562317,/partner/expReport.asp?ucode=MN000001&bgbn=A
+MN000004,MONGOLIA,International University of Ulaanbaatar,,교환대학,,,,/partner/expReport.asp?ucode=MN000004&bgbn=A
+MN000002,MONGOLIA,Mongolia International University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=MN000002&bgbn=A
+MN000003,MONGOLIA,Mongolian University of Science and Technology,교환학생,교환대학,,,,/partner/expReport.asp?ucode=MN000003&bgbn=A
+NP000001,NEPAL,Kathmandu University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=NP000001&bgbn=A
+NP000002,NEPAL,Tribhuvan University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=NP000002&bgbn=A
+NL000013,NETHERLANDS,Amsterdam University College,교환학생,,17.0,8.0,10.136701047420502,/partner/expReport.asp?ucode=NL000013&bgbn=A
+NL000014,NETHERLANDS,Erasmus School of Economics,,교환대학ISEP,10.0,9.0,7.492928355932236,/partner/expReport.asp?ucode=NL000014&bgbn=A
+NL000015,NETHERLANDS,"Erasmus School of History, Culture and Communication",,교환대학ISEP,5.0,3.0,3.4532313644886017,/partner/expReport.asp?ucode=NL000015&bgbn=A
+NL000001,NETHERLANDS,"Erasmus University, Rotterdam",교환학생,교환대학,56.0,46.0,40.535025000572205,/partner/expReport.asp?ucode=NL000001&bgbn=A
+NL000003,NETHERLANDS,Inholland University of Applied Sciences,교환학생,교환대학,46.0,37.0,32.43964037299156,/partner/expReport.asp?ucode=NL000003&bgbn=A
+NL000004,NETHERLANDS,Leiden University,교환학생,교환대학,31.0,25.0,21.45569634437561,/partner/expReport.asp?ucode=NL000004&bgbn=A
+NL000010,NETHERLANDS,Maastricht University,교환학생,교환대학,107.0,80.0,68.57026836276054,/partner/expReport.asp?ucode=NL000010&bgbn=A
+NL000017,NETHERLANDS,"Maastricht University, University College Maastricht",교환학생,교환대학,,,,/partner/expReport.asp?ucode=NL000017&bgbn=A
+NL000005,NETHERLANDS,Radboud University Nijmegen,교환학생,교환대학ISEP,8.0,6.0,5.362529397010803,/partner/expReport.asp?ucode=NL000005&bgbn=A
+NL000006,NETHERLANDS,Saxion University,교환학생,교환대학,32.0,26.0,24.10100680589676,/partner/expReport.asp?ucode=NL000006&bgbn=A
+NL000002,NETHERLANDS,The Hague University of Applied Sciences,교환학생,교환대학,113.0,60.0,78.88162899017334,/partner/expReport.asp?ucode=NL000002&bgbn=A
+NL000007,NETHERLANDS,Tilburg University,교환학생,교환대학ISEP,58.0,51.0,40.302020728588104,/partner/expReport.asp?ucode=NL000007&bgbn=A
+NL000008,NETHERLANDS,University of Amsterdam,교환학생,교환대학ISEP,70.0,55.0,46.24957317113876,/partner/expReport.asp?ucode=NL000008&bgbn=A
+US000290,NETHERLANDS,University of Groningen,교환학생,교환대학,8.0,8.0,4.335961639881134,/partner/expReport.asp?ucode=US000290&bgbn=A
+NL000009,NETHERLANDS,University of Leiden,교환학생,교환대학ISEP,3.0,2.0,1.5477246642112732,/partner/expReport.asp?ucode=NL000009&bgbn=A
+NL000011,NETHERLANDS,Utrecht University,교환학생,ISEP,6.0,5.0,3.632404386997223,/partner/expReport.asp?ucode=NL000011&bgbn=A
+NL000012,NETHERLANDS,Vrije Universiteit Amsterdam,교환학생,교환대학ISEP,22.0,17.0,16.209772378206253,/partner/expReport.asp?ucode=NL000012&bgbn=A
+NZ000001,NEW ZEALAND,"Massey University (Auckland, Palmerston North, Wellington)",교환학생,ISEP,9.0,7.0,6.509318798780441,/partner/expReport.asp?ucode=NZ000001&bgbn=A
+NZ000002,NEW ZEALAND,University of Auckland,교환학생방문학생SAP(정규),교환대학SAF,39.0,33.0,29.447844982147217,/partner/expReport.asp?ucode=NZ000002&bgbn=A
+NZ000003,NEW ZEALAND,University of Canterbury,교환학생SAP(정규),교환대학SAF,14.0,8.0,8.575547695159912,/partner/expReport.asp?ucode=NZ000003&bgbn=A
+NZ000004,NEW ZEALAND,University of Otago,교환학생,교환대학,14.0,13.0,10.308277785778046,/partner/expReport.asp?ucode=NZ000004&bgbn=A
+NZ000005,NEW ZEALAND,University of Waikato,교환학생,교환대학,19.0,16.0,13.92870318889618,/partner/expReport.asp?ucode=NZ000005&bgbn=A
+NI000001,NICARAGUA,Universidad Americana,교환학생,ISEP,,,,/partner/expReport.asp?ucode=NI000001&bgbn=A
+NO000001,NORWAY,Bodø University College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=NO000001&bgbn=A
+NO000002,NORWAY,Norwegian School of Economics,교환학생,교환대학,19.0,14.0,13.728765666484833,/partner/expReport.asp?ucode=NO000002&bgbn=A
+NO000003,NORWAY,University of Oslo,교환학생,교환대학USAC,75.0,62.0,53.145104825496674,/partner/expReport.asp?ucode=NO000003&bgbn=A
+NO000004,NORWAY,Vestfold University College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=NO000004&bgbn=A
+PH000002,PHILIPPINES,Ateneo de Manila University,,교환대학,1.0,1.0,0.9301260113716124,/partner/expReport.asp?ucode=PH000002&bgbn=A
+PH000001,PHILIPPINES,University of the Philippines,교환학생,교환대학,1.0,1.0,0.6532838344573975,/partner/expReport.asp?ucode=PH000001&bgbn=A
+PL000002,POLAND,Warsaw School of Economics,교환학생,교환대학,16.0,13.0,11.5161671936512,/partner/expReport.asp?ucode=PL000002&bgbn=A
+PL000001,POLAND,Wroclaw University,교환학생,ISEP,1.0,1.0,0.7122306823730469,/partner/expReport.asp?ucode=PL000001&bgbn=A
+PT000001,PORTUGAL,Universidade Lusofona de Humanidades e Tecnologias,교환학생,ISEP,,,,/partner/expReport.asp?ucode=PT000001&bgbn=A
+PR000001,PUERTO RICO,"University of Puerto Rico (Mayaguez, Rio Piedras)",교환학생,ISEP,,,,/partner/expReport.asp?ucode=PR000001&bgbn=A
+RU000001,RUSSIAN FEDERATION,Far Eastern Federal University,교환학생,교환대학,16.0,13.0,9.027976751327515,/partner/expReport.asp?ucode=RU000001&bgbn=A
+RU000002,RUSSIAN FEDERATION,Moscow State University,교환학생,교환대학,29.0,14.0,19.249698668718338,/partner/expReport.asp?ucode=RU000002&bgbn=A
+RU000003,RUSSIAN FEDERATION,St. Petersburg State University,교환학생,교환대학,50.0,38.0,32.808491706848145,/partner/expReport.asp?ucode=RU000003&bgbn=A
+SG000001,SINGAPORE,Nanyang Technological University,교환학생,교환대학,81.0,58.0,54.19172379374504,/partner/expReport.asp?ucode=SG000001&bgbn=A
+SG000002,SINGAPORE,National University of Singapore,교환학생,교환대학,101.0,87.0,68.42530804872513,/partner/expReport.asp?ucode=SG000002&bgbn=A
+SG000003,SINGAPORE,Singapore Management University,교환학생,교환대학,44.0,31.0,32.62673944234848,/partner/expReport.asp?ucode=SG000003&bgbn=A
+SG000004,SINGAPORE,Singapore University of Technology and Design,,교환대학ISEP,1.0,0.0,0.5355664491653442,/partner/expReport.asp?ucode=SG000004&bgbn=A
+ZA000001,SOUTH AFRICA,University of Stellenbosch,교환학생,ISEP,,,,/partner/expReport.asp?ucode=ZA000001&bgbn=A
+ES000001,SPAIN,ESADE,교환학생,교환대학,24.0,23.0,16.047976911067963,/partner/expReport.asp?ucode=ES000001&bgbn=A
+ES000002,SPAIN,La Universidad de Rey Juan Carlos,교환학생,USAC,39.0,36.0,27.61008596420288,/partner/expReport.asp?ucode=ES000002&bgbn=A
+ES000018,SPAIN,Polytechnic University of Valencia,,USAC,6.0,4.0,4.011134684085846,/partner/expReport.asp?ucode=ES000018&bgbn=A
+ES000003,SPAIN,Public University of Navarre,교환학생,교환대학ISEP,30.0,16.0,20.760357677936554,/partner/expReport.asp?ucode=ES000003&bgbn=A
+ES000004,SPAIN,Universidad Alfonso X el Sabio,교환학생,ISEP,,,,/partner/expReport.asp?ucode=ES000004&bgbn=A
+ES000016,SPAIN,Universidad Carlos III de Madrid,교환학생,교환대학,20.0,13.0,14.185106933116913,/partner/expReport.asp?ucode=ES000016&bgbn=A
+ES000005,SPAIN,Universidad Complutense de Madrid,교환학생,ISEP,,,,/partner/expReport.asp?ucode=ES000005&bgbn=A
+ES000006,SPAIN,Universidad de Almeria,교환학생,ISEP,3.0,3.0,2.1826332211494446,/partner/expReport.asp?ucode=ES000006&bgbn=A
+ES000007,SPAIN,Universidad de las Islas Baleares,교환학생,ISEP,,,,/partner/expReport.asp?ucode=ES000007&bgbn=A
+ES000008,SPAIN,Universidad de Malaga,교환학생,ISEP,2.0,2.0,1.428048551082611,/partner/expReport.asp?ucode=ES000008&bgbn=A
+ES000009,SPAIN,Universidad de Murcia,교환학생,ISEP,,,,/partner/expReport.asp?ucode=ES000009&bgbn=A
+ES000010,SPAIN,Universidad de Santiago de Compostela,교환학생,ISEP,1.0,0.0,0.50729900598526,/partner/expReport.asp?ucode=ES000010&bgbn=A
+ES000011,SPAIN,Universidade de Vigo,교환학생,ISEP,1.0,0.0,0.5122702717781067,/partner/expReport.asp?ucode=ES000011&bgbn=A
+ES000017,SPAIN,Universitat Autonoma de Barcelona,교환학생,교환대학,7.0,0.0,4.854875087738037,/partner/expReport.asp?ucode=ES000017&bgbn=A
+ES000012,SPAIN,University of Alicante,교환학생,USAC,4.0,4.0,2.4975314140319824,/partner/expReport.asp?ucode=ES000012&bgbn=A
+ES000015,SPAIN,University of Navarra,교환학생,교환대학,15.0,10.0,9.440130829811096,/partner/expReport.asp?ucode=ES000015&bgbn=A
+ES000013,SPAIN,University of the Basque Country,교환학생,USAC,3.0,3.0,2.0102210640907288,/partner/expReport.asp?ucode=ES000013&bgbn=A
+SE000009,SWEDEN,Chalmers University of Technology,,교환대학,,,,/partner/expReport.asp?ucode=SE000009&bgbn=A
+SE000001,SWEDEN,Jonkoping International Business School,교환학생,교환대학,47.0,40.0,32.26872792840004,/partner/expReport.asp?ucode=SE000001&bgbn=A
+SE000002,SWEDEN,Karlstad University,교환학생,ISEP,1.0,0.0,0.5156486034393309,/partner/expReport.asp?ucode=SE000002&bgbn=A
+SE000003,SWEDEN,Kristianstad University,교환학생,교환대학,49.0,47.0,39.3415404856205,/partner/expReport.asp?ucode=SE000003&bgbn=A
+SE000013,SWEDEN,Linnaeus University,교환학생,교환대학,54.0,39.0,38.10643881559372,/partner/expReport.asp?ucode=SE000013&bgbn=A
+SE000004,SWEDEN,Lulea University of Technology,교환학생,ISEP,1.0,1.0,0.5123575925827026,/partner/expReport.asp?ucode=SE000004&bgbn=A
+SE000014,SWEDEN,Lund University,,교환대학ISEP,,,,/partner/expReport.asp?ucode=SE000014&bgbn=A
+SE000005,SWEDEN,Malardalen University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=SE000005&bgbn=A
+SE000006,SWEDEN,Orebro University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=SE000006&bgbn=A
+SE000007,SWEDEN,Stockholm School of Economics,교환학생,교환대학,19.0,17.0,13.140793055295944,/partner/expReport.asp?ucode=SE000007&bgbn=A
+SE000008,SWEDEN,University College of Southern Stockholm,교환학생,ISEP,,,,/partner/expReport.asp?ucode=SE000008&bgbn=A
+SE000011,SWEDEN,University of Gothenburg,교환학생,교환대학,28.0,27.0,19.829801857471466,/partner/expReport.asp?ucode=SE000011&bgbn=A
+SE000012,SWEDEN,University West,,ISEP,2.0,1.0,1.346452236175537,/partner/expReport.asp?ucode=SE000012&bgbn=A
+SE000010,SWEDEN,Uppsala University,교환학생,교환대학,36.0,32.0,27.968223303556442,/partner/expReport.asp?ucode=SE000010&bgbn=A
+CH000001,SWITZERLAND,Universitat Bern,교환학생,ISEP,4.0,1.0,2.8313735127449036,/partner/expReport.asp?ucode=CH000001&bgbn=A
+CH000003,SWITZERLAND,Universite de Fribourg,교환학생,ISEP,,,,/partner/expReport.asp?ucode=CH000003&bgbn=A
+CH000006,SWITZERLAND,University of Basel,교환학생,교환대학ISEP,2.0,2.0,0.8880372643470764,/partner/expReport.asp?ucode=CH000006&bgbn=A
+CH000005,SWITZERLAND,University of Geneva,교환학생SAP(계절),교환대학,23.0,17.0,18.024733543395996,/partner/expReport.asp?ucode=CH000005&bgbn=A
+CH000004,SWITZERLAND,University of Lausanne,교환학생,교환대학ISEP,8.0,8.0,6.659101605415344,/partner/expReport.asp?ucode=CH000004&bgbn=A
+CH000002,SWITZERLAND,University of Zurich,교환학생,교환대학ISEP,15.0,10.0,10.60314130783081,/partner/expReport.asp?ucode=CH000002&bgbn=A
+TW000001,TAIWAN,National Cheng Kung University,교환학생,교환대학,4.0,4.0,2.95208203792572,/partner/expReport.asp?ucode=TW000001&bgbn=A
+TW000002,TAIWAN,National Chengchi University,교환학생,교환대학,12.0,9.0,8.181061923503876,/partner/expReport.asp?ucode=TW000002&bgbn=A
+TW000003,TAIWAN,National Sun Yat-sen University,교환학생,교환대학,11.0,8.0,8.670113325119019,/partner/expReport.asp?ucode=TW000003&bgbn=A
+TW000004,TAIWAN,National Taiwan Normal University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=TW000004&bgbn=A
+TW000009,TAIWAN,National Taiwan University,교환학생,교환대학,5.0,4.0,3.2579866647720337,/partner/expReport.asp?ucode=TW000009&bgbn=A
+TW000005,TAIWAN,"National Taiwan University, College of Management",교환학생,교환대학,6.0,2.0,3.88396680355072,/partner/expReport.asp?ucode=TW000005&bgbn=A
+TW000007,TAIWAN,National Tsing Hua University,,교환대학,2.0,1.0,1.3822531700134277,/partner/expReport.asp?ucode=TW000007&bgbn=A
+TW000008,TAIWAN,National University of Kaohsiung,,교환대학,,,,/partner/expReport.asp?ucode=TW000008&bgbn=A
+TW000006,TAIWAN,TungHai University,교환학생,교환대학,14.0,9.0,8.623442590236664,/partner/expReport.asp?ucode=TW000006&bgbn=A
+TH000001,THAILAND,Chulalongkorn University,교환학생,교환대학,7.0,5.0,4.870806515216827,/partner/expReport.asp?ucode=TH000001&bgbn=A
+TH000002,THAILAND,Rangsit University,교환학생,USAC,1.0,1.0,0.8936920166015625,/partner/expReport.asp?ucode=TH000002&bgbn=A
+TH000003,THAILAND,Thammasat University,교환학생,교환대학ISEP,7.0,6.0,5.681051671504974,/partner/expReport.asp?ucode=TH000003&bgbn=A
+TR000003,TURKEY,Istanbul University,,교환대학,,,,/partner/expReport.asp?ucode=TR000003&bgbn=A
+TR000002,TURKEY,Kadir Has University,교환학생,교환대학,6.0,5.0,3.674649715423584,/partner/expReport.asp?ucode=TR000002&bgbn=A
+TR000001,TURKEY,Koc University,교환학생,교환대학,2.0,1.0,1.1272406578063965,/partner/expReport.asp?ucode=TR000001&bgbn=A
+GB000027,UNITED KINGDOM,"Central St. Martins, University of Arts London",방문학생,SAF,1.0,1.0,0.9113836288452148,/partner/expReport.asp?ucode=GB000027&bgbn=A
+GB000031,UNITED KINGDOM,Coventry University,교환학생,교환대학,5.0,4.0,3.402466654777527,/partner/expReport.asp?ucode=GB000031&bgbn=A
+GB000037,UNITED KINGDOM,Durham University,,교환대학ISEP,1.0,0.0,0.7022072076797485,/partner/expReport.asp?ucode=GB000037&bgbn=A
+GB000026,UNITED KINGDOM,King's College London,교환학생SAP(정규)SAP(계절),교환대학,53.0,43.0,37.6404484808445,/partner/expReport.asp?ucode=GB000026&bgbn=A
+GB000029,UNITED KINGDOM,Kingston University,교환학생,교환대학,39.0,34.0,27.38651806116104,/partner/expReport.asp?ucode=GB000029&bgbn=A
+GB000001,UNITED KINGDOM,London Business School,교환학생,,1.0,1.0,0.5188660621643066,/partner/expReport.asp?ucode=GB000001&bgbn=A
+GB000028,UNITED KINGDOM,London Metropolitan University,교환학생,USAC,1.0,0.0,0.5156486034393309,/partner/expReport.asp?ucode=GB000028&bgbn=A
+GB000002,UNITED KINGDOM,Middlesex University,방문학생SAP(정규),SAF,1.0,1.0,0.7314323186874391,/partner/expReport.asp?ucode=GB000002&bgbn=A
+GB000003,UNITED KINGDOM,Napier University,교환학생,ISEP,1.0,1.0,0.8469486832618713,/partner/expReport.asp?ucode=GB000003&bgbn=A
+GB000044,UNITED KINGDOM,Queen Mary University of London,,교환대학,,,,/partner/expReport.asp?ucode=GB000044&bgbn=A
+GB000004,UNITED KINGDOM,"Queen Mary, University of London",방문학생SAP(정규),SAF,2.0,2.0,1.3890838027000427,/partner/expReport.asp?ucode=GB000004&bgbn=A
+GB000033,UNITED KINGDOM,"SOAS, University of London",교환학생,교환대학,9.0,4.0,6.251262307167053,/partner/expReport.asp?ucode=GB000033&bgbn=A
+GB000034,UNITED KINGDOM,The University of Edinburgh,교환학생,교환대학,10.0,6.0,7.704999089241028,/partner/expReport.asp?ucode=GB000034&bgbn=A
+GB000038,UNITED KINGDOM,University of Aberdeen,,교환대학ISEP,5.0,3.0,3.1435794830322266,/partner/expReport.asp?ucode=GB000038&bgbn=A
+GB000036,UNITED KINGDOM,University of Bath,교환학생,교환대학,12.0,10.0,8.34754341840744,/partner/expReport.asp?ucode=GB000036&bgbn=A
+GB000039,UNITED KINGDOM,University of Birmingham,,교환대학ISEP,5.0,2.0,2.94839870929718,/partner/expReport.asp?ucode=GB000039&bgbn=A
+GB000005,UNITED KINGDOM,University of Brighton,교환학생,USAC,41.0,35.0,27.6363767683506,/partner/expReport.asp?ucode=GB000005&bgbn=A
+GB000006,UNITED KINGDOM,University of Bristol,교환학생방문학생SAP(정규),교환대학SAF,14.0,11.0,9.643553614616394,/partner/expReport.asp?ucode=GB000006&bgbn=A
+GB000030,UNITED KINGDOM,University of Cambridge,SAP(계절),,1.0,1.0,0.7550404667854309,/partner/expReport.asp?ucode=GB000030&bgbn=A
+GB000007,UNITED KINGDOM,University of Central Lancashire,교환학생,ISEP,1.0,1.0,0.6680951714515686,/partner/expReport.asp?ucode=GB000007&bgbn=A
+GB000008,UNITED KINGDOM,University of Chester,교환학생,ISEP,1.0,1.0,0.9431087970733644,/partner/expReport.asp?ucode=GB000008&bgbn=A
+GB000009,UNITED KINGDOM,University of East Anglia,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=GB000009&bgbn=A
+GB000010,UNITED KINGDOM,University of Edinburgh,교환학생방문학생SAP(정규),교환대학SAF,7.0,7.0,5.607286095619202,/partner/expReport.asp?ucode=GB000010&bgbn=A
+GB000040,UNITED KINGDOM,University of Exeter,,교환대학ISEP,9.0,5.0,6.6189601719379425,/partner/expReport.asp?ucode=GB000040&bgbn=A
+GB000011,UNITED KINGDOM,University of Glasgow,방문학생SAP(정규),교환대학ISEPSAF,5.0,5.0,3.292084276676178,/partner/expReport.asp?ucode=GB000011&bgbn=A
+GB000032,UNITED KINGDOM,University of Hertfordshire,교환학생,교환대학,25.0,20.0,18.69444441795349,/partner/expReport.asp?ucode=GB000032&bgbn=A
+GB000012,UNITED KINGDOM,University of Huddersfield,교환학생,ISEP,,,,/partner/expReport.asp?ucode=GB000012&bgbn=A
+GB000013,UNITED KINGDOM,University of Kent,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=GB000013&bgbn=A
+GB000041,UNITED KINGDOM,University of Leeds,,교환대학ISEP,12.0,11.0,8.74409931898117,/partner/expReport.asp?ucode=GB000041&bgbn=A
+GB000014,UNITED KINGDOM,University of Nottingham,교환학생,교환대학,5.0,4.0,3.6107810139656067,/partner/expReport.asp?ucode=GB000014&bgbn=A
+GB000015,UNITED KINGDOM,University of Oxford,방문학생SAP(정규),교환대학ISEPSAF,,,,/partner/expReport.asp?ucode=GB000015&bgbn=A
+GB000016,UNITED KINGDOM,University of Plymouth,교환학생,ISEP,1.0,1.0,0.8403265476226807,/partner/expReport.asp?ucode=GB000016&bgbn=A
+GB000017,UNITED KINGDOM,University of Sheffield,교환학생,교환대학,89.0,76.0,58.18052613735199,/partner/expReport.asp?ucode=GB000017&bgbn=A
+GB000042,UNITED KINGDOM,University of Southampton,,교환대학ISEP,,,,/partner/expReport.asp?ucode=GB000042&bgbn=A
+GB000043,UNITED KINGDOM,University of St Andrews,,교환대학ISEP,,,,/partner/expReport.asp?ucode=GB000043&bgbn=A
+GB000018,UNITED KINGDOM,University of Strathclyde,교환학생,ISEP,,,,/partner/expReport.asp?ucode=GB000018&bgbn=A
+GB000019,UNITED KINGDOM,University of Sunderland,교환학생,ISEP,,,,/partner/expReport.asp?ucode=GB000019&bgbn=A
+GB000020,UNITED KINGDOM,University of the Arts London,방문학생SAP(정규),SAF,1.0,1.0,0.6420245766639711,/partner/expReport.asp?ucode=GB000020&bgbn=A
+GB000021,UNITED KINGDOM,University of Ulster-Belfast,교환학생,ISEP,,,,/partner/expReport.asp?ucode=GB000021&bgbn=A
+GB000022,UNITED KINGDOM,University of Ulster-Coleraine,교환학생,ISEP,,,,/partner/expReport.asp?ucode=GB000022&bgbn=A
+GB000023,UNITED KINGDOM,University of Ulster-Jordanstown,교환학생,ISEP,,,,/partner/expReport.asp?ucode=GB000023&bgbn=A
+GB000024,UNITED KINGDOM,University of Ulster-Magee College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=GB000024&bgbn=A
+GB000025,UNITED KINGDOM,University of Westminster,방문학생SAP(정규),SAF,7.0,3.0,5.5646777749061584,/partner/expReport.asp?ucode=GB000025&bgbn=A
+US000001,UNITED STATES,Adrian College,교환학생,교환대학,6.0,5.0,3.1834423542022705,/partner/expReport.asp?ucode=US000001&bgbn=A
+US000002,UNITED STATES,Agnes Scott College,교환학생,ISEP,1.0,0.0,0.682537853717804,/partner/expReport.asp?ucode=US000002&bgbn=A
+US000003,UNITED STATES,American University,교환학생방문학생SAP(정규),교환대학SAF,113.0,93.0,85.56673896312714,/partner/expReport.asp?ucode=US000003&bgbn=A
+US000303,UNITED STATES,Amherst-College,교환학생,교환대학,1.0,0.0,0.6868484616279602,/partner/expReport.asp?ucode=US000303&bgbn=A
+US000004,UNITED STATES,Appalachian State University,교환학생,ISEP,3.0,3.0,2.010474145412445,/partner/expReport.asp?ucode=US000004&bgbn=A
+US000005,UNITED STATES,Arizona State University,교환학생,교환대학,79.0,57.0,57.65453800559044,/partner/expReport.asp?ucode=US000005&bgbn=A
+US000006,UNITED STATES,Armstrong Atlantic State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000006&bgbn=A
+US000288,UNITED STATES,Azusa Pacific University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000288&bgbn=A
+US000007,UNITED STATES,Ball State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000007&bgbn=A
+US000008,UNITED STATES,Barton College,교환학생,교환대학,9.0,7.0,4.570557743310928,/partner/expReport.asp?ucode=US000008&bgbn=A
+US000009,UNITED STATES,Baylor University,교환학생,교환대학,48.0,43.0,28.219400882720947,/partner/expReport.asp?ucode=US000009&bgbn=A
+US000010,UNITED STATES,Bellarmine University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000010&bgbn=A
+US000011,UNITED STATES,Beloit College,교환학생,ISEP,2.0,2.0,1.8123853206634521,/partner/expReport.asp?ucode=US000011&bgbn=A
+US000012,UNITED STATES,Benedictine College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000012&bgbn=A
+US000013,UNITED STATES,Berry College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000013&bgbn=A
+US000014,UNITED STATES,Biola University,교환학생,교환대학,16.0,14.0,11.777379274368286,/partner/expReport.asp?ucode=US000014&bgbn=A
+US000300,UNITED STATES,Boston University,,교환대학ISEP,,,,/partner/expReport.asp?ucode=US000300&bgbn=A
+US000015,UNITED STATES,Bowling Green State University,교환학생,교환대학,7.0,5.0,4.8248162269592285,/partner/expReport.asp?ucode=US000015&bgbn=A
+US000016,UNITED STATES,Brandeis University,교환학생,교환대학,12.0,9.0,6.261132717132568,/partner/expReport.asp?ucode=US000016&bgbn=A
+US000282,UNITED STATES,Bridgewater College,교환학생,ISEP,1.0,1.0,0.7022072076797485,/partner/expReport.asp?ucode=US000282&bgbn=A
+US000017,UNITED STATES,Brown University,교환학생,,5.0,4.0,2.7172949016094208,/partner/expReport.asp?ucode=US000017&bgbn=A
+US000018,UNITED STATES,Butler University,교환학생,ISEP,1.0,1.0,0.6321536898612976,/partner/expReport.asp?ucode=US000018&bgbn=A
+US000299,UNITED STATES,California Institute of the Arts,,교환대학ISEP,,,,/partner/expReport.asp?ucode=US000299&bgbn=A
+US000020,UNITED STATES,California Polytechnic State University San Luis Obispo,교환학생,교환대학,10.0,6.0,6.158437967300415,/partner/expReport.asp?ucode=US000020&bgbn=A
+US000029,UNITED STATES,California State Polytechnic University Ponoma,교환학생,교환대학,2.0,1.0,1.238731324672699,/partner/expReport.asp?ucode=US000029&bgbn=A
+US000301,UNITED STATES,Case Western Reserve University,교환학생,교환대학,3.0,3.0,2.071917414665222,/partner/expReport.asp?ucode=US000301&bgbn=A
+US000042,UNITED STATES,Central Michigan University,교환학생,ISEP,6.0,3.0,4.1229196190834045,/partner/expReport.asp?ucode=US000042&bgbn=A
+US000043,UNITED STATES,Central Washington University,교환학생,ISEP,2.0,2.0,1.2728118896484375,/partner/expReport.asp?ucode=US000043&bgbn=A
+US000044,UNITED STATES,Chapman University,교환학생,ISEP,2.0,1.0,1.2230240106582642,/partner/expReport.asp?ucode=US000044&bgbn=A
+US000045,UNITED STATES,Christopher Newport University,교환학생,교환대학,6.0,5.0,3.0474332869052887,/partner/expReport.asp?ucode=US000045&bgbn=A
+US000047,UNITED STATES,Clarion University of Pennsylvania,교환학생,ISEP,1.0,1.0,0.8672452569007874,/partner/expReport.asp?ucode=US000047&bgbn=A
+US000048,UNITED STATES,Clemson University,교환학생,ISEP,1.0,1.0,0.41385263204574585,/partner/expReport.asp?ucode=US000048&bgbn=A
+US000293,UNITED STATES,Colgate University,,교환대학,2.0,2.0,1.4079031944274902,/partner/expReport.asp?ucode=US000293&bgbn=A
+US000049,UNITED STATES,College of Charleston,교환학생,교환대학,2.0,2.0,1.252388060092926,/partner/expReport.asp?ucode=US000049&bgbn=A
+US000050,UNITED STATES,College of the Ozarks,교환학생,교환대학,5.0,5.0,2.463590621948242,/partner/expReport.asp?ucode=US000050&bgbn=A
+US000051,UNITED STATES,College of William & Mary,교환학생,교환대학,29.0,26.0,18.822402387857437,/partner/expReport.asp?ucode=US000051&bgbn=A
+US000052,UNITED STATES,Colorado State University,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=US000052&bgbn=A
+US000053,UNITED STATES,Columbia University,방문학생SAP(정규),SAF,2.0,2.0,1.4344192743301392,/partner/expReport.asp?ucode=US000053&bgbn=A
+US000054,UNITED STATES,Columbus State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000054&bgbn=A
+US000055,UNITED STATES,Cornell College,교환학생,교환대학,10.0,10.0,5.366041302680969,/partner/expReport.asp?ucode=US000055&bgbn=A
+US000294,UNITED STATES,Cornell University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000294&bgbn=A
+US000056,UNITED STATES,Creighton University,교환학생,ISEP,3.0,3.0,1.604321151971817,/partner/expReport.asp?ucode=US000056&bgbn=A
+US000039,UNITED STATES,CSU Bakersfield,교환학생,교환대학ISEP,,,,/partner/expReport.asp?ucode=US000039&bgbn=A
+US000023,UNITED STATES,CSU Channel Islands,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000023&bgbn=A
+US000022,UNITED STATES,CSU Chico,교환학생,교환대학,21.0,19.0,16.284026086330414,/partner/expReport.asp?ucode=US000022&bgbn=A
+US000024,UNITED STATES,CSU Dominguez Hills,교환학생,교환대학,4.0,4.0,2.885121464729309,/partner/expReport.asp?ucode=US000024&bgbn=A
+US000025,UNITED STATES,CSU East Bay,교환학생,교환대학,5.0,3.0,3.471164107322693,/partner/expReport.asp?ucode=US000025&bgbn=A
+US000026,UNITED STATES,CSU Fresno,교환학생,교환대학,3.0,2.0,2.242579400539398,/partner/expReport.asp?ucode=US000026&bgbn=A
+US000034,UNITED STATES,CSU Fullerton,교환학생,교환대학,22.0,15.0,16.18995040655136,/partner/expReport.asp?ucode=US000034&bgbn=A
+US000019,UNITED STATES,CSU Long Beach,교환학생,교환대학,83.0,59.0,55.6165811419487,/partner/expReport.asp?ucode=US000019&bgbn=A
+US000021,UNITED STATES,CSU Los Angeles,교환학생,교환대학,8.0,4.0,5.0263287127017975,/partner/expReport.asp?ucode=US000021&bgbn=A
+US000027,UNITED STATES,CSU Maritime Academy,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000027&bgbn=A
+US000036,UNITED STATES,CSU Monterey Bay,교환학생,교환대학,1.0,0.0,0.7314323186874391,/partner/expReport.asp?ucode=US000036&bgbn=A
+US000028,UNITED STATES,CSU Northridge,교환학생,교환대학,13.0,9.0,9.507431983947754,/partner/expReport.asp?ucode=US000028&bgbn=A
+US000030,UNITED STATES,CSU Sacramento,교환학생,교환대학,23.0,17.0,16.90411227941513,/partner/expReport.asp?ucode=US000030&bgbn=A
+US000031,UNITED STATES,CSU San Bernardino,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000031&bgbn=A
+US000032,UNITED STATES,CSU San Marcos,교환학생,교환대학,3.0,1.0,2.041482925415039,/partner/expReport.asp?ucode=US000032&bgbn=A
+US000033,UNITED STATES,CSU Stanislaus,교환학생,교환대학,1.0,1.0,0.9434523582458496,/partner/expReport.asp?ucode=US000033&bgbn=A
+US000046,UNITED STATES,CUNY - Baruch College,교환학생,교환대학,69.0,55.0,47.05959141254425,/partner/expReport.asp?ucode=US000046&bgbn=A
+US000057,UNITED STATES,Dartmouth College,,교환대학,14.0,12.0,7.967277646064758,/partner/expReport.asp?ucode=US000057&bgbn=A
+US000058,UNITED STATES,Dickinson College,교환학생,교환대학,21.0,18.0,14.295178353786469,/partner/expReport.asp?ucode=US000058&bgbn=A
+US000400,UNITED STATES,Dominican University of California,,ISEP,1.0,0.0,0.5123575925827026,/partner/expReport.asp?ucode=US000400&bgbn=A
+US000059,UNITED STATES,Drew University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000059&bgbn=A
+US000295,UNITED STATES,Duke University,,교환대학,,,,/partner/expReport.asp?ucode=US000295&bgbn=A
+US000060,UNITED STATES,East Carolina University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000060&bgbn=A
+US000061,UNITED STATES,East Stroudsburg University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000061&bgbn=A
+US000062,UNITED STATES,East Tennessee State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000062&bgbn=A
+US000138,UNITED STATES,Eastern Oregon University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000138&bgbn=A
+US000063,UNITED STATES,Eckerd College,교환학생,ISEP,4.0,1.0,2.7023066878318787,/partner/expReport.asp?ucode=US000063&bgbn=A
+US000064,UNITED STATES,Edgewood College,교환학생,ISEP,1.0,1.0,0.8728492259979248,/partner/expReport.asp?ucode=US000064&bgbn=A
+US000065,UNITED STATES,Elmhurst College,교환학생,ISEP,1.0,1.0,0.9886296987533568,/partner/expReport.asp?ucode=US000065&bgbn=A
+US000066,UNITED STATES,Emory University,교환학생,교환대학,49.0,43.0,31.816997081041336,/partner/expReport.asp?ucode=US000066&bgbn=A
+US000067,UNITED STATES,Emporia State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000067&bgbn=A
+US000068,UNITED STATES,Fort Hays State University,교환학생,ISEP,1.0,1.0,0.5139521360397339,/partner/expReport.asp?ucode=US000068&bgbn=A
+US000069,UNITED STATES,Frostburg State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000069&bgbn=A
+US000070,UNITED STATES,George Mason University,교환학생,교환대학,93.0,83.0,70.36242890357971,/partner/expReport.asp?ucode=US000070&bgbn=A
+US000071,UNITED STATES,George Washington University,교환학생,교환대학,39.0,32.0,29.75106179714203,/partner/expReport.asp?ucode=US000071&bgbn=A
+US000072,UNITED STATES,Georgia College & State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000072&bgbn=A
+US000073,UNITED STATES,Georgia Institute of Technology,교환학생,교환대학,62.0,48.0,44.93562710285187,/partner/expReport.asp?ucode=US000073&bgbn=A
+US000074,UNITED STATES,Georgia Southern University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000074&bgbn=A
+US000075,UNITED STATES,Gonzaga University,방문학생SAP(정규),SAF,1.0,1.0,0.5139521360397339,/partner/expReport.asp?ucode=US000075&bgbn=A
+US000296,UNITED STATES,Grinnell College,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000296&bgbn=A
+US000076,UNITED STATES,Hamline University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000076&bgbn=A
+US000077,UNITED STATES,Hampshire College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000077&bgbn=A
+US000078,UNITED STATES,Hendrix College,교환학생,ISEP,10.0,9.0,7.120137989521027,/partner/expReport.asp?ucode=US000078&bgbn=A
+US000079,UNITED STATES,Hobart & William Smith College,교환학생,교환대학,28.0,26.0,21.59011882543564,/partner/expReport.asp?ucode=US000079&bgbn=A
+US000080,UNITED STATES,Howard University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000080&bgbn=A
+US000081,UNITED STATES,Hult International Business School,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000081&bgbn=A
+US000035,UNITED STATES,Humboldt State University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000035&bgbn=A
+US000082,UNITED STATES,Idaho State University,교환학생,ISEP,1.0,1.0,0.6301355361938477,/partner/expReport.asp?ucode=US000082&bgbn=A
+US000083,UNITED STATES,Illinois Institute of Technology,방문학생SAP(정규),,17.0,15.0,10.133790135383606,/partner/expReport.asp?ucode=US000083&bgbn=A
+US000084,UNITED STATES,Indiana State University,교환학생,ISEP,2.0,1.0,1.1264484524726868,/partner/expReport.asp?ucode=US000084&bgbn=A
+US000085,UNITED STATES,Indiana University Bloomington,교환학생방문학생SAP(정규),교환대학SAF,13.0,8.0,7.294690132141113,/partner/expReport.asp?ucode=US000085&bgbn=A
+US000086,UNITED STATES,Indiana University of Pennsylvania,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000086&bgbn=A
+US000087,UNITED STATES,Iowa State University,교환학생,교환대학,17.0,15.0,9.670300453901291,/partner/expReport.asp?ucode=US000087&bgbn=A
+US000088,UNITED STATES,Iowa State University of Science and Technology,교환학생,ISEP,3.0,2.0,2.1371831595897675,/partner/expReport.asp?ucode=US000088&bgbn=A
+US000089,UNITED STATES,Jackson State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000089&bgbn=A
+US000090,UNITED STATES,James Madison University,교환학생,교환대학,18.0,16.0,13.021862238645554,/partner/expReport.asp?ucode=US000090&bgbn=A
+US000091,UNITED STATES,Jamestown College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000091&bgbn=A
+US000092,UNITED STATES,John Carroll University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000092&bgbn=A
+US000093,UNITED STATES,Kansas State University,교환학생,ISEP,4.0,3.0,2.480228364467621,/partner/expReport.asp?ucode=US000093&bgbn=A
+US000094,UNITED STATES,Kennesaw State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000094&bgbn=A
+US000095,UNITED STATES,King College,교환학생,교환대학,9.0,8.0,6.45596569776535,/partner/expReport.asp?ucode=US000095&bgbn=A
+US000096,UNITED STATES,Linfield College,교환학생,교환대학,51.0,50.0,35.07753622531891,/partner/expReport.asp?ucode=US000096&bgbn=A
+US000097,UNITED STATES,Long Island University,교환학생,교환대학ISEP,1.0,1.0,0.5261839628219604,/partner/expReport.asp?ucode=US000097&bgbn=A
+US000098,UNITED STATES,Louisiana State University,교환학생,ISEP,10.0,8.0,5.253256142139435,/partner/expReport.asp?ucode=US000098&bgbn=A
+US000099,UNITED STATES,Loyola University of New Orleans,교환학생,ISEP,2.0,1.0,1.540766417980194,/partner/expReport.asp?ucode=US000099&bgbn=A
+US000100,UNITED STATES,Mansfield University,교환학생,ISEP,2.0,1.0,1.6109103560447693,/partner/expReport.asp?ucode=US000100&bgbn=A
+US000101,UNITED STATES,Mars Hill College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000101&bgbn=A
+US000102,UNITED STATES,Marshall University,교환학생,ISEP,1.0,1.0,0.6639170646667479,/partner/expReport.asp?ucode=US000102&bgbn=A
+US000103,UNITED STATES,Maryland Institute College of Art,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000103&bgbn=A
+US000104,UNITED STATES,Maryville College,교환학생,교환대학,28.0,27.0,21.112274765968323,/partner/expReport.asp?ucode=US000104&bgbn=A
+US000105,UNITED STATES,Mercer University,교환학생,교환대학,8.0,5.0,4.560904264450073,/partner/expReport.asp?ucode=US000105&bgbn=A
+US000106,UNITED STATES,Miami University,교환학생방문학생SAP(정규),ISEPSAF,4.0,3.0,3.2217395305633545,/partner/expReport.asp?ucode=US000106&bgbn=A
+US000107,UNITED STATES,Michigan State University,교환학생,교환대학,54.0,39.0,35.950070440769196,/partner/expReport.asp?ucode=US000107&bgbn=A
+US000108,UNITED STATES,Michigan Technological University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000108&bgbn=A
+US000109,UNITED STATES,Middle Tennessee State University,교환학생,교환대학,19.0,17.0,13.812995791435242,/partner/expReport.asp?ucode=US000109&bgbn=A
+US000110,UNITED STATES,Middlebury College,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=US000110&bgbn=A
+US000111,UNITED STATES,Minnesota State University Moorhead,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000111&bgbn=A
+US000112,UNITED STATES,Minot State University,교환학생,ISEP,1.0,1.0,0.6040762662887573,/partner/expReport.asp?ucode=US000112&bgbn=A
+US000113,UNITED STATES,Missouri Southern State University,교환학생,ISEP,4.0,3.0,2.2372766733169556,/partner/expReport.asp?ucode=US000113&bgbn=A
+US000114,UNITED STATES,Missouri State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000114&bgbn=A
+US000115,UNITED STATES,Monmouth College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000115&bgbn=A
+US000116,UNITED STATES,Montana State University,교환학생SAP(정규),교환대학ISEPSAF,31.0,21.0,23.00225454568863,/partner/expReport.asp?ucode=US000116&bgbn=A
+US000117,UNITED STATES,Mount Holyoke College,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=US000117&bgbn=A
+US000118,UNITED STATES,Muskingum College,교환학생,교환대학,17.0,16.0,10.07533198595047,/partner/expReport.asp?ucode=US000118&bgbn=A
+US000119,UNITED STATES,Nebraska Wesleyan University,교환학생,ISEP,7.0,6.0,3.860870122909546,/partner/expReport.asp?ucode=US000119&bgbn=A
+US000120,UNITED STATES,New Brunswick Theological Seminary,교환학생,교환대학,1.0,1.0,0.5033164024353027,/partner/expReport.asp?ucode=US000120&bgbn=A
+US000121,UNITED STATES,New Mexico State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000121&bgbn=A
+US000122,UNITED STATES,New York University,교환학생,교환대학,42.0,33.0,27.090138792991638,/partner/expReport.asp?ucode=US000122&bgbn=A
+US000123,UNITED STATES,New York University - Stern School of Business,교환학생,교환대학,18.0,17.0,12.651913166046143,/partner/expReport.asp?ucode=US000123&bgbn=A
+US000124,UNITED STATES,North Carolina Agricultural & Technical State University,교환학생,ISEP,1.0,0.0,0.637913703918457,/partner/expReport.asp?ucode=US000124&bgbn=A
+US000125,UNITED STATES,North Carolina Central University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000125&bgbn=A
+US000126,UNITED STATES,"North Carolina State University, Raleigh",교환학생,ISEP,6.0,4.0,4.114972174167633,/partner/expReport.asp?ucode=US000126&bgbn=A
+US000127,UNITED STATES,North Central College,교환학생,교환대학,22.0,19.0,13.805211812257767,/partner/expReport.asp?ucode=US000127&bgbn=A
+US000128,UNITED STATES,North Dakota State University,교환학생,ISEP,6.0,4.0,3.8647141456604004,/partner/expReport.asp?ucode=US000128&bgbn=A
+US000129,UNITED STATES,North Georgia College & State University,교환학생,ISEP,1.0,1.0,0.6072539687156677,/partner/expReport.asp?ucode=US000129&bgbn=A
+US000130,UNITED STATES,North Park University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000130&bgbn=A
+US000302,UNITED STATES,Northeastern University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000302&bgbn=A
+US000281,UNITED STATES,Northern Arizona University,교환학생,ISEP,3.0,2.0,1.9953954815864563,/partner/expReport.asp?ucode=US000281&bgbn=A
+US000131,UNITED STATES,Northern State University,교환학생,교환대학,23.0,17.0,15.763255000114441,/partner/expReport.asp?ucode=US000131&bgbn=A
+US000132,UNITED STATES,Northwest Missouri State University,교환학생,교환대학ISEP,8.0,6.0,5.50217992067337,/partner/expReport.asp?ucode=US000132&bgbn=A
+US000133,UNITED STATES,Northwestern State University of Louisiana,교환학생,ISEP,1.0,1.0,0.9451886415481568,/partner/expReport.asp?ucode=US000133&bgbn=A
+US000134,UNITED STATES,"Northwestern University, Kellogg School of Management",교환학생,교환대학,2.0,2.0,1.0319980382919312,/partner/expReport.asp?ucode=US000134&bgbn=A
+US000135,UNITED STATES,Ohio State University,교환학생,교환대학,25.0,19.0,16.912310779094696,/partner/expReport.asp?ucode=US000135&bgbn=A
+US000136,UNITED STATES,Oklahoma State University,교환학생,교환대학,21.0,12.0,14.180872231721878,/partner/expReport.asp?ucode=US000136&bgbn=A
+US000137,UNITED STATES,Old Dominion University,교환학생,교환대학ISEP,36.0,28.0,25.300504237413406,/partner/expReport.asp?ucode=US000137&bgbn=A
+US000139,UNITED STATES,Oregon Institute of Technology,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000139&bgbn=A
+US000140,UNITED STATES,Oregon State University,교환학생,교환대학,18.0,12.0,11.147726356983185,/partner/expReport.asp?ucode=US000140&bgbn=A
+US000145,UNITED STATES,Pepperdine University,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=US000145&bgbn=A
+US000146,UNITED STATES,Pitzer College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000146&bgbn=A
+US000141,UNITED STATES,Portland State University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000141&bgbn=A
+US000147,UNITED STATES,Purdue University,교환학생방문학생SAP(정규),교환대학SAF,51.0,42.0,35.52003738284111,/partner/expReport.asp?ucode=US000147&bgbn=A
+US000148,UNITED STATES,Radford University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000148&bgbn=A
+US000149,UNITED STATES,Randolph-Macon College,교환학생,교환대학,10.0,8.0,6.948341220617294,/partner/expReport.asp?ucode=US000149&bgbn=A
+US000150,UNITED STATES,Recinto Universitario De Mayaguez,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000150&bgbn=A
+US000151,UNITED STATES,Recinto Universitario De Rio Piedras,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000151&bgbn=A
+US000152,UNITED STATES,Rhodes College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000152&bgbn=A
+US000153,UNITED STATES,Roanoke College,교환학생,ISEP,6.0,5.0,3.1407687067985535,/partner/expReport.asp?ucode=US000153&bgbn=A
+US000154,UNITED STATES,Rocky Mountain College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000154&bgbn=A
+US000155,UNITED STATES,Roger Williams University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000155&bgbn=A
+US000156,UNITED STATES,Roosevelt University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000156&bgbn=A
+US000297,UNITED STATES,"Rutgers University, The State University of New Jersey",교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000297&bgbn=A
+US000157,UNITED STATES,Sacred Heart University,교환학생,교환대학,4.0,3.0,1.983530044555664,/partner/expReport.asp?ucode=US000157&bgbn=A
+US000040,UNITED STATES,San Diego State University,교환학생SAP(정규),교환대학ISEP,70.0,59.0,46.31579154729843,/partner/expReport.asp?ucode=US000040&bgbn=A
+US000037,UNITED STATES,San Francisco State University,교환학생,교환대학,67.0,60.0,46.72753405570984,/partner/expReport.asp?ucode=US000037&bgbn=A
+US000041,UNITED STATES,San Jose State University,교환학생,교환대학ISEP,25.0,18.0,16.81703245639801,/partner/expReport.asp?ucode=US000041&bgbn=A
+US000158,UNITED STATES,Smith College,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=US000158&bgbn=A
+US000038,UNITED STATES,Sonoma State University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000038&bgbn=A
+US000159,UNITED STATES,South Dakota State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000159&bgbn=A
+US000160,UNITED STATES,Southern Connecticut State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000160&bgbn=A
+US000161,UNITED STATES,Southern Illinois University-Carbondale,교환학생,ISEP,3.0,3.0,1.7897488474845886,/partner/expReport.asp?ucode=US000161&bgbn=A
+US000142,UNITED STATES,Southern Oregon University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000142&bgbn=A
+US000162,UNITED STATES,Southwestern University,교환학생,ISEP,2.0,2.0,1.213273286819458,/partner/expReport.asp?ucode=US000162&bgbn=A
+US000163,UNITED STATES,St. Cloud State University,교환학생방문학생SAP(정규),교환대학,86.0,80.0,59.523070484399796,/partner/expReport.asp?ucode=US000163&bgbn=A
+US000164,UNITED STATES,St. Edward's University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000164&bgbn=A
+US000165,UNITED STATES,St. Joseph's College of Maine,교환학생,ISEP,1.0,1.0,0.7883647084236145,/partner/expReport.asp?ucode=US000165&bgbn=A
+US000166,UNITED STATES,St. Lawrence University,교환학생,ISEP,1.0,1.0,0.5139521360397339,/partner/expReport.asp?ucode=US000166&bgbn=A
+US000167,UNITED STATES,St. Michael's College,교환학생,교환대학,2.0,1.0,1.5168815851211548,/partner/expReport.asp?ucode=US000167&bgbn=A
+US000168,UNITED STATES,St. Olaf College,교환학생,교환대학,20.0,19.0,14.099125474691391,/partner/expReport.asp?ucode=US000168&bgbn=A
+US000169,UNITED STATES,St. Peter's College,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000169&bgbn=A
+US000170,UNITED STATES,Stephen F. Austin State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000170&bgbn=A
+US000171,UNITED STATES,Suffolk University - Sawyer School of Management,교환학생,교환대학,13.0,9.0,9.301319062709808,/partner/expReport.asp?ucode=US000171&bgbn=A
+US000172,UNITED STATES,SUNY at Albany,교환학생,교환대학,223.0,177.0,150.85559013485909,/partner/expReport.asp?ucode=US000172&bgbn=A
+US000173,UNITED STATES,SUNY at Stony Brook,교환학생,교환대학,66.0,56.0,46.791345834732056,/partner/expReport.asp?ucode=US000173&bgbn=A
+US000174,UNITED STATES,Syracuse University,교환학생,교환대학,35.0,27.0,24.32923349738121,/partner/expReport.asp?ucode=US000174&bgbn=A
+US000279,UNITED STATES,Temple University,교환학생,교환대학,31.0,23.0,21.526893943548203,/partner/expReport.asp?ucode=US000279&bgbn=A
+US000175,UNITED STATES,Tennessee State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000175&bgbn=A
+US000176,UNITED STATES,Tennessee Technological University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000176&bgbn=A
+US000177,UNITED STATES,Texas A&M International University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000177&bgbn=A
+US000178,UNITED STATES,Texas Lutheran University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000178&bgbn=A
+US000233,UNITED STATES,The University of Scranton,교환학생,교환대학,33.0,26.0,23.76008027791977,/partner/expReport.asp?ucode=US000233&bgbn=A
+US000179,UNITED STATES,Thunderbird School of Global Management,교환학생,교환대학,8.0,5.0,4.24778813123703,/partner/expReport.asp?ucode=US000179&bgbn=A
+US000180,UNITED STATES,Towson University,교환학생,교환대학,18.0,15.0,14.019603461027145,/partner/expReport.asp?ucode=US000180&bgbn=A
+US000181,UNITED STATES,Trinity University,교환학생SAP(정규),교환대학SAF,11.0,6.0,6.920484244823456,/partner/expReport.asp?ucode=US000181&bgbn=A
+US000182,UNITED STATES,Truman State University,교환학생,ISEP,10.0,6.0,7.024471789598465,/partner/expReport.asp?ucode=US000182&bgbn=A
+US000280,UNITED STATES,"Tufts University, The Fletcher School",교환학생,교환대학,5.0,5.0,2.5790072679519653,/partner/expReport.asp?ucode=US000280&bgbn=A
+US000183,UNITED STATES,Union College,교환학생,교환대학,4.0,4.0,2.0494303703308105,/partner/expReport.asp?ucode=US000183&bgbn=A
+US000184,UNITED STATES,University of Akron,교환학생,교환대학,34.0,26.0,22.990320086479187,/partner/expReport.asp?ucode=US000184&bgbn=A
+US000185,UNITED STATES,University of Alabama,교환학생,교환대학,19.0,17.0,11.64844834804535,/partner/expReport.asp?ucode=US000185&bgbn=A
+US000186,UNITED STATES,University of Alaska Southeast,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000186&bgbn=A
+US000187,UNITED STATES,University of Arkansas,방문학생SAP(정규),SAF,1.0,1.0,0.9287242889404296,/partner/expReport.asp?ucode=US000187&bgbn=A
+US000188,UNITED STATES,University of California Berkeley,교환학생SAP(정규)SAP(계절),교환대학,393.0,298.0,244.5093618631363,/partner/expReport.asp?ucode=US000188&bgbn=A
+US000189,UNITED STATES,University of California Davis,교환학생,교환대학,155.0,124.0,105.91061297059059,/partner/expReport.asp?ucode=US000189&bgbn=A
+US000190,UNITED STATES,University of California Irvine,교환학생,교환대학,315.0,213.0,216.17664149403572,/partner/expReport.asp?ucode=US000190&bgbn=A
+US000191,UNITED STATES,University of California Los Angeles,교환학생SAP(계절),교환대학,279.0,205.0,193.17415535449982,/partner/expReport.asp?ucode=US000191&bgbn=A
+US000291,UNITED STATES,University of California Merced,교환학생,교환대학,12.0,10.0,7.368432819843292,/partner/expReport.asp?ucode=US000291&bgbn=A
+US000192,UNITED STATES,University of California Riverside,교환학생,교환대학,64.0,32.0,44.73249241709709,/partner/expReport.asp?ucode=US000192&bgbn=A
+US000195,UNITED STATES,University of California San Diego,교환학생,교환대학,264.0,159.0,184.7764623761177,/partner/expReport.asp?ucode=US000195&bgbn=A
+US000298,UNITED STATES,University of California San Francisco,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000298&bgbn=A
+US000193,UNITED STATES,University of California Santa Barbara,교환학생,교환대학,310.0,180.0,223.91704866290092,/partner/expReport.asp?ucode=US000193&bgbn=A
+US000194,UNITED STATES,University of California Santa Cruz,교환학생,교환대학,70.0,38.0,48.57572844624519,/partner/expReport.asp?ucode=US000194&bgbn=A
+US000196,UNITED STATES,University of Central Missouri,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000196&bgbn=A
+US000197,UNITED STATES,University of Chicago,교환학생,교환대학,13.0,12.0,7.81555837392807,/partner/expReport.asp?ucode=US000197&bgbn=A
+US000198,UNITED STATES,University of Cincinnati,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000198&bgbn=A
+US000199,UNITED STATES,University of Colorado,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=US000199&bgbn=A
+US000200,UNITED STATES,University of Connecticut,교환학생,교환대학,33.0,26.0,24.517746448516846,/partner/expReport.asp?ucode=US000200&bgbn=A
+US000201,UNITED STATES,University of Denver,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000201&bgbn=A
+US000202,UNITED STATES,University of Georgia,교환학생,교환대학,74.0,61.0,52.68645402789116,/partner/expReport.asp?ucode=US000202&bgbn=A
+US000203,UNITED STATES,University of Guam,교환학생,교환대학,2.0,1.0,1.2374571561813354,/partner/expReport.asp?ucode=US000203&bgbn=A
+US000204,UNITED STATES,University of Hawaii at Manoa,교환학생,교환대학,79.0,65.0,50.503442257642746,/partner/expReport.asp?ucode=US000204&bgbn=A
+US000205,UNITED STATES,University of Hawaii Hilo,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=US000205&bgbn=A
+US000206,UNITED STATES,University of Idaho,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000206&bgbn=A
+US000207,UNITED STATES,University of Illinois at Urbana-Champaign,교환학생,교환대학ISEP,117.0,104.0,79.16307502985,/partner/expReport.asp?ucode=US000207&bgbn=A
+US000208,UNITED STATES,University of Iowa,교환학생방문학생SAP(정규),ISEPSAF,6.0,6.0,3.647523581981659,/partner/expReport.asp?ucode=US000208&bgbn=A
+US000209,UNITED STATES,University of Kansas,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000209&bgbn=A
+US000210,UNITED STATES,University of Kentucky,교환학생,ISEP,4.0,3.0,2.7887484431266785,/partner/expReport.asp?ucode=US000210&bgbn=A
+US000211,UNITED STATES,University of Maryland at College Park,교환학생,교환대학,67.0,58.0,47.41982728242874,/partner/expReport.asp?ucode=US000211&bgbn=A
+US000212,UNITED STATES,University of Massachusetts Amherst,교환학생,교환대학,63.0,50.0,44.0998515188694,/partner/expReport.asp?ucode=US000212&bgbn=A
+US000286,UNITED STATES,University of Massachusetts Lowell,교환학생,교환대학,4.0,2.0,2.561988055706024,/partner/expReport.asp?ucode=US000286&bgbn=A
+US000213,UNITED STATES,University of Memphis,교환학생,ISEP,1.0,1.0,0.5122702717781067,/partner/expReport.asp?ucode=US000213&bgbn=A
+US000214,UNITED STATES,University of Miami,교환학생,교환대학,12.0,11.0,9.031297266483307,/partner/expReport.asp?ucode=US000214&bgbn=A
+US000215,UNITED STATES,University of Michigan,교환학생,교환대학,38.0,32.0,25.93419176340103,/partner/expReport.asp?ucode=US000215&bgbn=A
+US000216,UNITED STATES,University of Minnesota Morris,교환학생,교환대학,34.0,27.0,21.827039897441864,/partner/expReport.asp?ucode=US000216&bgbn=A
+US000217,UNITED STATES,University of Minnesota Twin Cities,교환학생방문학생SAP(정규),ISEPSAF,14.0,11.0,10.263747185468674,/partner/expReport.asp?ucode=US000217&bgbn=A
+US000218,UNITED STATES,University of Mississippi,교환학생,ISEP,1.0,1.0,0.5580055713653564,/partner/expReport.asp?ucode=US000218&bgbn=A
+US000219,UNITED STATES,University of Montana,교환학생방문학생SAP(정규),ISEPSAF,2.0,2.0,0.8347524702548981,/partner/expReport.asp?ucode=US000219&bgbn=A
+US000220,UNITED STATES,University of Nebraska at Kearney,교환학생,ISEP,1.0,1.0,0.5156486034393309,/partner/expReport.asp?ucode=US000220&bgbn=A
+US000221,UNITED STATES,"University of Nebraska, Lincoln",교환학생,ISEP,4.0,4.0,2.805501341819763,/partner/expReport.asp?ucode=US000221&bgbn=A
+US000222,UNITED STATES,University of North Carolina at Asheville,교환학생,ISEP,11.0,9.0,8.217390596866608,/partner/expReport.asp?ucode=US000222&bgbn=A
+US000223,UNITED STATES,University of North Carolina at Chapel Hill,교환학생,교환대학ISEP,63.0,56.0,47.396314680576324,/partner/expReport.asp?ucode=US000223&bgbn=A
+US000224,UNITED STATES,University of North Carolina at Charlotte,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000224&bgbn=A
+US000225,UNITED STATES,University of North Carolina at Greensboro,교환학생,교환대학ISEP,48.0,36.0,37.70690920948982,/partner/expReport.asp?ucode=US000225&bgbn=A
+US000226,UNITED STATES,University of North Carolina at Pembroke,교환학생,ISEP,1.0,1.0,0.5122702717781067,/partner/expReport.asp?ucode=US000226&bgbn=A
+US000227,UNITED STATES,University of North Carolina at Wilmington,교환학생,ISEP,1.0,0.0,0.6875936985015869,/partner/expReport.asp?ucode=US000227&bgbn=A
+US000228,UNITED STATES,University of North Dakota,교환학생,ISEP,1.0,1.0,0.3998453319072723,/partner/expReport.asp?ucode=US000228&bgbn=A
+US000229,UNITED STATES,University of North Texas,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000229&bgbn=A
+US000230,UNITED STATES,University of Northern Colorado,교환학생,ISEP,11.0,10.0,5.110761284828186,/partner/expReport.asp?ucode=US000230&bgbn=A
+US000287,UNITED STATES,University of Notre Dame,교환학생,교환대학,3.0,2.0,2.810688853263855,/partner/expReport.asp?ucode=US000287&bgbn=A
+US000143,UNITED STATES,University of Oregon,교환학생,교환대학,49.0,36.0,31.377559006214142,/partner/expReport.asp?ucode=US000143&bgbn=A
+US000231,UNITED STATES,University of Pennsylvania,교환학생,교환대학,41.0,28.0,26.347421050071716,/partner/expReport.asp?ucode=US000231&bgbn=A
+US000284,UNITED STATES,University of Pittsburgh,교환학생,교환대학,22.0,20.0,15.796089231967926,/partner/expReport.asp?ucode=US000284&bgbn=A
+US000232,UNITED STATES,University of Richmond,교환학생SAP(정규),교환대학SAF,28.0,23.0,21.233281135559082,/partner/expReport.asp?ucode=US000232&bgbn=A
+US000310,UNITED STATES,University of Rochester,,교환대학,,,,/partner/expReport.asp?ucode=US000310&bgbn=A
+US000234,UNITED STATES,University of Sioux Falls,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000234&bgbn=A
+US000235,UNITED STATES,University of South Carolina,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000235&bgbn=A
+US000236,UNITED STATES,University of South Carolina-Columbia,교환학생,ISEP,2.0,2.0,1.2484385967254639,/partner/expReport.asp?ucode=US000236&bgbn=A
+US000237,UNITED STATES,University of South Florida,교환학생,교환대학,69.0,56.0,46.044058591127396,/partner/expReport.asp?ucode=US000237&bgbn=A
+US000238,UNITED STATES,University of Southern Indiana,교환학생,ISEP,2.0,2.0,1.2267650365829468,/partner/expReport.asp?ucode=US000238&bgbn=A
+US000239,UNITED STATES,University of St. Thomas,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=US000239&bgbn=A
+US000240,UNITED STATES,University of Tennessee at Chattanooga,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000240&bgbn=A
+US000241,UNITED STATES,University of Tennessee Knoxville,교환학생,ISEP,17.0,15.0,10.757086545228958,/partner/expReport.asp?ucode=US000241&bgbn=A
+US000242,UNITED STATES,University of Texas at Arlington,교환학생,교환대학,58.0,46.0,38.280956119298935,/partner/expReport.asp?ucode=US000242&bgbn=A
+US000243,UNITED STATES,University of Texas at Austin,교환학생,교환대학,4.0,1.0,2.9984755516052246,/partner/expReport.asp?ucode=US000243&bgbn=A
+US000244,UNITED STATES,University of Texas at El Paso,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000244&bgbn=A
+US000245,UNITED STATES,University of the Pacific,교환학생,ISEP,1.0,1.0,0.7555708289146423,/partner/expReport.asp?ucode=US000245&bgbn=A
+US000246,UNITED STATES,University of the South,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=US000246&bgbn=A
+US000247,UNITED STATES,University of Utah,교환학생SAP(정규),교환대학ISEPSAF,38.0,28.0,24.530676037073135,/partner/expReport.asp?ucode=US000247&bgbn=A
+US000248,UNITED STATES,University of Vermont,교환학생,ISEPSAF,13.0,11.0,9.149394512176514,/partner/expReport.asp?ucode=US000248&bgbn=A
+US000249,UNITED STATES,University of Virginia's College at Wise,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000249&bgbn=A
+US000250,UNITED STATES,University of Washington,교환학생SAP(정규),교환대학,167.0,130.0,105.40676659345627,/partner/expReport.asp?ucode=US000250&bgbn=A
+US000251,UNITED STATES,University of West Georgia,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000251&bgbn=A
+US000253,UNITED STATES,University of Wisconsin La Crosse,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000253&bgbn=A
+US000283,UNITED STATES,University of Wisconsin-Madison,교환학생,교환대학,57.0,46.0,40.70910236239433,/partner/expReport.asp?ucode=US000283&bgbn=A
+US000254,UNITED STATES,University of Wyoming,교환학생,ISEP,3.0,3.0,1.6855410933494568,/partner/expReport.asp?ucode=US000254&bgbn=A
+US000292,UNITED STATES,Upper Iowa University,교환학생,ISEP,1.0,1.0,0.6869951486587524,/partner/expReport.asp?ucode=US000292&bgbn=A
+US000255,UNITED STATES,Utah State University,교환학생,ISEP,1.0,0.0,0.781536340713501,/partner/expReport.asp?ucode=US000255&bgbn=A
+US000256,UNITED STATES,Valdosta State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000256&bgbn=A
+US000257,UNITED STATES,Vanderbilt University,방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=US000257&bgbn=A
+US000258,UNITED STATES,Virginia Commonwealth University,교환학생,교환대학ISEP,2.0,2.0,1.6755903959274292,/partner/expReport.asp?ucode=US000258&bgbn=A
+US000259,UNITED STATES,Virginia Polytechnich Institute and State University,교환학생,ISEP,6.0,5.0,4.859520673751831,/partner/expReport.asp?ucode=US000259&bgbn=A
+US000260,UNITED STATES,Washington and Jefferson College,교환학생,교환대학,12.0,8.0,8.782226026058197,/partner/expReport.asp?ucode=US000260&bgbn=A
+US000261,UNITED STATES,Washington College,교환학생,교환대학,22.0,16.0,17.47792148590088,/partner/expReport.asp?ucode=US000261&bgbn=A
+US000262,UNITED STATES,Washington Semester Program (American University),방문학생SAP(정규),SAF,,,,/partner/expReport.asp?ucode=US000262&bgbn=A
+US000263,UNITED STATES,Washington State University,교환학생,ISEP,4.0,3.0,2.495600461959839,/partner/expReport.asp?ucode=US000263&bgbn=A
+US000264,UNITED STATES,Washington University in St. Louis,교환학생,교환대학,25.0,18.0,16.989374071359634,/partner/expReport.asp?ucode=US000264&bgbn=A
+US000265,UNITED STATES,Wesley College,교환학생,ISEP,1.0,1.0,0.9284954667091371,/partner/expReport.asp?ucode=US000265&bgbn=A
+US000266,UNITED STATES,West Virginia University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000266&bgbn=A
+US000267,UNITED STATES,West Virginia Wesleyan College,교환학생,교환대학,3.0,3.0,1.967446208000183,/partner/expReport.asp?ucode=US000267&bgbn=A
+US000268,UNITED STATES,Western Carolina University,교환학생,ISEP,1.0,1.0,0.8671858310699463,/partner/expReport.asp?ucode=US000268&bgbn=A
+US000269,UNITED STATES,Western Connecticut State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000269&bgbn=A
+US000270,UNITED STATES,Western Illinois University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000270&bgbn=A
+US000271,UNITED STATES,Western Kentucky University,교환학생,교환대학,20.0,17.0,16.276685535907745,/partner/expReport.asp?ucode=US000271&bgbn=A
+US000144,UNITED STATES,Western Oregon University,교환학생,교환대학,,,,/partner/expReport.asp?ucode=US000144&bgbn=A
+US000272,UNITED STATES,Western Washington University,교환학생,교환대학ISEP,19.0,12.0,12.588630974292755,/partner/expReport.asp?ucode=US000272&bgbn=A
+US000273,UNITED STATES,Westminster College,교환학생,교환대학,23.0,21.0,17.890282809734344,/partner/expReport.asp?ucode=US000273&bgbn=A
+US000274,UNITED STATES,Whitworth College,교환학생,ISEP,1.0,1.0,0.2841184139251709,/partner/expReport.asp?ucode=US000274&bgbn=A
+US000275,UNITED STATES,Wichita State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000275&bgbn=A
+US000276,UNITED STATES,Willamette University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000276&bgbn=A
+US000277,UNITED STATES,Winston-Salem State University,교환학생,ISEP,,,,/partner/expReport.asp?ucode=US000277&bgbn=A
+US000278,UNITED STATES,Wittenberg University,교환학생,ISEP,3.0,1.0,1.5472150444984436,/partner/expReport.asp?ucode=US000278&bgbn=A
+UY000001,URUGUAY,Universidad Catolica del Uruguay,교환학생,ISEP,,,,/partner/expReport.asp?ucode=UY000001&bgbn=A
+VN000002,VIETNAM,Hanoi University,,교환대학,,,,/partner/expReport.asp?ucode=VN000002&bgbn=A
+VN000004,VIETNAM,Ho Chi MInh City University of Education,,교환대학,,,,/partner/expReport.asp?ucode=VN000004&bgbn=A
+VN000001,VIETNAM,National Economics University of Hanoi,교환학생,,,,,/partner/expReport.asp?ucode=VN000001&bgbn=A
+VN000003,VIETNAM,"Vietnam National University, Hanoi",교환학생,교환대학,,,,/partner/expReport.asp?ucode=VN000003&bgbn=A
+VN000005,VIETNAM,"Vietnam National University, Ho Chi Minh City",,교환대학,,,,/partner/expReport.asp?ucode=VN000005&bgbn=A
+VN000006,VIETNAM,Vin University,,교환대학,,,,/partner/expReport.asp?ucode=VN000006&bgbn=A
+ZW000001,ZIMBABWE,University of Zimbabwe,교환학생,교환대학,,,,/partner/expReport.asp?ucode=ZW000001&bgbn=A

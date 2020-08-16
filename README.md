@@ -38,7 +38,7 @@ Collected using [collect_reviews.ipynb](./collect_reviews.ipynb)
 
 ### [univ_text_data](./data/univ_text_data)
 
-연세대 학생들은 해외 교환 대학에서 복귀한 직후 의무적으로 후기를 작성해왔음. 각 해외 파견 대학들의 연세대 학생 리뷰 텍스트 데이터를 정리함. 총 8000여 건의 리뷰데이터들을 모아놓음. 
+연세대 학생들은 해외 교환 대학에서 복귀한 직후 의무적으로 후기를 작성해왔음. 각 해외 파견 대학들의 연세대 학생 리뷰 텍스트 데이터를 정리함. 총 11200여 건의 리뷰데이터들을 모아놓음. 
 
 **_review_abstract**
 
