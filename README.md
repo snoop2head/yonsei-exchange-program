@@ -26,14 +26,14 @@
 
 ![image-20200817135457346](./img/image-20200817135457346.png)
 
-## Dataset Explanation on [data folder](./data)
+## Explaning Datasets in data_wrangled Folder
 
-Collected using [collect_reviews.ipynb](./collect_reviews.ipynb)
+* Collected using [collect_reviews.ipynb](./collect_reviews.ipynb)
+* 2020년 8월 기준 총 11200여 건의 리뷰데이터들을 모아놓음. 연세대 학생들은 해외 교환 대학에서 복귀한 직후 의무적으로 후기를 작성해왔음. 각 해외 파견 대학들의 연세대 학생 리뷰 텍스트 데이터를 정리함. 
 
 ### [df_univ_wrangled.csv](./data_wrangled/df_univ_wrangled.csv)
 
-연세대에서 갈 수 있는 해외 교환 대학들을 정리함.
-하단은 각 column 별 설명.
+연세대에서 갈 수 있는 해외 교환 대학들을 정리함. 하단은 각 column 별 설명.
 
 * 대학코드: 연세대 국제처가 대학들을 분류하는 코드
 * 국가: 해당 교환대학의 소속 국가.
@@ -45,14 +45,9 @@ Collected using [collect_reviews.ipynb](./collect_reviews.ipynb)
 * RNN_SUM: NSMC로 학습한 RNN 모델이 긍/부정 레이블한 숫자(0에서 1사이의 float)들의 합
 * href: 해당 대학 리뷰들이 위치한 웹사이트 쿼리. root url은 oia.yonsei.ac.kr
 
-### [univ_text_data](./data/univ_text_data)
+### [df_abstract_wrangle.csv](./data_wrangled/df_abstract_wrangle.csv)
 
-연세대 학생들은 해외 교환 대학에서 복귀한 직후 의무적으로 후기를 작성해왔음. 각 해외 파견 대학들의 연세대 학생 리뷰 텍스트 데이터를 정리함. 총 11200여 건의 리뷰데이터들을 모아놓음. 
-
-**[df_abstract_wrangle.csv](./data_wrangled/df_abstract_wrangle.csv)**
-
-각 대학 별로 학생들의 후기들의 제목을 정리한 데이터셋. 
-하단은 각 column 별 설명.
+각 대학 별로 학생들의 후기들의 제목을 정리한 데이터셋. 하단은 각 column 별 설명.
 
 * 대학코드: 연세대 국제처가 대학들을 분류하는 코드
 * 제목: 학생들이 작성한 리뷰의 제목
@@ -62,10 +57,13 @@ Collected using [collect_reviews.ipynb](./collect_reviews.ipynb)
 * RNN_SCORE: [Labeled with RNN trained with NSMC Corpus](./analyze_RNN.ipynb). 0과 1 사이의 float.
 * href: 해당 학생의 리뷰가 위치한 웹사이트 쿼리. root url은 oia.yonsei.ac.kr
 
-[**_review_specific**](./data/specific)
+### [df_specific_wrangle.csv](./data_wrangled/df_specific_wrangle.csv)
 
-학생들은 귀국 직후 아홉 가지 항목에서 질문을 받으며, 각 항목에 대한 학생들의 답변을 각 대학 별로 데이터를 모음. 하단은 각 column 별 설명.
+학생들은 귀국 직후 아홉 가지 항목에서 질문을 받으며, 각 항목에 대한 학생들의 답변을 각 대학 별로 데이터를 모음. 질문에 대한 응답은 글자수 제한이 없어서 세세한 부분까지 자세하게 작성되어 있음. 종종 영어로도 작성된 후기들이 존재함. 하단은 각 column 별 설명.
 
+* 대학코드: 연세대 국제처가 대학들을 분류하는 코드
+* 대학명: 대학의 정식 명칭.
+* 국가: 해당 교환대학의 소속 국가.
 * gen_info: 교환대학의 크기, 지리적 위치, 기후 등
 * env_info: 대학 주변 환경
 * food_info: 거주 형태, 식사
