@@ -1,4 +1,4 @@
-대학코드,제목,학과,과정,년도,BERT_SCORE,RNN_SCORE,COLLEGE_LINK
+대학코드,제목,학과,과정,년도,BERT_SCORE,RNN_SCORE,REVIEW_LINK
 730     ,리투아니아에서 행복했던 4개월,사회복지학과/언론홍보영상학부,학부,2019,1,0.7520212531089783,http://oia.yonsei.ac.kr/partner/expReport.asp?id=16663&page=1&bgbn=R
 AR000004,아르헨티나 교환학생(어학연수프로그램),건축학과,학부,2013-1,0,0.3996699154376984,http://oia.yonsei.ac.kr/partner/expReport.asp?id=6947&page=1&bgbn=R
 AT000001,쿠프슈타인에서 노후 50년 땡겨쓰기,경영학과,학부,2017-2018,0,0.41618466377258295,http://oia.yonsei.ac.kr/partner/expReport.asp?id=15098&page=1&bgbn=R
