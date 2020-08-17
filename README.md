@@ -18,11 +18,11 @@
 * [Labeling with BERT model trained with NSMC Corpus](./analyze_BERT_nsmc.ipynb)
 * [Labeling with RNN trained with NSMC Corpus](./analyze_RNN.ipynb)
 
-예시1: Kristianstad University의 교환 후기 제목들과 이에 대한 BERT Labeling
+예시1: Kristianstad University의 교환 후기 제목들과 이에 대한 BERT Labeling. 1이 긍정, 0이 부정 혹은 중립
 
 ![image-20200817135443963](./img/image-20200817135443963.png)
 
-예시2: The University of Hong Kong의 교환 후기 제목들과 이에 대한 BERT Labeling
+예시2: The University of Hong Kong의 교환 후기 제목들과 이에 대한 BERT Labeling. 1이 긍정, 0이 부정 혹은 중립
 
 ![image-20200817135457346](./img/image-20200817135457346.png)
 
