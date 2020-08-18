@@ -49,6 +49,7 @@ jupyter==1.0.0
 jupyter-client==6.1.6
 jupyter-console==6.1.0
 jupyter-core==4.6.3
+Keras==2.4.3
 Keras-Preprocessing==1.1.2
 keyring==20.0.1
 kiwisolver==1.2.0
@@ -96,6 +97,7 @@ pyrsistent==0.14.11
 PySocks==1.7.1
 python-dateutil==2.8.1
 pytz==2020.1
+PyYAML==5.3.1
 pyzmq==19.0.1
 qtconsole==4.7.5
 QtPy==1.9.0
@@ -137,4 +139,5 @@ wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
+wordcloud==1.8.0
 wrapt==1.12.1
