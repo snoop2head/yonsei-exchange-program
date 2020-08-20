@@ -54,6 +54,7 @@ Keras-Preprocessing==1.1.2
 keyring==20.0.1
 kiwisolver==1.2.0
 konlpy==0.5.2
+krwordrank==1.0.3
 lockfile==0.12.2
 lxml==4.5.2
 Markdown==3.2.2
