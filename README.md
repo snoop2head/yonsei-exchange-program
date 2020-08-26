@@ -3,9 +3,9 @@
 ## Goals
 
 - [x] Clustering Universities with their Provided Majors: 각 해외 교환 대학 별 학과 분포 분석 및 군집화
-- [ ] Analyzing Sentiments for Universities: 각 해외 교환 대학 별 만족도 예측
-- [ ] Extracting Keywords from Reviews of Universities: 각 해외 교환 대학 별 키워드 추출 
-- [ ] Summarizing Reviews for Universities: 각 해외 교환 대학 별 후기 요약
+- [x] Analyzing Sentiments for Universities: 각 해외 교환 대학 별 만족도 예측
+- [x] Extracting Keywords from Reviews of Universities: 각 해외 교환 대학 별 키워드 추출 
+- [x] Summarizing Reviews for Universities: 각 해외 교환 대학 별 후기 요약
 
 ## Clustering Universities with Majors
 
@@ -25,6 +25,30 @@
 예시2: The University of Hong Kong의 교환 후기 제목들과 이에 대한 BERT Labeling. 1이 긍정, 0이 부정 혹은 중립
 
 ![image-20200817135457346](./img/image-20200817135457346.png)
+
+## Extracting Keywords from Reviews of Universities
+
+* [Extracting keywords for each university && Generating wordclouds](./extract_keyword_term_frequency.ipynb)
+
+Example: Chuo University's review keywords
+
+![sample_tokyo_img](./img/sample_wordcloud_tokyo.png)
+
+## Summarizing Reviews for Universities
+
+* [Summarizing reviews into 10 sentences for each university](./summarize_textrank.ipynb)
+
+**Example 1: Nagasaki University's review summarization**
+
+* 나가사키에 위치해 있고 나가사키 대학교는 3개의 캠퍼스로 나뉜다. 
+* 나가사키는 상당히 남쪽에 위치하기 때문에 겨울에도 그렇게 추운편이 아니다. 
+* 나가사키대학은 나가사키현의 나가사키시에 위치해 있으며 3개의 작은 캠퍼스로 이루어져 있다. 
+
+**Example 2: University of Copenhagen's review summarization**
+
+* 코펜하겐의 여름은 날씨가 굉장히 좋고 아름답습니다. 
+* 어둡고 추운 겨울을 견디고 오는 코펜하겐의 봄, 여름 날씨는 환상적입니다. 
+* 코펜하겐 대학은 캠퍼스가 아닙니다.
 
 ## Explaning Datasets in data_wrangled Folder
 
