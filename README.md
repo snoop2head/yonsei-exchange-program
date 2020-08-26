@@ -32,9 +32,13 @@
 
 * [Extracting keywords for each university && Generating wordclouds](./extract_keyword_term_frequency.ipynb)
 
-**Example: Chuo University (Japan)**
+**Example 1: Chuo University (Japan)**
 
 ![sample_tokyo_img](./img/sample_wordcloud_tokyo.png)
+
+**Example 2: The University of Edinburgh (United Kingdom)**
+
+
 
 ## IV. Summarizing Reviews for Universities
 
