@@ -9,5 +9,6 @@ ratings_test.txt
 ratings_train.txt
 _archived/
 univ_wordclouds/
-univ_summaries/
+univ_wordclouds_mecab/
+univ_wordclouds_okt/
 create_file.ipynb
