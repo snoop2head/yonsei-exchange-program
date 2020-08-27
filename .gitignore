@@ -8,3 +8,6 @@ sort.ipynb
 ratings_test.txt
 ratings_train.txt
 _archived/
+univ_wordclouds/
+univ_summaries/
+create_file.ipynb
