@@ -39,9 +39,9 @@
 
 * [Extracting 50 keywords for each university && Generating wordclouds](./extract_keyword_term_frequency.ipynb)
 
-**Example 1: Chuo University (Japan)**
+**Example 1: University of Lausanne (Sweden)**
 
-![sample_tokyo_img](./img/sample_wordcloud_tokyo.png)
+![sample_stockholm_img](./img/CH000004_gen_info_okt.png)
 
 **Example 2: The University of Edinburgh (United Kingdom)**
 
