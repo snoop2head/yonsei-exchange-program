@@ -16,14 +16,15 @@
 
 ## I. Clustering Universities with Majors
 
-* [K-means Clustering with Majors](./cluster_departments.ipynb)
+* [K-means Clustering with Majors](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/cluster_departments_Kmeans.ipynb)
+
 
 ![bert-labeled](./img/k-means.png)
 
 ## II. Sentiment Analysis for Foreign Universities
 
-* [Labeling with BERT model trained with NSMC Corpus](./analyze_BERT_nsmc.ipynb)
-* [Labeling with RNN trained with NSMC Corpus](./analyze_RNN.ipynb)
+* [Labeling with BERT model trained with NSMC Corpus](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/analyze_BERT_nsmc.ipynb)
+* [Labeling with RNN trained with NSMC Corpus](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/analyze_RNN.ipynb)
 
 교환 후기 제목들과 이에 대한 BERT, RNN Labeling. 1이 긍정, 0이 부정 혹은 중립
 
@@ -37,7 +38,7 @@
 
 ## III. Extracting Keywords from Reviews of Universities
 
-* [Extracting 50 keywords for each university && Generating wordclouds](./extract_keyword_term_frequency.ipynb)
+* [Extracting 50 keywords for each university && Generating wordclouds](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/extract_keyword_term_frequency.ipynb)
 
 **Example 1: University of Lausanne (Sweden)**
 
@@ -49,7 +50,7 @@
 
 ## IV. Summarizing Reviews for Universities
 
-* [Summarizing reviews into 10 sentences for each university, using textrank](./summarize_textrank.ipynb)
+* [Summarizing reviews into 10 sentences for each university, using textrank](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/summarize_textrank.ipynb)
 
 **Example 1: Nagasaki University (Japan)**
 
@@ -65,7 +66,7 @@
 
 ## Explaning Datasets in data_wrangled Folder
 
-* Collected using [collect_reviews.ipynb](./collect_reviews.ipynb)
+* Collected using [collect_reviews.ipynb](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/collect_reviews.ipynb)
 * 2020년 8월 기준 총 11200여 건의 리뷰데이터들을 모아놓음. 연세대 학생들은 해외 교환 대학에서 복귀한 직후 의무적으로 후기를 작성해왔음. 각 해외 파견 대학들의 연세대 학생 리뷰 텍스트 데이터를 정리함. 
 
 ### [df_univ_wrangled.csv](./data_wrangled/df_univ_wrangled.csv)
@@ -90,8 +91,8 @@
 * 제목: 학생들이 작성한 리뷰의 제목
 * 학과: 학생들의 연세대 소속 학과. 학생이 해외 교환대학에서 수료한 학과는 상이할 수 있음. 같은 학과라도 학생들이 표기하는 방법은 제각각(ex: UIC Economics / UD / UD Economics / UD 경제 / UD 경제학 등)
 * 년도: 파견 년도
-* BERT_SCORE: [Labeled with BERT model trained with NSMC Corpus](./analyze_BERT_nsmc.ipynb). 0과 1의 integer.
-* RNN_SCORE: [Labeled with RNN trained with NSMC Corpus](./analyze_RNN.ipynb). 0과 1 사이의 float.
+* BERT_SCORE: [Labeled with BERT model trained with NSMC Corpus](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/analyze_BERT_nsmc.ipynb). 0과 1의 integer.
+* RNN_SCORE: [Labeled with RNN trained with NSMC Corpus](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/analyze_RNN.ipynb). 0과 1 사이의 float.
 * href: 해당 학생의 리뷰가 위치한 웹사이트 쿼리. root url은 oia.yonsei.ac.kr
 
 ### [df_specific_wrangle.csv](./data_wrangled/df_specific_wrangle.csv)
