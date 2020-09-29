@@ -9,8 +9,8 @@
 
 ## Goals
 
-- [x] Clustering Universities with their Provided Majors: 각 해외 교환 대학 별 학과 분포 분석 및 군집화
-- [x] Analyzing Sentiments for Universities: 각 해외 교환 대학 별 만족도 예측
+- [x] Clustering Universities with their Provided Departments: 각 해외 교환 대학 별 학과 분포 분석 및 군집화
+- [x] Analyzing Sentiments for Universities: 각 해외 교환 대학 별 만족도 레이블링
 - [x] Extracting Keywords from Reviews of Universities: 각 해외 교환 대학 별 키워드 추출 
 - [x] Summarizing Reviews for Universities: 각 해외 교환 대학 별 후기 요약
 
@@ -23,10 +23,10 @@
 
 ## II. Sentiment Analysis for Foreign Universities
 
-* [Labeling with BERT model trained with NSMC Corpus](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/analyze_BERT_nsmc.ipynb)
+* [Labeling with BERT model trained with NSMC Corpus](https://colab.research.google.com/github/snoop2head/yonsei-exchange-program/blob/master/analyze_BERT_nsmc.ipynb)
 * [Labeling with RNN trained with NSMC Corpus](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/analyze_RNN.ipynb)
 
-교환 후기 제목들과 이에 대한 BERT, RNN Labeling. 1이 긍정, 0이 부정 혹은 중립
+교환 후기 제목들을 갖고 만족도를 BERT와 RNN으로 Labeling했다. 1이 긍정, 0이 부정 혹은 중립을 의미한다.
 
 **Example 1: Kristianstad University (Sweden)**
 
@@ -40,7 +40,7 @@
 
 * [Extracting 50 keywords for each university && Generating wordclouds](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/extract_keyword_term_frequency.ipynb)
 
-**Example 1: University of Lausanne (Sweden)**
+**Example 1: University of Lausanne (Switzerland)**
 
 ![sample_stockholm_img](./img/CH000004_gen_info_okt.png)
 
@@ -66,7 +66,7 @@
 
 ## Explaning Datasets in data_wrangled Folder
 
-* Collected using [collect_reviews.ipynb](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/collect_reviews.ipynb)
+* [Collected using collect_reviews.ipynb](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/collect_reviews.ipynb)
 * 2020년 8월 기준 총 11200여 건의 리뷰데이터들을 모아놓음. 연세대 학생들은 해외 교환 대학에서 복귀한 직후 의무적으로 후기를 작성해왔음. 각 해외 파견 대학들의 연세대 학생 리뷰 텍스트 데이터를 정리함. 
 
 ### [df_univ_wrangled.csv](./data_wrangled/df_univ_wrangled.csv)
