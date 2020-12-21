@@ -1,7 +1,4 @@
-# 문과대학, 문과대
-# 사회과학대, 사회과학대학, 사과대
-# 교육과학대, 교육과학대학
-# 상경대학, 상경대
+import re
 
 
 def replace_with_dict(string_val):
@@ -168,3 +165,24 @@ def replace_with_dict(string_val):
         if string_val in value:
             string_val = key
     return string_val
+
+
+def remove_college(str_input):
+    elim_list = [
+        "문과대학",
+        "문과대",
+        "사회과학대",
+        "사회과학대학",
+        "사과대",
+        "교육과학대",
+        "교육과학대학",
+        "상경대학",
+        "상경대",
+        "국제대학교",
+        "국제대",
+    ]
+    for item in elim_list:
+        str_dep = re.sub(item, "", str_input)
+    str_dep = str_dep.strip()
+
+    return str_dep
