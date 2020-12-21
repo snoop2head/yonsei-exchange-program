@@ -169,20 +169,23 @@ def replace_with_dict(string_val):
 
 def remove_college(str_input):
     elim_list = [
-        "문과대학",
-        "문과대",
-        "사회과학대",
+        "국제대학교",
         "사회과학대학",
-        "사과대",
-        "교육과학대",
+        "문과대학",
         "교육과학대학",
         "상경대학",
+        "공과대학",
+        "문과대",
+        "사회과학대",
+        "사과대",
+        "교육과학대",
         "상경대",
-        "국제대학교",
         "국제대",
     ]
+
+    str_dep = str_input
     for item in elim_list:
-        str_dep = re.sub(item, "", str_input)
+        str_dep = re.sub(item, "", str_dep)
     str_dep = str_dep.strip()
 
     return str_dep
