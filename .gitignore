@@ -13,3 +13,5 @@ univ_wordclouds_mecab/
 univ_wordclouds_okt/
 create_file.ipynb
 user_stats
+KoBART
+KoBART-summarization
