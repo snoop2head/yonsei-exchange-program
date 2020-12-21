@@ -162,12 +162,9 @@ def replace_with_dict(string_val):
 
     last_value_list = list(dict_constructed.values())[-1]
     for key, value in dict_constructed.items():
+        value = list(value)
+        # print(value)
         # print(list(value), type(list(value)))
         if string_val in value:
             string_val = key
-            return string_val
-        elif string_val not in last_value_list:
-            return string_val
-        else:
-            pass
-
+    return string_val
