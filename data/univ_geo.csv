@@ -1,0 +1,471 @@
+대학명,address,latitude,longitude
+Universidad del Salvador, Buenos Aires,-34.6011779,-58.391496
+Australian National University,Canberra ACT 0200,-35.2776999,149.118527
+Bond University, Robina QLD 4226,-28.0730934,153.4166377
+Curtin University, Bentley WA 6102,-32.0061951,115.8944182
+Curtin University of Technology, Bentley WA 6102,-32.0061951,115.8944182
+Deakin University, Burwood VIC 3125,-37.8474187,145.1149861
+La Trobe University, Bundoora VIC 3086,-37.7206671,145.048414
+Monash University, Clayton VIC 3800,-37.9105599,145.1362485
+Murdoch University, Murdoch WA 6150,-32.071,115.825
+Swinburne University of Technology, Hawthorn VIC 3122,-37.8221504,145.0389546
+University of Adelaide,Adelaide SA 5005,-34.920603,138.6062277
+University of New South Wales,Sydney NSW 2052,-33.917347,151.2312675
+University of Queensland,St Lucia QLD 4072,-27.4975028,153.0136905
+University of Southern Queensland, Darling Heights QLD 4350,-27.6043593,151.9303905
+University of Sydney,Camperdown NSW 2006,-33.8885748,151.1873494
+"University of Technology, Sydney", Ultimo NSW 2007,-33.8832376,151.2004942
+FH Kufstein Tirol University of Applied Sciences, 6330 Kufstein,47.583807,12.1736679
+Johannes Kepler Universitat Linz, 4040 Linz,48.3364079,14.3181628
+Karl-Franzens-Universitat Graz, 8010 Graz,47.0776328,15.4495241
+Universities of Applied Sciences Upper Austria, 4600 Wels,48.1610538,14.0267157
+University of Applied Sciences Wiener Neustadt, 2700 Wiener Neustadt,47.8389128,16.24845
+University of Vienna, 1010 Wien,48.2131855,16.3600504
+Vienna University of Economics and Business, 1020 Wien,48.2134275,16.4084666
+Ghent University, 9000 Gent,51.0465619,3.7279181
+KU Leuven, 3000 Leuven,50.8779545,4.7002953
+Universite Catholique De Louvain, 1348 Ottignies-Louvain-la-Neuve,50.6696875,4.6155909
+Bishop's University, QC J1M 1Z7,45.3628528,-71.8456569
+Brock University, ON L2S 3A1,43.1175731,-79.2476925
+Dalhousie University, NS B3H 4R2,44.6365812,-63.5916555
+Huron University College, ON N6G 1H3,43.0089768,-81.2777032
+Laurentian University, ON P3E 2C6,46.4700285,-80.9744513
+McGill University, QC H3A 0G4,45.5047847,-73.5771511
+Simon Fraser University, BC V5A 1S6,49.2780937,-122.9198833
+Thompson Rivers University, BC V2C 0C8,50.6705062,-120.365894
+Trent University, ON L1J 5Y1,43.8896788,-78.8905517
+University College of Cape Breton, NS B1P 6L2,46.1706301,-60.0934998
+University of Alberta, AB T6G 2R3,53.5232189,-113.5263186
+University of British Columbia, BC V6T 1Z4,49.2606052,-123.2459938
+University of Calgary, AB T2N 1N4,51.0775908,-114.140695
+University of Manitoba, MB R3T 2N2,49.8075008,-97.1366259
+University of Montreal, QC H3T 1J4,45.5056156,-73.6137592
+University of Regina, SK S4S 0A2,50.4154542,-104.5878302
+University of Toronto, ON M5S,43.6628917,-79.3956564
+University of Victoria, BC V8P 5C2,48.4634067,-123.3116935
+University of Waterloo, ON N2L 3G1,43.4722854,-80.5448576
+"University of Western Ontario, Richard Ivey School of Business", ON N6G 0N1,43.0043193,-81.2778586
+York University, ON M3J 1P3,43.7734535,-79.5018684
+York University: Schulich School of Business, ON M3J 1P3,43.773227,-79.498257
+Fudan University, Shanghai Shi,31.2974197,121.5036178
+Jilin University, Jilin Sheng,43.82572,125.2850161
+Nanjing University, Jiangsu,32.0568391,118.7789602
+North China Electric Power University, Changping Qu,40.0897592,116.3097968
+Peking University, China,39.986913,116.3058739
+Shandong University, Shanda S Rd,36.64893,117.029014
+Shanghai University, Shanghai Shi,31.3148036,121.382746
+Sun Yat-sen University, Guangdong Sheng,23.0965384,113.298883
+Tsinghua University, Beijing Shi,39.9996674,116.3264439
+Wuhan University, China,30.5360485,114.3643219
+Yanbian University of Science and Technology, Jilin Sheng,42.927011,129.534938
+Zhejiang Normal University, Zhejiang,29.079175,119.64742
+Zhejiang University, China,30.3086844,120.0864995
+Universidad Nacional de Costa Rica,3000,9.9986898,-84.1111898
+Charles University, 110 00 Praha-Praha 1,50.0871106,14.4234889
+Aarhus University, 8000 Aarhus C,56.1681384,10.2030118
+Copenhagen Business School, 2000 Frederiksberg,55.6815652,12.5296944
+University of Copenhagen, 1165 København,55.6802303,12.5724096
+Aalto University,02150 Espoo,60.1866693,24.827682
+Abo Akademi University, 20500 Turku,60.4509869,22.2776003
+The University of Turku,20500 Turku,60.4562974,22.2851138
+University of Eastern Finland, 70210 Kuopio,62.8936601,27.6392295
+University of Helsinki, 00100 Helsinki,60.1726348,24.9510419
+"University of Jyvaskyla, School of Business & Economics", 40014 Jyväskylän yliopisto,62.2365317,25.7316336
+University of Oulu, 90570 Oulu,65.0593177,25.4662935
+University of Tampere, 33100 Tampere,61.4941073,23.7792354
+Ecole Superieure des Sciences Economiques et Commerciales (ESSEC Business School),"3 Avenue Bernard Hirsch, 95000 Cergy, France",49.0335,2.07683
+Ecole Superieure du Commerce Exterieur (ESCE), 75015 Paris,48.851228,2.2885991
+ESC (Business School) Amiens, 80000 Amiens,49.8951165,2.3023694
+ESCEM (France Business School) Tours-Poitiers, 37200 Tours,47.3654934,0.7050884
+Hautes Etudes Commercials (HEC Paris), 78350 Jouy-en-Josas,48.757334,2.1693947
+Institut d'Etudes Politiques de Rennes, 35700 Rennes,48.121193,-1.6685407
+Institut National des Sciences Appliquees de Lyon (INSA-Lyon), 69100 Villeurbanne,45.7833244,4.8781984
+ISC PARIS - School of Management, 75017 Paris,48.8926991,2.3010645
+KEDGE Business School, 33405 Talence,44.7964981,-0.6020615
+Paris School of Business, 75013 Paris,48.8256896,2.3664402
+Pole ESG-Paris Graduate School of Management, 75013 Paris,48.8256896,2.3664402
+Sciences-Po, 75007 Paris,48.8540116,2.3285918
+Universite d'Angers, 49100 Angers,47.4784722,-0.5496561
+Universite de Franche-Comte, 25000 Besançon,47.2405045,6.0226187
+Universite de Lille III (Charles de Gaulle), 59650 Villeneuve-d'Ascq,50.6284632,3.1261485
+Universite de Nantes, 44035 Nantes,47.2099669,-1.5558785
+Universite de Rennes II (Haute-Bretagne), 35000 Rennes,48.1179154,-1.7028658
+Universite du Havre, 76600 Le Havre,49.4964477,0.1282725
+Universite Paul Cezanne (Aix-Marseille III), 13004 Marseille,43.3059797,5.3949646
+Universite Paul Valery (Montpellier III), 34090 Montpellier,43.632442,3.8702447
+University of Pau, 64000 Pau,43.313937,-0.366743
+Eberhard Karls Universitat Tubingen, 72074 Tübingen,48.5294782,9.043774
+European Business School, 75015 Paris,48.8377548,2.2915883
+Freie Universitat Berlin, 14195 Berlin,52.4543245,13.2934768
+Friedrich-Alexander-Universitat, 91054 Erlangen,49.5978804,11.0045507
+Humboldt-Universitat zu Berlin, 10117 Berlin,52.517883,13.3936551
+Katholische Universitat Eichstatt, 85072 Eichstätt,48.8888993,11.1897339
+Leibniz Universitat Hannover, 30167 Hannover,52.3829641,9.7196989
+Leuphana University of Lunerburg, 21335 Lüneburg,53.2289539,10.4013612
+Ludwig-Maximilians-Universitat Munchen, 80333 München,48.1483061,11.5729663
+Pforzheim University, 75175 Pforzheim,48.8786503,8.7174212
+RWTH Aachen University, 52062 Aachen,50.7800778,6.0656869
+Technische Universitat Braunschweig, 38106 Braunschweig,52.2739873,10.5289182
+Technische Universitat Dortmund, 44227 Dortmund,51.4843281,7.4138369
+Technische Universtat Munchen, 80333 München,48.14966,11.5678602
+Universitat Trier, 54296 Trier,49.7457817,6.6884495
+University of Erfurt, 99089 Erfurt,50.9906637,11.010794
+Chinese University of Hong Kong, Ma Liu Shui,22.419625,114.2067606
+City University of Hong Kong, Kowloon Tong,22.3366793,114.1724234
+Hong Kong Polytechnic University, Hung Hom,22.3039347,114.1797311
+Hong Kong University of Science of Technology,Clear Water Bay,22.3363998,114.2654655
+University of Hong Kong,Pok Fu Lam,22.2829989,114.1370848
+Universitas Indonesia, Jawa Barat 16424,-6.3627638,106.8270482
+Athlone Institute of Technology, Co. Westmeath,53.4176602,-7.9035815
+Dublin Institute of Technology, D08 X622,53.3371436,-6.2682366
+University College Cork, T12 YN60,51.8929592,-8.4937711
+The Hebrew University of Jerusalem,Jerusalem,31.7972426,35.2403069
+Bocconi University, 20100 Milano MI,45.4485736,9.189945
+Ca Foscari University of Venice, 30123 Venezia VE,45.4345385,12.3263858
+IUSVE UNIVERSITY, 37123 Verona VR,45.4402596,10.9843031
+Luiss Guido Carli, 00197 Roma RM,41.9247907,12.4937583
+Universita Cattolica del Sacro Cuore, 20123 Milano MI,45.4621325,9.1771785
+Universita degli Studi della Tuscia, 01100 Viterbo VT,42.4133024,12.1122778
+University of Modena and Reggio Emilia, 41121 Modena MO,44.6451116,10.9279258
+University of Torino, 10124 Torino TO,45.069428,7.6889006
+Akita International University, 010-1211,39.6266996,140.1981405
+Aoyama Gakuin University, T_ky_-to 150-8366,35.6604069,139.7095165
+Chuo University,"-1 Higashinakano, Hachioji, Tokyo 192-0393, Japan",35.6402,139.404
+Doshisha University, 602-8580,35.0300916,135.7606883
+Hokkaido University, Hokkaido 060-0808,43.0779575,141.340013
+Hosei University, T_ky_-to 102-8160,35.6957661,139.7415222
+International Christian University, T_ky_-to 181-8585,35.6875365,139.5295507
+International University of Japan, Niigata 949-7277,37.1480698,138.9465221
+Kansai Gaidai University, Osaka 573-1195,34.8232692,135.6641178
+Keio University, T_ky_-to 108-8345,35.6489643,139.7429376
+Kwansei Gakuin University, Hyogo 662-8501,34.7688408,135.3468064
+Kyoto University, 606-8501,35.0262444,135.7808218
+Kyushu University, 812-0053,33.6266584,130.4250445
+Meiji Gakuin University, T_ky_-to 108-8636,35.6374269,139.7307782
+Mejiro University, T_ky_-to 161-0032,35.7176598,139.6809808
+Nagasaki University, 852-8521,32.785253,129.863167
+Nagoya University, Aichi 464-8601,35.1538553,136.9682402
+Nagoya University, Aichi 464-8601,35.1538553,136.9682402
+Nanzan University,Japan,35.1486932,136.9628409
+Nihon University, Tokyo 101-0061,35.6997742,139.7555015
+Osaka University, Osaka 565-0871,34.8220139,135.5244676
+Rikkyo University, T_ky_-to 171-8501,35.7299504,139.7022176
+Ritsumeikan Asia Pacific University, Beppu,33.3371371,131.4683448
+Ritsumeikan University, 603-8577,35.0325561,135.7233044
+Sophia University, T_ky_-to 102-8554,35.6835627,139.7325889
+Surugadai University, Saitama 357-0046,35.8312682,139.3357626
+Tohoku University, Miyagi 980-8577,38.253834,140.874074
+Tokyo Institute of Technology, T_ky_-to 152-8550,35.6051229,139.6835302
+Tokyo University of Foreign Studies, T_ky_-to 183-8534,35.6744163,139.5204545
+University of the Ryukyus, Senbaru,26.2516868,127.7684078
+University of Tokyo, T_ky_-to 113-8654,35.7126775,139.761989
+Waseda University, Tokyo 169-8050,35.7087334,139.7196485
+Yokohama National University, Kanagawa 240-8501,35.4723189,139.5917861
+KIMEP University, Almaty 050010,43.241948,76.955598
+Kaunas University of Technology, Kaunas 44249,54.898991,23.912825
+Vilnius University, Vilnius 01513,54.6825757,25.2876469
+Instituto Tecnologico y de Estudios Superiores de Monterrey (ITESM)-Monterrey, N.L.,25.6515649,-100.28954
+Universidad de Monterrey (UDEM), N.L.,25.6625257,-100.4201252
+Universidad Nacional Autonoma de Mexico (UNAM), CDMX,19.3228313,-99.1865774
+Huree Institute of Information and Communication Technology,Ulaanbaatar,47.9264,106.884
+Amsterdam University College, 1098 XG Amsterdam,52.3549395,4.9511709
+Erasmus School of Economics, 3062 PA Rotterdam,51.9180228,4.5262223
+"Erasmus School of History, Culture and Communication", 3062 PA Rotterdam,51.9158765,4.5246227
+"Erasmus University, Rotterdam", 3062 PA Rotterdam,51.9165475,4.5259762
+Inholland University of Applied Sciences, 2628 AL Delft,52.0002,4.368867
+Leiden University, 2311 EZ Leiden,52.1571485,4.485209
+Maastricht University, 6211 LK Maastricht,50.8471654,5.6865453
+Radboud University Nijmegen, 6525 XZ Nijmegen,51.8220189,5.8638187
+Saxion University, 7513 AB Enschede,52.2206962,6.8862917
+The Hague University of Applied Sciences, 2521 EN Den Haag,52.0670747,4.323974
+Tilburg University, 5037 AB Tilburg,51.5639249,5.0434446
+University of Amsterdam,1012 WX Amsterdam,52.3558182,4.9557263
+University of Groningen,9712 CP Groningen,53.2192634,6.5629872
+University of Leiden, 2311 EZ Leiden,52.1571485,4.485209
+Utrecht University, 3584 CS Utrecht,52.0851825,5.1757062
+Vrije Universiteit Amsterdam, 1081 HV Amsterdam,52.3337568,4.8657199
+"Massey University (Auckland, Palmerston North, Wellington)", Auckland 0632,-36.7323409,174.7014999
+University of Auckland, Auckland 1010,-36.8523378,174.7691073
+University of Canterbury, Christchurch 8041,-43.5224836,172.5794354
+University of Otago, Dunedin 9016,-45.8646835,170.5144227
+University of Waikato, Hamilton 3216,-37.7868611,175.3184579
+Norwegian School of Economics, 5045 Bergen,60.4229376,5.3024087
+University of Oslo, 0315 Oslo,59.9399586,10.7217496
+Ateneo de Manila University, 1108 Metro Manila,14.639904,121.0785093
+University of the Philippines, Metro Manila,14.6549715,121.0651503
+Warsaw School of Economics, 02-554 Warszawa,52.208872,21.0086579
+Wroclaw University, 50-137 Wroc_aw,51.1140053,17.034463
+Far Eastern Federal University, Russia,43.119189,131.88587
+Moscow State University, Russia,55.7039349,37.5286696
+St. Petersburg State University, Russia,59.941894,30.2989199
+Nanyang Technological University,50 Nanyang Ave,1.3483099,103.6831347
+National University of Singapore,21 Lower Kent Ridge Rd,1.2966426,103.7763939
+Singapore Management University,81 Victoria St,1.2962727,103.8501578
+Singapore University of Technology and Design,8 Somapah Rd,1.3405942,103.9631268
+ESADE, 08034 Barcelona,41.3939315,2.114791
+La Universidad de Rey Juan Carlos,Madrid,40.3358,-3.87688
+Polytechnic University of Valencia, Valencia,39.4807985,-0.3406299
+Public University of Navarre, Navarra,42.8005243,-1.6367636
+Universidad Carlos III de Madrid, Madrid,40.3172177,-3.7274675
+Universidad de Almeria, Almería,36.8290435,-2.4063528
+Universidad de Malaga, 29016 Málaga,36.7199495,-4.4161391
+Universidad de Santiago de Compostela, A Coruña,42.8885225,-8.5449726
+Universidade de Vigo, Pontevedra,42.1697632,-8.6845784
+Universitat Autonoma de Barcelona, Barcelona,41.5020282,2.1046866
+University of Alicante, Alicante,38.3852446,-0.5143161
+University of Navarra, Navarra,42.8014918,-1.6597366
+University of the Basque Country, Vizcaya,43.3314059,-2.9706058
+Jonkoping International Business School, 553 18 Jönköping,57.7790165,14.1628518
+Karlstad University, 651 88 Karlstad,59.406399,13.582588
+Kristianstad University, 291 39 Kristianstad,56.0484832,14.1463248
+Linnaeus University, 351 95 Växjö,56.8544846,14.8300257
+Lulea University of Technology,971 87 Luleå,65.6179964,22.1401794
+Stockholm School of Economics, 113 83 Stockholm,59.3416182,18.0567906
+University of Gothenburg,405 30 Gothenburg,57.6981719,11.971878
+University West, MD 21210,39.3353694,-76.6217162
+Uppsala University, 752 36 Uppsala,59.8509005,17.6300093
+Universitat Bern, 3012 Bern,46.9504896,7.438119
+University of Basel, 4051 Basel,47.5585281,7.5838692
+University of Geneva,1205 Geneva,46.199444,6.1451157
+University of Lausanne,1015 Lausanne,46.5210895,6.5801606
+University of Zurich, 8006 Zürich,47.3743221,8.5509812
+National Cheng Kung University, Tainan City,22.9988416,120.2195148
+National Chengchi University, Taipei City,24.9861694,121.5771149
+National Sun Yat-sen University, Kaohsiung City,22.6283384,120.2647299
+National Taiwan University, Taipei City,25.0173405,121.5397518
+"National Taiwan University, College of Management", Taipei City,25.0140168,121.5381442
+National Tsing Hua University, Hsinchu City,24.7961217,120.9966699
+TungHai University, Taichung City,24.1804426,120.5985321
+Chulalongkorn University, Krung Thep Maha Nakhon 10330,13.7384715,100.5313366
+Rangsit University, Chang Wat Pathum Thani 12000,13.9656101,100.5861424
+Thammasat University, Krung Thep Maha Nakhon 10200,13.7574279,100.4899827
+Kadir Has University, 34083 Cibali / Fatih/Fatih/İstanbul,41.0249511,28.9589739
+Koc University, 34450 Sarıyer/İstanbul,41.20543,29.0724115
+"Central St. Martins, University of Arts London", London N1C 4AA,51.535737,-0.1244228
+Coventry University, Coventry CV1 5FB,52.4071747,-1.5037461
+Durham University,Durham DH1,54.7649859,-1.5782029
+King's College London, London WC2R 2LS,51.5114864,-0.115997
+Kingston University, NY 14221,42.955008,-78.7208967
+London Business School, London NW1 4SA,51.5261552,-0.160668
+London Metropolitan University, London N7 8DB,51.5516422,-0.1105435
+Middlesex University, London NW4 4BT,51.5901102,-0.228922
+Napier University, Edinburgh EH11 4DY,55.9247156,-3.2884614
+"Queen Mary, University of London", London E1 4NS,51.5240671,-0.0403745
+"SOAS, University of London", London WC1H 0XG,51.52235,-0.129259
+The University of Edinburgh, Edinburgh EH8 9YL,55.9445158,-3.1892413
+University of Aberdeen, Aberdeen AB24 3FX,57.16476,-2.1015257
+University of Bath, Bath BA2 7AY,51.3798503,-2.3314545
+University of Birmingham,Birmingham B15 2TT,52.4508168,-1.9305135
+University of Brighton, MA 02135,42.3428804,-71.1619399
+University of Bristol, Bristol BS8 1TH,51.4584172,-2.6029792
+University of Cambridge, Cambridge CB2 1TN,52.2042666,0.1149085
+University of Central Lancashire, Preston PR1 2HE,53.7645172,-2.7082894
+University of Chester, Chester CH1 4BJ,53.2002705,-2.8991292
+University of Edinburgh, Edinburgh EH8 9YL,55.9445158,-3.1892413
+University of Exeter, Exeter EX4 4PY,50.7371369,-3.5351475
+University of Glasgow, ON N1G 2W1,43.5327217,-80.2261804
+University of Hertfordshire, Hatfield AL10 9EU,51.7613666,-0.2482209
+University of Leeds, Leeds LS2 9JT,53.8066815,-1.5550328
+University of Nottingham,Nottingham NG7 2RD,52.938636,-1.1951582
+University of Plymouth, Plymouth PL4 8AA,50.3761866,-4.1394919
+University of Sheffield, Sheffield S10 2TG,53.3809409,-1.4879469
+University of the Arts London, London WC1V 7EY,51.5178589,-0.1165507
+University of Westminster, MD 21157,39.5603198,-76.9899576
+Adrian College, MI 49221,41.8987054,-84.0592414
+Agnes Scott College, GA 30030,33.7685056,-84.2945346
+American University, DC 20016,38.9374948,-77.0888029
+Amherst-College, MA 01002,42.3709104,-72.5170028
+Appalachian State University, NC 28608,36.2135255,-81.6839919
+Arizona State University, AZ 85004,33.4532165,-112.0719833
+Barton College, NC 27893,35.734288,-77.913777
+Baylor University, TX 76706,31.5469132,-97.1210998
+Beloit College, WI 53511,42.5030333,-89.0309048
+Biola University, CA 90639,33.9054476,-118.0151797
+Bowling Green State University, OH 43403,41.3797788,-83.6300826
+Brandeis University, MA 02453,42.3656827,-71.2585395
+Bridgewater College, VA 22812,38.3788857,-78.9692627
+Brown University, RI 02912,41.8267718,-71.4025482
+Butler University, IN 46208,39.8405491,-86.1708927
+California Polytechnic State University San Luis Obispo, CA 93407,35.3050053,-120.6624942
+California State Polytechnic University Ponoma, CA 91768,34.0588862,-117.8193781
+Case Western Reserve University, OH 44106,41.5043413,-81.6083838
+Central Michigan University, MI 48859,43.5819086,-84.7756364
+Central Washington University, WA 98926,47.0073154,-120.5362805
+Chapman University, CA 92866,33.7931305,-117.8521395
+Christopher Newport University, VA 23606,37.0627072,-76.4928349
+Clarion University of Pennsylvania, PA 16214,41.2089367,-79.3785631
+Clemson University, SC 29634,34.6738437,-82.8368654
+Colgate University, NY 13346,42.822465,-75.541671
+College of Charleston, SC 29424,32.7834441,-79.9370018
+College of the Ozarks, MO 65726,36.6163199,-93.2393789
+College of William & Mary, VA 23185,37.2710803,-76.7162891
+Columbia University, NY 10027,40.8075355,-73.9625727
+Cornell College, IA 52314,41.9269546,-91.4253502
+Creighton University, NE 68178,41.2655521,-95.9463862
+CSU Chico, CA 95929,39.7296988,-121.8497593
+CSU Dominguez Hills, CA 90747,33.8653106,-118.2590121
+CSU East Bay, CA 94542,37.6571459,-122.0574872
+CSU Fresno, CA 93740,36.8133631,-119.7460947
+CSU Fullerton, CA 92831,33.8829226,-117.8869261
+CSU Long Beach, CA 90840,33.7838235,-118.1140904
+CSU Los Angeles, CA 90032,34.0667698,-118.1684392
+CSU Monterey Bay, CA 93955,36.6516548,-121.7977985
+CSU Northridge, CA 91330,34.2410366,-118.5276745
+CSU Sacramento, CA 95819,38.5612918,-121.4240519
+CSU San Marcos, CA 92096,33.1294938,-117.1595707
+CSU Stanislaus, CA 95382,37.525248,-120.8553931
+CUNY - Baruch College, NY 10010,40.7403959,-73.9832252
+Dartmouth College, NH 03755,43.7044406,-72.2886935
+Dickinson College, PA 17013,40.2028536,-77.1972141
+Dominican University of California, CA 94901,37.9797597,-122.5132315
+Eckerd College, FL 33711,27.715886,-82.68816
+Edgewood College, WI 53711,43.060689,-89.423378
+Elmhurst College, IL 60126,41.8958085,-87.9456074
+Emory University, GA 30322,33.7971368,-84.32224
+Fort Hays State University, KS 67601,38.8714463,-99.3444887
+George Mason University, VA 22030,38.8298118,-77.3073606
+George Washington University, DC 20052,38.8997145,-77.0485992
+Georgia Institute of Technology, GA 30332,33.7756178,-84.396285
+Gonzaga University, WA 99258,47.6670321,-117.4014343
+Hendrix College, AR 72032,35.1022834,-92.4386825
+Hobart & William Smith College, OK 73651,35.0295009,-99.0931317
+Idaho State University, ID 83209,42.8627836,-112.429762
+Illinois Institute of Technology, IL 60616,41.8348731,-87.6270059
+Indiana State University, IN 47809,39.4714449,-87.4082752
+Indiana University Bloomington, IN 47405,39.1754487,-86.512627
+Iowa State University, IA 50011,42.0266573,-93.6464516
+Iowa State University of Science and Technology, IA 50011,42.0266573,-93.6464516
+James Madison University, VA 22807,38.435092,-78.8697548
+Kansas State University, KS 66506,39.1974437,-96.5847249
+King College, PA 18711,41.2502745,-75.8794058
+Linfield College, OR 97128,45.2006802,-123.1993365
+Long Island University, NY 11201,40.6912319,-73.9810659
+Louisiana State University, LA 70803,30.4132579,-91.1800023
+Loyola University of New Orleans, LA 70118,29.9346582,-90.1209925
+Mansfield University, PA 16933,41.8047541,-77.070428
+Marshall University, WV 25755,38.4235252,-82.4264145
+Maryville College, TN 37804,35.7514166,-83.9641634
+Mercer University, GA 31207,32.8288186,-83.6497769
+Miami University, OH 45056,39.5087485,-84.7344915
+Michigan State University,Michigan,42.701848,-84.4821719
+Middle Tennessee State University, TN 37132,35.8486105,-86.3648813
+Minot State University, ND 58707,48.2486167,-101.3014122
+Missouri Southern State University, MO 64801,37.0959022,-94.4607637
+Montana State University, MT 59717,45.6673524,-111.0546211
+Muskingum College, OH 43762,40.0002942,-81.7390462
+Nebraska Wesleyan University, NE 68504,40.8388083,-96.6474254
+New Brunswick Theological Seminary, NJ 08901,40.5012734,-74.4495222
+New York University, NY 10003,40.7295134,-73.9964609
+New York University - Stern School of Business, NY 10012,40.7290268,-73.9962539
+North Carolina Agricultural & Technical State University, NC 27411,36.0770034,-79.7718199
+"North Carolina State University, Raleigh", NC 27695,35.7846633,-78.6820946
+North Central College, IL 60540,41.772663,-88.1440142
+North Dakota State University, ND 58105,46.8977528,-96.8024367
+North Georgia College & State University, GA 30597,34.5278618,-83.9844416
+Northern Arizona University, AZ 86011,35.1804402,-111.6539683
+Northern State University, SD 57401,45.4510995,-98.4844923
+Northwest Missouri State University, MO 64468,40.3519854,-94.8825243
+Northwestern State University of Louisiana, LA 71457,31.7503518,-93.0974506
+"Northwestern University, Kellogg School of Management", IL 60208,42.057427,-87.6719431
+Ohio State University, OH 43210,40.0066723,-83.0304546
+Oklahoma State University, OK,36.1270236,-97.0737222
+Old Dominion University, VA 23529,36.8858594,-76.3057051
+Oregon State University, OR 97331,44.5637806,-123.2794443
+Purdue University, IN 47907,40.4237054,-86.9211946
+Randolph-Macon College, VA 23005,37.7603794,-77.4783518
+Roanoke College, VA 24153,37.294248,-80.054927
+Sacred Heart University, CT 06825,41.2204654,-73.2431786
+San Diego State University, CA 92182,32.7759894,-117.0712533
+San Francisco State University, CA 94132,37.7241492,-122.4799405
+San Jose State University, CA 95192,37.3351874,-121.8810715
+Southern Illinois University-Carbondale, IL 62901,37.7079717,-89.2229983
+Southwestern University, TX 78626,30.6367076,-97.6625885
+St. Cloud State University, MN 56301,45.5511864,-94.1515137
+St. Joseph's College of Maine, ME 04084,43.8267427,-70.4828684
+St. Lawrence University, NY 13617,44.5892119,-75.1608814
+St. Michael's College, VT 05439,44.49598,-73.163743
+St. Olaf College, MN 55057,44.4616634,-93.1826784
+Suffolk University - Sawyer School of Management, MA 02108,42.3578231,-71.0610172
+SUNY at Albany, NY 12222,42.6849814,-73.824773
+SUNY at Stony Brook, NY 11794,40.9123761,-73.1233889
+Syracuse University, NY,43.0391534,-76.1351158
+Temple University, PA 19122,39.9805942,-75.1557376
+The University of Scranton, PA 18510,41.406663,-75.6586032
+Thunderbird School of Global Management, AZ 85004,33.4517623,-112.0686424
+Towson University, MD 21252,39.3925121,-76.6126392
+Trinity University, TX 78212,29.4618396,-98.4833121
+Truman State University, MO 63501,40.1831629,-92.5809621
+"Tufts University, The Fletcher School", MA 02155,42.407843,-71.1216062
+Union College, NY 12308,42.8177125,-73.9295987
+University of Akron, OH 44325,41.0770227,-81.5114462
+University of Alabama, AL 35487,33.2140233,-87.5391418
+University of Arkansas, AR 72701,36.0686895,-94.1748471
+University of California Berkeley, CA,37.8718992,-122.2585399
+University of California Davis, CA 95616,38.5382322,-121.7617125
+University of California Irvine, CA 92697,33.6404952,-117.8442962
+University of California Los Angeles, CA 90095,34.068921,-118.4451811
+University of California Merced, CA 95343,37.3660652,-120.4224179
+University of California Riverside, CA 92521,33.9737055,-117.3280644
+University of California San Diego, CA 92093,32.8800604,-117.2340135
+University of California Santa Barbara, CA 93106,34.4139629,-119.848947
+University of California Santa Cruz, CA 95064,36.9880503,-122.0582093
+University of Chicago, IL 60637,41.7886079,-87.5987133
+University of Connecticut, CT 06269,41.8077414,-72.2539805
+University of Georgia, GA 30602,33.9480053,-83.3773221
+University of Guam,96923,13.4322112,144.8033219
+University of Hawaii at Manoa, HI 96822,21.296939,-157.8171118
+University of Illinois at Urbana-Champaign, IL,40.1019523,-88.2271615
+University of Iowa, IA 52242,41.6627078,-91.5549771
+University of Kentucky, KY 40506,38.0306511,-84.5039697
+University of Maryland at College Park, MD 20742,38.9869183,-76.9425543
+University of Massachusetts Amherst, MA 01003,42.3867598,-72.5300515
+University of Massachusetts Lowell, MA 01854,42.6552587,-71.3247164
+University of Memphis, TN 38152,35.1187498,-89.9374928
+University of Miami, FL 33146,25.7178924,-80.2746368
+University of Michigan, MI 48109,42.2780436,-83.7382241
+University of Minnesota Morris, MN 56267,45.5890317,-95.8969661
+University of Minnesota Twin Cities, MN 55455,44.97399,-93.2277285
+University of Mississippi, MS 38677,34.3647324,-89.538443
+University of Montana, MT 59812,46.8600672,-113.9852081
+University of Nebraska at Kearney, NE 68849,40.7011879,-99.1014292
+"University of Nebraska, Lincoln", NE 68588,40.8201966,-96.7004763
+University of North Carolina at Asheville, NC 28804,35.6304783,-82.5510469
+University of North Carolina at Chapel Hill, NC,35.9049122,-79.0469134
+University of North Carolina at Greensboro, NC 27412,36.0689296,-79.8101975
+University of North Carolina at Pembroke, NC 28372,34.6899339,-79.2005823
+University of North Carolina at Wilmington, NC 28403,34.223874,-77.8696036
+University of North Dakota, ND 58202,47.922891,-97.0768014
+University of Northern Colorado, CO 80639,40.4032798,-104.7002313
+University of Notre Dame, IN 46556,41.7055716,-86.2353388
+University of Oregon, OR 97403,44.0448302,-123.0726055
+University of Pennsylvania, PA 19104,39.9522188,-75.1932137
+University of Pittsburgh, PA 15260,40.4443533,-79.960835
+University of Richmond, VA 23173,37.5751669,-77.5407146
+University of South Carolina-Columbia, SC 29208,33.9937575,-81.0299186
+University of South Florida, FL 33620,28.0587031,-82.4138539
+University of Southern Indiana, IN 47712,37.9582437,-87.6746938
+University of Tennessee Knoxville, TN 37996,35.9544013,-83.9294564
+University of Texas at Arlington, TX 76019,32.7291229,-97.1120914
+University of Texas at Austin, TX 78712,30.2849185,-97.7340567
+University of the Pacific, CA 95211,37.9798869,-121.3128577
+University of Utah, UT 84112,40.7649368,-111.8421021
+University of Vermont, VT 05405,44.4778528,-73.1964637
+University of Washington, WA 98195,47.6553351,-122.3035199
+University of Wisconsin-Madison, WI,43.076592,-89.4124875
+University of Wyoming, WY 82071,41.3148754,-105.5665744
+Upper Iowa University, IA 52142,42.8410079,-91.7998459
+Utah State University, UT 84322,41.745161,-111.8097425
+Virginia Commonwealth University, VA 23284,37.5483122,-77.4526805
+Virginia Polytechnich Institute and State University, VA 24061,37.2283843,-80.4234167
+Washington and Jefferson College, PA 15301,40.1706389,-80.2402969
+Washington College, MD 21620,39.2180241,-76.0692262
+Washington State University, WA,46.7319225,-117.1542121
+Washington University in St. Louis, MO 63130,38.6487895,-90.3107962
+Wesley College, DE 19901,39.163227,-75.527717
+West Virginia Wesleyan College, WV 26201,38.990005,-80.2196586
+Western Carolina University, NC 28723,35.3093802,-83.1844221
+Western Kentucky University, KY 42101,36.983537,-86.4573752
+Western Washington University, WA 98225,48.7342877,-122.4866103
+Westminster College, UT 84105,40.7322206,-111.8549815
+Whitworth College, WA 99251,47.7548728,-117.4178623
+Wittenberg University, OH 45504,39.9357509,-83.8141833
