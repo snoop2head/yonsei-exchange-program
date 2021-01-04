@@ -1,0 +1,77 @@
+Price_Rank,Country,City,Price_in_USD
+1,Denmark,Copenhagen,6.05
+2,Switzerland,Aarau,5.94
+3,Finland,Vantaa,5.40
+4,Macau,Macau,5.21
+5,Luxembourg,Luxembourg,5.18
+6,Norway,Oslo,5.14
+7,Hong Kong,Hong Kong,4.60
+8,Singapore,Singapore,4.50
+9,Germany,Munich,4.39
+10,Russia,Moscow,4.35
+11,Belgium,Leuven,4.35
+11,Monaco,Monaco,4.35
+13,Sweden,Stockholm,4.34
+14,Curacao,Willemstad,4.34
+15,Lebanon,"Mount Lebanon, Jbeil District",4.31
+16,United States,New York City,4.30
+17,France,Paris,4.30
+18,United Arab Emirates,Dubai,4.29
+19,Kuwait,Al Jahra,4.27
+20,Bahrain,Manama,4.20
+21,The Bahamas,Nassau,4.20
+22,Austria,Wien (Vienna),4.13
+23,Qatar,Doha,4.12
+24,Oman,Muscat,4.11
+25,Jordan,Amman,4.09
+26,China,Shanghai,4.08
+27,Netherlands,Eindhoven,4.07
+28,Cyprus,Nicosia,4.02
+29,Panama,Panama City,3.95
+30,Chile,Santiago,3.91
+31,Ireland,Dublin,3.91
+32,South Korea,Seoul,3.88
+33,Greece,Athens,3.85
+34,Taiwan,Hsinchu City,3.85
+35,Uruguay,Montevideo,3.84
+36,Japan,Tokyo,3.79
+37,Thailand,Bangkok,3.76
+38,Saudi Arabia,Riyadh,3.73
+39,Costa Rica,San Jose,3.64
+40,Brunei,Bandar Seri Begawan,3.63
+41,United Kingdom,London,3.58
+42,Trinidad and Tobago,Trincity,3.40
+43,Jamaica,Montego Bay,3.31
+44,India,New Delhi,3.30
+45,New Zealand,Wellington,3.28
+46,El Salvador,San Salvador,3.25
+47,Andorra,Andorra la Vella,3.19
+47,Spain,Madrid (outskirts),3.19
+49,Kazakhstan,Almaty,3.19
+50,Canada,Toronto,3.15
+51,Indonesia,Jakarta (outskirts),3.13
+52,Australia,Sydney,3.09
+53,Slovakia,Bratislava,3.08
+54,Malaysia,Seri Kembangan,3.04
+55,Poland,Warsaw,3.02
+56,Vietnam,Ho Chi Minh City,3.02
+57,Cambodia,Phnom Penh,2.95
+58,Czech Republic,Prague,2.94
+59,Bolivia,Santa Cruz,2.90
+60,Azerbaijan,Baku,2.89
+61,Guatemala,Guatemala City,2.86
+62,Romania,Bucharest,2.77
+63,Italy,Milan,2.75
+63,Portugal,Lisbon,2.75
+65,Peru,Lima,2.70
+66,Morocco,Casablanca,2.69
+67,Philippines,Quezon City,2.69
+68,Hungary,Budapest,2.62
+69,Brazil,São Paulo,2.43
+70,Bulgaria,Sofia,2.20
+71,South Africa,Johannesburg,2.18
+72,Mexico,Mexico City,2.15
+73,Argentina,Buenos Aires,2.14
+74,Colombia,Bogota,2.04
+75,Egypt,Cairo (outskirts),1.95
+76,Turkey,Istanbul,1.78
