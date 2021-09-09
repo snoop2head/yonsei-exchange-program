@@ -1,6 +1,6 @@
 # Yonsei Exchange Universities Analysis
 
-[![Blog](https://img.shields.io/badge/%F0%9F%9A%80Website-yonsei.exchange-blueviolet?style=for-the-badge&link=https://yonsei-exchange.netlify.app/)](https://yonsei-exchange.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/c2c235f1-dbde-4a20-a5df-48b183c98f9b/deploy-status)](https://app.netlify.com/sites/frosty-almeida-dbdee0/deploys)
+[![Blog](https://img.shields.io/badge/%F0%9F%9A%80Website-yonsei.exchange-blueviolet?style=for-the-badge&link=https://yonsei-exchange.netlify.app/)](https://yonsei-exchange.netlify.app/)
 
 **Text Analysis for the source of [yonsei.exchange website](https://yonsei-exchange.netlify.app/)**
 
@@ -23,8 +23,8 @@
 
 ## II. Sentiment Analysis for Foreign Universities
 
-* [Labeling with BERT model trained with NSMC Corpus](https://colab.research.google.com/github/snoop2head/yonsei-exchange-program/blob/master/analyze_BERT_nsmc.ipynb)
-* [Labeling with RNN trained with NSMC Corpus](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/analyze_RNN.ipynb)
+* [Labeling with RNN trained with NSMC Corpus](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/sentiment_analyze_RNN.ipynb)
+* [Labeling with BERT model trained with NSMC Corpus](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/sentiment_BERT_nsmc.ipynb)
 
 교환 후기 제목들을 갖고 만족도를 BERT와 RNN으로 Labeling했다. 1이 긍정, 0이 부정 혹은 중립을 의미한다.
 
@@ -35,6 +35,8 @@
 **Example 2: The University of Hong Kong (Hong Kong)**
 
 ![image-20200817135457346](./img/image-20200817135457346.png)
+
+위의 예시들에서 확인할 수 있듯이, 다소 딱딱하고 중립적인 후기 제목들과 밝고 긍정적인 후기 제목들의 모델 예측 라벨이 다르다.
 
 ## III. Extracting Keywords from Reviews of Universities
 
@@ -64,7 +66,9 @@
 * `어둡고 추운 겨울을 견디고 오는 코펜하겐의 봄, 여름 날씨는 환상적입니다. `
 * `코펜하겐 대학은 캠퍼스가 아닙니다.`
 
-## Explaning Datasets in data_wrangled Folder
+---
+
+## Datasets in data_wrangled Folder
 
 * [Collected using collect_reviews.ipynb](http://nbviewer.jupyter.org/github/snoop2head/yonsei-exchange-program/blob/master/collect_reviews.ipynb)
 * 2020년 8월 기준 총 11200여 건의 리뷰데이터들을 모아놓음. 연세대 학생들은 해외 교환 대학에서 복귀한 직후 의무적으로 후기를 작성해왔음. 각 해외 파견 대학들의 연세대 학생 리뷰 텍스트 데이터를 정리함. 
